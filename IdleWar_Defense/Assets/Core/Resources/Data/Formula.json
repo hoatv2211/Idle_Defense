@@ -1,0 +1,42 @@
+[
+	{
+		"stat":"a",
+		"formula":5
+	},
+	{
+		"stat":"bonusDamageFormationByElement",
+		"formula":20
+	},
+	{
+		"stat":"realDamage",
+		"formula":"damageAttacker - armorTarget * a"
+	},
+	{
+		"stat":"criticalDamage",
+		"formula":"realDamage * critDamage / 100"
+	},
+	{
+		"stat":"power",
+		"formula":"(HP / 10 + damage * attackSpeed + armor * a + critRate + accuracy + dodge + critDamage / 10) * 10"
+	},
+	{
+		"stat":"powerGear",
+		"formula":"(HP / 10 + damage + attackSpeed * 10 + armor * a + critRate + accuracy + dodge + critDamage / 10) * 10"
+	},
+	{
+		"stat":"elementDamage",
+		"formula":"criticalDamage * elementRate / 100"
+	},
+	{
+		"stat":"stat",
+		"formula":"statBase + statAdd * (level - 1)"
+	},
+	{
+		"stat":"xSpeed",
+		"formula":6
+	},
+	{
+		"stat":"percentOutRangeDamage",
+		"formula":50
+	}
+]

@@ -1,0 +1,160 @@
+
+franky_main.png
+size: 1272,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao1
+  rotate: true
+  xy: 559, 41
+  size: 79, 160
+  orig: 79, 160
+  offset: 0, 0
+  index: -1
+ao2
+  rotate: true
+  xy: 2, 5
+  size: 115, 185
+  orig: 115, 185
+  offset: 0, 0
+  index: -1
+bang
+  rotate: false
+  xy: 403, 17
+  size: 68, 27
+  orig: 70, 29
+  offset: 1, 1
+  index: -1
+bantayphai
+  rotate: true
+  xy: 395, 46
+  size: 74, 97
+  orig: 75, 97
+  offset: 1, 0
+  index: -1
+chan
+  rotate: false
+  xy: 665, 193
+  size: 262, 329
+  orig: 262, 329
+  offset: 0, 0
+  index: -1
+co
+  rotate: true
+  xy: 494, 50
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+dan
+  rotate: false
+  xy: 2, 122
+  size: 661, 400
+  orig: 663, 402
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 1165, 242
+  size: 91, 95
+  orig: 91, 95
+  offset: 0, 0
+  index: -1
+day1
+  rotate: false
+  xy: 189, 43
+  size: 204, 77
+  orig: 204, 77
+  offset: 0, 0
+  index: -1
+day2
+  rotate: true
+  xy: 189, 8
+  size: 33, 212
+  orig: 33, 212
+  offset: 0, 0
+  index: -1
+giayphai
+  rotate: true
+  xy: 721, 20
+  size: 171, 203
+  orig: 171, 203
+  offset: 0, 0
+  index: -1
+giaytrai
+  rotate: true
+  xy: 929, 313
+  size: 209, 195
+  orig: 209, 195
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 529, 23
+  size: 20, 25
+  orig: 27, 32
+  offset: 3, 5
+  index: -1
+mat
+  rotate: false
+  xy: 473, 23
+  size: 54, 21
+  orig: 56, 23
+  offset: 1, 1
+  index: -1
+matnham
+  rotate: false
+  xy: 403, 2
+  size: 54, 13
+  orig: 56, 15
+  offset: 1, 1
+  index: -1
+may
+  rotate: false
+  xy: 473, 3
+  size: 53, 18
+  orig: 55, 20
+  offset: 1, 1
+  index: -1
+mieng
+  rotate: false
+  xy: 528, 5
+  size: 38, 16
+  orig: 40, 18
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: false
+  xy: 1126, 339
+  size: 138, 183
+  orig: 138, 183
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 1107, 25
+  size: 168, 161
+  orig: 168, 161
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 926, 10
+  size: 179, 181
+  orig: 179, 181
+  offset: 0, 0
+  index: -1
+tocsau
+  rotate: true
+  xy: 929, 196
+  size: 115, 135
+  orig: 115, 135
+  offset: 0, 0
+  index: -1
+toctrc
+  rotate: true
+  xy: 1066, 195
+  size: 116, 97
+  orig: 116, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,419 @@
+
+sam_main.png
+size: 1972,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bantayphai
+  rotate: false
+  xy: 1927, 69
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+2/bantaytrai
+  rotate: false
+  xy: 1927, 69
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+1/chan
+  rotate: true
+  xy: 1180, 45
+  size: 179, 151
+  orig: 179, 151
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: true
+  xy: 1665, 258
+  size: 111, 116
+  orig: 111, 116
+  offset: 0, 0
+  index: -1
+1/daugiao
+  rotate: false
+  xy: 1545, 8
+  size: 112, 243
+  orig: 112, 243
+  offset: 0, 0
+  index: -1
+1/daysau1
+  rotate: true
+  xy: 1665, 404
+  size: 118, 104
+  orig: 118, 104
+  offset: 0, 0
+  index: -1
+1/daysau2
+  rotate: false
+  xy: 1508, 253
+  size: 98, 269
+  orig: 98, 269
+  offset: 0, 0
+  index: -1
+1/daytruoc
+  rotate: true
+  xy: 940, 24
+  size: 191, 238
+  orig: 191, 238
+  offset: 0, 0
+  index: -1
+1/duoigiao
+  rotate: true
+  xy: 789, 179
+  size: 36, 100
+  orig: 36, 100
+  offset: 0, 0
+  index: -1
+1/giao
+  rotate: false
+  xy: 774, 189
+  size: 13, 333
+  orig: 13, 333
+  offset: 0, 0
+  index: -1
+1/mat
+  rotate: false
+  xy: 891, 198
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+1/mat1
+  rotate: true
+  xy: 211, 4
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+1/matnham
+  rotate: false
+  xy: 899, 13
+  size: 47, 9
+  orig: 47, 9
+  offset: 0, 0
+  index: -1
+1/taymo
+  rotate: false
+  xy: 2, 4
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+1/tayphai
+  rotate: false
+  xy: 1899, 284
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 636, 119
+  size: 100, 58
+  orig: 108, 58
+  offset: 8, 0
+  index: -1
+1/than
+  rotate: true
+  xy: 308, 10
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+1/vatao
+  rotate: true
+  xy: 1883, 225
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+1/vong
+  rotate: false
+  xy: 989, 226
+  size: 293, 296
+  orig: 293, 296
+  offset: 0, 0
+  index: -1
+2/chan
+  rotate: true
+  xy: 1333, 48
+  size: 179, 151
+  orig: 179, 151
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: true
+  xy: 1783, 286
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+2/daugiao
+  rotate: false
+  xy: 1659, 14
+  size: 113, 242
+  orig: 113, 242
+  offset: 0, 0
+  index: -1
+2/day1
+  rotate: false
+  xy: 741, 11
+  size: 156, 166
+  orig: 156, 166
+  offset: 0, 0
+  index: -1
+2/day2
+  rotate: true
+  xy: 458, 3
+  size: 104, 281
+  orig: 104, 281
+  offset: 0, 0
+  index: -1
+2/duoigiao
+  rotate: true
+  xy: 1288, 2
+  size: 41, 104
+  orig: 41, 104
+  offset: 0, 0
+  index: -1
+2/giao
+  rotate: false
+  xy: 418, 149
+  size: 13, 373
+  orig: 13, 373
+  offset: 0, 0
+  index: -1
+2/giapvai
+  rotate: false
+  xy: 1394, 2
+  size: 92, 44
+  orig: 92, 44
+  offset: 0, 0
+  index: -1
+2/mat3
+  rotate: true
+  xy: 433, 152
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+2/tayphai
+  rotate: true
+  xy: 1883, 166
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: true
+  xy: 383, 10
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+2/vatao1
+  rotate: false
+  xy: 1488, 4
+  size: 55, 234
+  orig: 55, 234
+  offset: 0, 0
+  index: -1
+2/vatao2
+  rotate: false
+  xy: 1608, 258
+  size: 55, 264
+  orig: 55, 264
+  offset: 0, 0
+  index: -1
+2/vong
+  rotate: false
+  xy: 433, 179
+  size: 339, 343
+  orig: 339, 343
+  offset: 0, 0
+  index: -1
+3/bantaytrai
+  rotate: false
+  xy: 1927, 117
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+3/chan
+  rotate: false
+  xy: 1774, 371
+  size: 179, 151
+  orig: 179, 151
+  offset: 0, 0
+  index: -1
+3/dau
+  rotate: true
+  xy: 1774, 103
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+3/daugiao
+  rotate: false
+  xy: 1284, 229
+  size: 118, 293
+  orig: 118, 293
+  offset: 0, 0
+  index: -1
+3/day
+  rotate: true
+  xy: 789, 217
+  size: 305, 198
+  orig: 305, 198
+  offset: 0, 0
+  index: -1
+3/duoigiao
+  rotate: true
+  xy: 1180, 2
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+3/giao
+  rotate: false
+  xy: 403, 108
+  size: 13, 414
+  orig: 13, 414
+  offset: 0, 0
+  index: -1
+3/giapvai
+  rotate: false
+  xy: 78, 5
+  size: 131, 68
+  orig: 131, 68
+  offset: 0, 0
+  index: -1
+3/mat
+  rotate: false
+  xy: 891, 179
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+3/mat1
+  rotate: false
+  xy: 648, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+3/mat3
+  rotate: true
+  xy: 448, 153
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+3/mat4
+  rotate: false
+  xy: 636, 109
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+3/tayphai
+  rotate: false
+  xy: 1868, 17
+  size: 57, 84
+  orig: 57, 84
+  offset: 0, 0
+  index: -1
+3/than
+  rotate: true
+  xy: 467, 114
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+3/vatao1
+  rotate: false
+  xy: 1404, 237
+  size: 49, 285
+  orig: 49, 285
+  offset: 0, 0
+  index: -1
+3/vatao2
+  rotate: false
+  xy: 1455, 240
+  size: 51, 282
+  orig: 51, 282
+  offset: 0, 0
+  index: -1
+3/vong
+  rotate: false
+  xy: 2, 75
+  size: 399, 447
+  orig: 399, 447
+  offset: 0, 0
+  index: -1
+3/vong1
+  rotate: false
+  xy: 418, 109
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+3/vong2
+  rotate: true
+  xy: 403, 76
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+3/vong3
+  rotate: true
+  xy: 899, 140
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Layer-2
+  rotate: false
+  xy: 1870, 113
+  size: 51, 51
+  orig: 60, 60
+  offset: 4, 5
+  index: -1
+banh1
+  rotate: true
+  xy: 1783, 188
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+banh2
+  rotate: false
+  xy: 1774, 8
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+banhgiua
+  rotate: false
+  xy: 433, 82
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+banhxe1
+  rotate: true
+  xy: 211, 9
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+banhxe2
+  rotate: true
+  xy: 542, 116
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1

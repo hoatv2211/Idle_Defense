@@ -1,0 +1,118 @@
+
+xemesis_ingame.png
+size: 252,860
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/chanphai
+  rotate: false
+  xy: 178, 786
+  size: 72, 71
+  orig: 74, 73
+  offset: 1, 1
+  index: -1
+1/chantrai
+  rotate: true
+  xy: 178, 644
+  size: 67, 71
+  orig: 69, 73
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: false
+  xy: 2, 2
+  size: 128, 117
+  orig: 130, 119
+  offset: 1, 1
+  index: -1
+1/tayphai
+  rotate: false
+  xy: 162, 520
+  size: 85, 122
+  orig: 85, 122
+  offset: 0, 0
+  index: -1
+1/tayphai2
+  rotate: false
+  xy: 2, 326
+  size: 144, 103
+  orig: 144, 103
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: true
+  xy: 2, 550
+  size: 134, 158
+  orig: 134, 158
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: true
+  xy: 148, 98
+  size: 131, 98
+  orig: 133, 100
+  offset: 1, 1
+  index: -1
+1/vaitrai
+  rotate: true
+  xy: 158, 448
+  size: 70, 84
+  orig: 72, 86
+  offset: 1, 1
+  index: -1
+2/chanphai
+  rotate: false
+  xy: 178, 713
+  size: 72, 71
+  orig: 74, 73
+  offset: 1, 1
+  index: -1
+2/chantrai
+  rotate: true
+  xy: 132, 29
+  size: 67, 71
+  orig: 69, 73
+  offset: 1, 1
+  index: -1
+2/dau
+  rotate: false
+  xy: 2, 431
+  size: 154, 117
+  orig: 156, 119
+  offset: 1, 1
+  index: -1
+2/tayphai
+  rotate: false
+  xy: 158, 333
+  size: 83, 113
+  orig: 86, 115
+  offset: 1, 1
+  index: -1
+2/tayphai2
+  rotate: false
+  xy: 2, 221
+  size: 144, 103
+  orig: 144, 103
+  offset: 0, 0
+  index: -1
+2/taytrai
+  rotate: false
+  xy: 2, 686
+  size: 174, 171
+  orig: 178, 171
+  offset: 2, 0
+  index: -1
+2/than
+  rotate: false
+  xy: 2, 121
+  size: 131, 98
+  orig: 133, 100
+  offset: 1, 1
+  index: -1
+2/vaitrai
+  rotate: false
+  xy: 148, 231
+  size: 102, 100
+  orig: 104, 103
+  offset: 1, 1
+  index: -1

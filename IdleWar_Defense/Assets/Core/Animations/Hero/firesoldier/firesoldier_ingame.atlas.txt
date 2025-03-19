@@ -1,0 +1,62 @@
+
+firesoldier_ingame.png
+size: 372,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+binh
+  rotate: false
+  xy: 269, 2
+  size: 62, 110
+  orig: 62, 110
+  offset: 0, 0
+  index: -1
+chanphai
+  rotate: true
+  xy: 291, 251
+  size: 62, 72
+  orig: 64, 74
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: true
+  xy: 291, 184
+  size: 65, 71
+  orig: 67, 73
+  offset: 1, 1
+  index: -1
+day
+  rotate: false
+  xy: 2, 25
+  size: 152, 288
+  orig: 152, 288
+  offset: 0, 0
+  index: -1
+mu
+  rotate: true
+  xy: 156, 196
+  size: 117, 133
+  orig: 119, 135
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 273, 114
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 156, 125
+  size: 69, 115
+  orig: 69, 116
+  offset: 0, 1
+  index: -1
+than
+  rotate: false
+  xy: 156, 32
+  size: 111, 91
+  orig: 113, 93
+  offset: 1, 1
+  index: -1

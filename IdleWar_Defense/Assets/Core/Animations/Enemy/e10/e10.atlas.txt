@@ -1,0 +1,125 @@
+
+e10.png
+size: 208,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse-1
+  rotate: false
+  xy: 2, 43
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+chan1
+  rotate: false
+  xy: 157, 236
+  size: 46, 81
+  orig: 46, 81
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: false
+  xy: 157, 153
+  size: 46, 81
+  orig: 46, 81
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 2, 207
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+day1
+  rotate: false
+  xy: 155, 106
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+day2
+  rotate: true
+  xy: 157, 378
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 308
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 205, 316
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: true
+  xy: 157, 319
+  size: 57, 48
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: true
+  xy: 83, 51
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+tay3
+  rotate: false
+  xy: 112, 221
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+tay4
+  rotate: false
+  xy: 91, 94
+  size: 61, 38
+  orig: 61, 39
+  offset: 0, 1
+  index: -1
+tay5
+  rotate: true
+  xy: 83, 11
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+tay6
+  rotate: false
+  xy: 112, 134
+  size: 41, 85
+  orig: 41, 85
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 124
+  size: 81, 87
+  orig: 83, 89
+  offset: 1, 1
+  index: -1
+vai1
+  rotate: true
+  xy: 154, 50
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+vai2
+  rotate: false
+  xy: 151, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1

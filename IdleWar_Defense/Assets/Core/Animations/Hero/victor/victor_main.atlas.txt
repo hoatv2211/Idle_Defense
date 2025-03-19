@@ -1,0 +1,181 @@
+
+victor_main.png
+size: 1064,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantayphai
+  rotate: true
+  xy: 942, 20
+  size: 65, 54
+  orig: 67, 56
+  offset: 1, 1
+  index: -1
+bantaytrai
+  rotate: false
+  xy: 998, 31
+  size: 64, 54
+  orig: 66, 56
+  offset: 1, 1
+  index: -1
+chanphai
+  rotate: false
+  xy: 657, 121
+  size: 58, 132
+  orig: 60, 134
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: true
+  xy: 495, 2
+  size: 59, 132
+  orig: 61, 134
+  offset: 1, 1
+  index: -1
+cong
+  rotate: true
+  xy: 480, 63
+  size: 190, 49
+  orig: 192, 51
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 717, 130
+  size: 113, 123
+  orig: 115, 125
+  offset: 1, 1
+  index: -1
+giayphai
+  rotate: false
+  xy: 937, 150
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+giaytrai
+  rotate: true
+  xy: 832, 135
+  size: 118, 103
+  orig: 118, 103
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 340, 4
+  size: 29, 32
+  orig: 31, 34
+  offset: 1, 1
+  index: -1
+matden
+  rotate: true
+  xy: 350, 39
+  size: 6, 11
+  orig: 8, 13
+  offset: 1, 1
+  index: -1
+matnham
+  rotate: false
+  xy: 245, 3
+  size: 31, 21
+  orig: 33, 23
+  offset: 1, 1
+  index: -1
+meo/dau
+  rotate: true
+  xy: 864, 6
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+meo/duoi
+  rotate: false
+  xy: 371, 6
+  size: 103, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+meo/mat
+  rotate: false
+  xy: 308, 4
+  size: 30, 32
+  orig: 32, 34
+  offset: 1, 1
+  index: -1
+meo/matnham
+  rotate: false
+  xy: 278, 4
+  size: 28, 20
+  orig: 30, 22
+  offset: 1, 1
+  index: -1
+meo/matvang
+  rotate: true
+  xy: 476, 27
+  size: 18, 17
+  orig: 20, 19
+  offset: 1, 1
+  index: -1
+meo/mom
+  rotate: true
+  xy: 476, 8
+  size: 17, 15
+  orig: 19, 17
+  offset: 1, 1
+  index: -1
+meo/than
+  rotate: false
+  xy: 749, 10
+  size: 113, 118
+  orig: 113, 118
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 2, 5
+  size: 248, 241
+  orig: 248, 241
+  offset: 0, 0
+  index: -1
+romom
+  rotate: false
+  xy: 629, 11
+  size: 118, 65
+  orig: 120, 67
+  offset: 1, 1
+  index: -1
+romomsau
+  rotate: false
+  xy: 937, 87
+  size: 112, 61
+  orig: 114, 63
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: false
+  xy: 245, 26
+  size: 55, 227
+  orig: 55, 227
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 302, 38
+  size: 46, 215
+  orig: 46, 215
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 350, 47
+  size: 128, 206
+  orig: 128, 206
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 531, 78
+  size: 175, 124
+  orig: 175, 124
+  offset: 0, 0
+  index: -1

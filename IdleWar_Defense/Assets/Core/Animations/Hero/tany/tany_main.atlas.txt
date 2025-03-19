@@ -1,0 +1,251 @@
+
+tany_main.png
+size: 1892,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/aophai
+  rotate: false
+  xy: 201, 48
+  size: 198, 545
+  orig: 198, 545
+  offset: 0, 0
+  index: -1
+1/aotrai
+  rotate: false
+  xy: 692, 128
+  size: 289, 465
+  orig: 289, 465
+  offset: 0, 0
+  index: -1
+1/bantayphai
+  rotate: true
+  xy: 1667, 44
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+1/chan
+  rotate: false
+  xy: 1141, 255
+  size: 156, 338
+  orig: 156, 338
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: true
+  xy: 506, 8
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+1/daugoi
+  rotate: false
+  xy: 1821, 400
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+1/giap
+  rotate: true
+  xy: 594, 12
+  size: 90, 127
+  orig: 90, 127
+  offset: 0, 0
+  index: -1
+2/giap
+  rotate: true
+  xy: 594, 12
+  size: 90, 127
+  orig: 90, 127
+  offset: 0, 0
+  index: -1
+1/giayphai
+  rotate: true
+  xy: 1117, 4
+  size: 127, 137
+  orig: 127, 137
+  offset: 0, 0
+  index: -1
+1/giaytrai
+  rotate: false
+  xy: 1105, 133
+  size: 159, 119
+  orig: 159, 119
+  offset: 0, 0
+  index: -1
+1/kinh
+  rotate: true
+  xy: 201, 7
+  size: 39, 25
+  orig: 41, 27
+  offset: 1, 1
+  index: -1
+1/may1
+  rotate: true
+  xy: 1815, 54
+  size: 83, 69
+  orig: 85, 71
+  offset: 1, 1
+  index: -1
+1/may2
+  rotate: true
+  xy: 1620, 490
+  size: 103, 246
+  orig: 103, 246
+  offset: 0, 0
+  index: -1
+1/sung
+  rotate: true
+  xy: 1412, 2
+  size: 256, 253
+  orig: 256, 253
+  offset: 0, 0
+  index: -1
+1/tai
+  rotate: false
+  xy: 343, 17
+  size: 21, 29
+  orig: 23, 31
+  offset: 1, 1
+  index: -1
+1/tayphai1
+  rotate: true
+  xy: 1667, 225
+  size: 89, 147
+  orig: 91, 149
+  offset: 1, 1
+  index: -1
+1/tayphai2
+  rotate: false
+  xy: 1667, 403
+  size: 152, 85
+  orig: 154, 87
+  offset: 1, 1
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 1815, 139
+  size: 72, 83
+  orig: 74, 85
+  offset: 1, 1
+  index: -1
+1/than
+  rotate: true
+  xy: 723, 2
+  size: 124, 195
+  orig: 124, 195
+  offset: 0, 0
+  index: -1
+1/toc
+  rotate: false
+  xy: 983, 128
+  size: 120, 124
+  orig: 120, 124
+  offset: 0, 0
+  index: -1
+1/vaiphai
+  rotate: false
+  xy: 228, 9
+  size: 82, 37
+  orig: 84, 39
+  offset: 1, 1
+  index: -1
+2/aophai
+  rotate: false
+  xy: 2, 14
+  size: 197, 579
+  orig: 197, 579
+  offset: 0, 0
+  index: -1
+2/aotrai
+  rotate: false
+  xy: 401, 104
+  size: 289, 489
+  orig: 289, 489
+  offset: 0, 0
+  index: -1
+2/bantayphai
+  rotate: true
+  xy: 1736, 44
+  size: 88, 67
+  orig: 88, 67
+  offset: 0, 0
+  index: -1
+2/chan
+  rotate: false
+  xy: 983, 254
+  size: 156, 339
+  orig: 156, 339
+  offset: 0, 0
+  index: -1
+2/daugoi
+  rotate: false
+  xy: 1821, 310
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+2/may2
+  rotate: false
+  xy: 1266, 7
+  size: 144, 246
+  orig: 144, 246
+  offset: 0, 0
+  index: -1
+2/sung
+  rotate: false
+  xy: 1299, 260
+  size: 319, 333
+  orig: 319, 333
+  offset: 0, 0
+  index: -1
+2/tayphai1
+  rotate: true
+  xy: 1667, 134
+  size: 89, 146
+  orig: 91, 148
+  offset: 1, 1
+  index: -1
+2/tayphai2
+  rotate: false
+  xy: 1667, 316
+  size: 152, 85
+  orig: 154, 87
+  offset: 1, 1
+  index: -1
+2/taytrai
+  rotate: false
+  xy: 1816, 224
+  size: 72, 84
+  orig: 74, 86
+  offset: 1, 1
+  index: -1
+2/than
+  rotate: true
+  xy: 920, 2
+  size: 124, 195
+  orig: 124, 195
+  offset: 0, 0
+  index: -1
+2/vaiphai
+  rotate: true
+  xy: 418, 2
+  size: 100, 86
+  orig: 102, 88
+  offset: 1, 1
+  index: -1
+Layer-1
+  rotate: false
+  xy: 312, 17
+  size: 29, 29
+  orig: 39, 39
+  offset: 5, 6
+  index: -1
+shine
+  rotate: true
+  xy: 366, 31
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1

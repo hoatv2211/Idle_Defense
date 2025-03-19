@@ -1,0 +1,74 @@
+[
+	{
+		"id":1,
+		"rewardTypes":[1],
+		"rewardIds":[2],
+		"rewardValues":[100],
+		"description":"Chapter mission {0}: Complete chapter {0}",
+		"values":[1],
+		"valueFormula":1
+	},
+	{
+		"id":2,
+		"rewardTypes":[1],
+		"rewardIds":[2],
+		"rewardValues":[150],
+		"description":"Senior summon {0} time",
+		"values":[5,10,20,50],
+		"valueFormula":"(level - 4) * 100"
+	},
+	{
+		"id":3,
+		"rewardTypes":[1],
+		"rewardIds":[2],
+		"rewardValues":[100],
+		"description":"Summon S rank",
+		"values":[1,5,10,20],
+		"valueFormula":"(level - 4) * 50"
+	},
+	{
+		"id":4,
+		"rewardTypes":[1],
+		"rewardIds":[2],
+		"rewardValues":[150],
+		"description":"Summon SS rank",
+		"values":[1],
+		"valueFormula":"level"
+	},
+	{
+		"id":5,
+		"rewardTypes":[1],
+		"rewardIds":[2],
+		"rewardValues":[50],
+		"description":"Kill boss {0} times",
+		"values":[5,10,20,50],
+		"valueFormula":"(level - 4) * 50"
+	},
+	{
+		"id":6,
+		"rewardTypes":[1],
+		"rewardIds":[2],
+		"rewardValues":[50],
+		"description":"Have {0} gear S rank",
+		"values":[1,5,10,20,50],
+		"valueFormula":"(level - 5) * 100"
+	},
+	{
+		"id":7,
+		"rewardTypes":[1],
+		"rewardIds":[2],
+		"rewardValues":[100],
+		"description":"Have {0} gear SS rank",
+		"values":[1],
+		"valueFormula":"2 ^ (level - 1)"
+	},
+	{
+		"id":8,
+		"rewardTypes":[1],
+		"rewardIds":[2],
+		"rewardValues":[50],
+		"description":"Spin {0} time in wheel",
+		"values":[1,5,10,20,50],
+		"valueFormula":"(level - 5) * 100"
+	}
+]

@@ -1,0 +1,300 @@
+
+east_main.png
+size: 1096,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bantayphai
+  rotate: false
+  xy: 264, 2
+  size: 94, 63
+  orig: 96, 65
+  offset: 1, 1
+  index: -1
+2/bantayphai
+  rotate: false
+  xy: 264, 2
+  size: 94, 63
+  orig: 96, 65
+  offset: 1, 1
+  index: -1
+1/chan
+  rotate: false
+  xy: 2, 139
+  size: 465, 444
+  orig: 465, 444
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: true
+  xy: 858, 111
+  size: 105, 115
+  orig: 105, 115
+  offset: 0, 0
+  index: -1
+1/khien
+  rotate: true
+  xy: 470, 779
+  size: 251, 458
+  orig: 253, 460
+  offset: 1, 1
+  index: -1
+1/longmay1
+  rotate: false
+  xy: 930, 783
+  size: 29, 22
+  orig: 31, 24
+  offset: 1, 1
+  index: -1
+1/longmay2
+  rotate: false
+  xy: 697, 146
+  size: 28, 22
+  orig: 30, 24
+  offset: 1, 1
+  index: -1
+1/matnham1
+  rotate: false
+  xy: 975, 114
+  size: 22, 10
+  orig: 24, 12
+  offset: 1, 1
+  index: -1
+2/matnham1
+  rotate: false
+  xy: 975, 114
+  size: 22, 10
+  orig: 24, 12
+  offset: 1, 1
+  index: -1
+1/matnham2
+  rotate: false
+  xy: 2, 6
+  size: 23, 10
+  orig: 25, 12
+  offset: 1, 1
+  index: -1
+2/matnham2
+  rotate: false
+  xy: 2, 6
+  size: 23, 10
+  orig: 25, 12
+  offset: 1, 1
+  index: -1
+1/matphai
+  rotate: false
+  xy: 1009, 32
+  size: 22, 10
+  orig: 24, 12
+  offset: 1, 1
+  index: -1
+1/matphai2
+  rotate: true
+  xy: 921, 518
+  size: 7, 6
+  orig: 9, 8
+  offset: 1, 1
+  index: -1
+1/mattrai
+  rotate: false
+  xy: 929, 17
+  size: 23, 10
+  orig: 25, 12
+  offset: 1, 1
+  index: -1
+1/mattrai2
+  rotate: true
+  xy: 921, 512
+  size: 4, 6
+  orig: 6, 8
+  offset: 1, 1
+  index: -1
+1/may
+  rotate: false
+  xy: 264, 67
+  size: 193, 70
+  orig: 193, 70
+  offset: 0, 0
+  index: -1
+1/mayxuc
+  rotate: true
+  xy: 930, 807
+  size: 223, 164
+  orig: 223, 164
+  offset: 0, 0
+  index: -1
+1/tayphai
+  rotate: true
+  xy: 697, 7
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 929, 29
+  size: 78, 80
+  orig: 80, 82
+  offset: 1, 1
+  index: -1
+1/taytrai2
+  rotate: true
+  xy: 469, 170
+  size: 118, 260
+  orig: 118, 260
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: false
+  xy: 469, 290
+  size: 224, 235
+  orig: 224, 235
+  offset: 0, 0
+  index: -1
+1/vaiphai
+  rotate: false
+  xy: 975, 126
+  size: 86, 90
+  orig: 88, 92
+  offset: 1, 1
+  index: -1
+2/vaiphai
+  rotate: false
+  xy: 975, 126
+  size: 86, 90
+  orig: 88, 92
+  offset: 1, 1
+  index: -1
+1/vaitrai
+  rotate: true
+  xy: 469, 2
+  size: 166, 137
+  orig: 166, 137
+  offset: 0, 0
+  index: -1
+2/chan
+  rotate: false
+  xy: 2, 585
+  size: 466, 445
+  orig: 466, 445
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: true
+  xy: 731, 111
+  size: 105, 125
+  orig: 105, 125
+  offset: 0, 0
+  index: -1
+2/khien
+  rotate: true
+  xy: 470, 527
+  size: 250, 457
+  orig: 252, 459
+  offset: 1, 1
+  index: -1
+2/khoacphai
+  rotate: true
+  xy: 921, 325
+  size: 87, 154
+  orig: 87, 154
+  offset: 0, 0
+  index: -1
+2/khoactrai
+  rotate: false
+  xy: 608, 13
+  size: 87, 155
+  orig: 87, 156
+  offset: 0, 1
+  index: -1
+2/longmay1
+  rotate: false
+  xy: 921, 301
+  size: 29, 22
+  orig: 31, 24
+  offset: 1, 1
+  index: -1
+2/longmay2
+  rotate: false
+  xy: 360, 10
+  size: 28, 22
+  orig: 30, 24
+  offset: 1, 1
+  index: -1
+2/matphai
+  rotate: false
+  xy: 396, 55
+  size: 22, 10
+  orig: 24, 12
+  offset: 1, 1
+  index: -1
+2/matphai2
+  rotate: false
+  xy: 360, 2
+  size: 7, 6
+  orig: 9, 8
+  offset: 1, 1
+  index: -1
+2/mattrai
+  rotate: true
+  xy: 1077, 389
+  size: 23, 10
+  orig: 25, 12
+  offset: 1, 1
+  index: -1
+2/may
+  rotate: false
+  xy: 731, 218
+  size: 292, 70
+  orig: 292, 70
+  offset: 0, 0
+  index: -1
+2/mayxuc
+  rotate: true
+  xy: 929, 553
+  size: 224, 165
+  orig: 224, 165
+  offset: 0, 0
+  index: -1
+2/tayphai
+  rotate: true
+  xy: 813, 7
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+2/taytrai
+  rotate: false
+  xy: 1009, 44
+  size: 78, 80
+  orig: 80, 82
+  offset: 1, 1
+  index: -1
+2/taytrai2
+  rotate: true
+  xy: 2, 18
+  size: 119, 260
+  orig: 119, 260
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: false
+  xy: 695, 290
+  size: 224, 235
+  orig: 224, 235
+  offset: 0, 0
+  index: -1
+2/vaitrai
+  rotate: false
+  xy: 929, 414
+  size: 165, 137
+  orig: 165, 137
+  offset: 0, 0
+  index: -1
+thuoc
+  rotate: false
+  xy: 360, 34
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1

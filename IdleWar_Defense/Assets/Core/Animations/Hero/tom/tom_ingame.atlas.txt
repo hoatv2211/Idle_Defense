@@ -1,0 +1,48 @@
+
+tom_ingame.png
+size: 156,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: false
+  xy: 2, 133
+  size: 148, 91
+  orig: 148, 91
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 2, 226
+  size: 90, 104
+  orig: 92, 106
+  offset: 1, 1
+  index: -1
+sung
+  rotate: false
+  xy: 109, 284
+  size: 42, 199
+  orig: 44, 201
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 2, 409
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 2, 2
+  size: 129, 138
+  orig: 129, 138
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 318
+  size: 101, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1

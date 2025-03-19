@@ -1,0 +1,62 @@
+
+BestTankerBossKiller.png
+size: 564,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BestSniper1
+  rotate: false
+  xy: 421, 78
+  size: 138, 28
+  orig: 140, 30
+  offset: 1, 1
+  index: -1
+BestSniper2
+  rotate: false
+  xy: 199, 6
+  size: 171, 61
+  orig: 176, 65
+  offset: 2, 2
+  index: -1
+BestTanker1
+  rotate: false
+  xy: 421, 108
+  size: 140, 23
+  orig: 142, 25
+  offset: 1, 1
+  index: -1
+BestTanker2
+  rotate: false
+  xy: 372, 10
+  size: 173, 57
+  orig: 178, 61
+  offset: 2, 2
+  index: -1
+BossKiller1
+  rotate: false
+  xy: 2, 2
+  size: 154, 27
+  orig: 156, 29
+  offset: 1, 1
+  index: -1
+BossKiller2
+  rotate: false
+  xy: 2, 62
+  size: 195, 69
+  orig: 200, 75
+  offset: 2, 3
+  index: -1
+DamageDealer1
+  rotate: false
+  xy: 2, 31
+  size: 187, 29
+  orig: 189, 31
+  offset: 1, 1
+  index: -1
+DamageDealer2
+  rotate: false
+  xy: 199, 69
+  size: 220, 62
+  orig: 225, 65
+  offset: 2, 1
+  index: -1

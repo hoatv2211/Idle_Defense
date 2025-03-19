@@ -1,0 +1,20 @@
+
+canonbase.png
+size: 296,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+be
+  rotate: true
+  xy: 118, 66
+  size: 190, 173
+  orig: 192, 175
+  offset: 1, 1
+  index: -1
+sung
+  rotate: false
+  xy: 2, 2
+  size: 114, 254
+  orig: 114, 254
+  offset: 0, 0
+  index: -1

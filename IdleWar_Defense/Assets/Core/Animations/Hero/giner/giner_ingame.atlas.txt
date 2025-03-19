@@ -1,0 +1,62 @@
+
+giner_ingame.png
+size: 276,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bua
+  rotate: false
+  xy: 2, 109
+  size: 131, 75
+  orig: 133, 77
+  offset: 1, 1
+  index: -1
+chanphai
+  rotate: false
+  xy: 106, 4
+  size: 99, 103
+  orig: 101, 105
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: false
+  xy: 207, 94
+  size: 66, 77
+  orig: 68, 79
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 2, 2
+  size: 105, 102
+  orig: 107, 104
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: false
+  xy: 207, 11
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 2, 186
+  size: 92, 151
+  orig: 92, 152
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 155, 173
+  size: 105, 108
+  orig: 107, 110
+  offset: 1, 1
+  index: -1
+vaiphai
+  rotate: false
+  xy: 135, 113
+  size: 50, 58
+  orig: 52, 60
+  offset: 1, 1
+  index: -1

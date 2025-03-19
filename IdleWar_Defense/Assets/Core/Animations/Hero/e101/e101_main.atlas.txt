@@ -1,0 +1,104 @@
+
+e101_main.png
+size: 1924,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanphai
+  rotate: false
+  xy: 1172, 345
+  size: 168, 379
+  orig: 168, 379
+  offset: 0, 0
+  index: -1
+chantrai
+  rotate: false
+  xy: 1172, 2
+  size: 256, 341
+  orig: 256, 341
+  offset: 0, 0
+  index: -1
+daophai
+  rotate: true
+  xy: 712, 151
+  size: 573, 458
+  orig: 573, 458
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 612, 14
+  size: 116, 153
+  orig: 116, 153
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 767, 35
+  size: 181, 114
+  orig: 181, 114
+  offset: 0, 0
+  index: -1
+hong2
+  rotate: true
+  xy: 438, 6
+  size: 124, 172
+  orig: 126, 174
+  offset: 1, 1
+  index: -1
+light1
+  rotate: true
+  xy: 950, 88
+  size: 61, 44
+  orig: 71, 52
+  offset: 4, 5
+  index: -1
+light2
+  rotate: true
+  xy: 2, 29
+  size: 695, 434
+  orig: 776, 489
+  offset: 39, 22
+  index: -1
+sung
+  rotate: true
+  xy: 438, 132
+  size: 592, 272
+  orig: 592, 272
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: true
+  xy: 1683, 514
+  size: 210, 237
+  orig: 210, 237
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 1342, 358
+  size: 366, 339
+  orig: 366, 339
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 1683, 300
+  size: 233, 212
+  orig: 233, 212
+  offset: 0, 0
+  index: -1
+vai
+  rotate: true
+  xy: 1660, 31
+  size: 267, 203
+  orig: 267, 203
+  offset: 0, 0
+  index: -1
+vaiphai
+  rotate: false
+  xy: 1430, 6
+  size: 228, 292
+  orig: 228, 292
+  offset: 0, 0
+  index: -1

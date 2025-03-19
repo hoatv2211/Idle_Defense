@@ -1,0 +1,98 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:0f586d3357d7860dd5020c308b2e3465:c5fd701429421dd6430cf64188f822e9:639c93fcd8c98d9c8ec9df16a39153c4$
+#
+:format=40300
+:texture=UI_3.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=enabled
+
+dl7d_d7_icon_star;1633;1521;50;48; 0.5;0.5; 0;0;0;0
+dl7d_gift_d7;1;482;447;786; 0.5;0.5; 0;0;0;0
+dl7d_icon_tick;1535;1081;136;136; 0.5;0.5; 0;0;0;0
+dl7d_tab_small1;1450;1219;230;296; 0.5;0.5; 0;0;0;0
+dl7d_tab_small2;1;90;316;390; 0.5;0.5; 0;0;0;0
+dllogin_btn_claim_blue;511;1387;472;176; 0.5;0.5; 22;22;22;50
+dllogin_btn_claim_gray;1;1270;472;176; 0.5;0.5; 22;22;22;50
+dllogin_btn_claim_yellow;1;1751;608;176; 0.5;0.5; 22;22;22;50
+dllogin_icon_clock;420;102;72;93; 0.5;0.5; 0;0;0;0
+dllogin_tab_day;281;17;188;71; 0.5;0.5; 0;0;0;0
+dllogin_tab_free;475;1119;452;266; 0.5;0.5; 0;0;0;0
+dllogin_tab_lock;592;483;102;71; 0.5;0.5; 0;0;0;0
+dllogin_tab_vip;1043;1517;588;266; 0.5;0.5; 0;0;0;0
+dllogin_title_free;511;1565;472;180; 0.5;0.5; 0;0;0;0
+dllogin_title_vip;1043;1785;608;180; 0.5;0.5; 0;0;0;0
+event_dlg_btn_gift;1535;942;129;137; 0.5;0.5; 0;0;0;0
+event_dlg_btn_lock;1633;1623;55;58; 0.5;0.5; 0;0;0;0
+event_dlg_btn_tick1;808;1002;118;115; 0.5;0.5; 0;0;0;0
+event_dlg_btn_tick2;808;885;118;115; 0.5;0.5; 0;0;0;0
+event_dlg_tab_off;989;87;179;110; 0.5;0.5; 10;10;10;10
+event_dlg_tab_on;1251;896;180;110; 0.5;0.5; 10;10;10;10
+shine;450;528;125;176; 0.5;0.5; 0;0;0;0
+spo_tab_title;1043;1967;645;80; 0.5;0.5; 0;0;0;0
+store_bar1a;2019;1832;10;180; 0.5;0.5; 5;5;45;45
+store_bar1b;2031;1777;8;127; 0.5;0.5; 4;4;32;32
+store_btn_f5;1340;788;319;65; 0.5;0.5; 0;0;0;0
+store_btn_info;1;8;102;80; 0.5;0.5; 0;0;0;0
+store_btn_price;611;1751;327;176; 0.5;0.5; 0;0;0;0
+store_filter_btn_battle1;940;1838;101;89; 0.5;0.5; 0;0;0;0
+store_filter_btn_battle2;940;1747;101;89; 0.5;0.5; 0;0;0;0
+store_filter_btn_gem1;471;11;101;89; 0.5;0.5; 0;0;0;0
+store_filter_btn_gem2;494;106;101;89; 0.5;0.5; 0;0;0;0
+store_filter_btn_special1;1225;644;101;89; 0.5;0.5; 0;0;0;0
+store_filter_btn_special2;1225;553;101;89; 0.5;0.5; 0;0;0;0
+store_fs_tabsale;319;96;99;99; 0.5;0.5; 0;0;0;0
+store_gp_gempack1;319;197;307;283; 0.5;0.5; 0;0;0;0
+store_gp_gempack2;628;198;307;283; 0.5;0.5; 0;0;0;0
+store_gp_gempack3;1340;503;307;283; 0.5;0.5; 0;0;0;0
+store_gp_gempack4;937;199;307;283; 0.5;0.5; 0;0;0;0
+store_gp_gempack5;1649;472;307;283; 0.5;0.5; 0;0;0;0
+store_gp_gempack6;1246;218;307;283; 0.5;0.5; 0;0;0;0
+store_spo_gem_pack1;1682;1008;320;249; 0.5;0.5; 0;0;0;0
+store_spo_gem_pack2;929;995;320;249; 0.5;0.5; 0;0;0;0
+store_spo_gem_pack3;450;706;320;249; 0.5;0.5; 0;0;0;0
+store_spo_gem_pack4;903;484;320;249; 0.5;0.5; 0;0;0;0
+store_spo_gem_pack5;1666;757;320;249; 0.5;0.5; 0;0;0;0
+store_tab_firstbuy;1682;1305;327;92; 0.5;0.5; 0;0;0;0
+store_tab_group1;1690;1399;327;648; 0.5;0.5; 0;0;0;0
+store_tab_item_numb1;1340;855;75;39; 0.5;0.5; 0;0;0;0
+store_tab_item_numb2;1579;901;75;39; 0.5;0.5; 0;0;0;0
+store_title_class_clock;2019;2014;26;33; 0.5;0.5; 0;0;0;0
+store_title_class_clock_tab;1682;1259;326;44; 0.5;0.5; 0;0;0;0
+store_title_group;1;1929;1040;118; 0.5;0.5; 50;400;0;0
+ui_btn_back;597;15;209;180; 0.5;0.5; 0;0;0;0
+ui_btn_exit;1513;876;64;64; 0.5;0.5; 0;0;0;0
+ui_btn_noti;1633;1571;50;50; 0.5;0.5; 0;0;0;0
+ui_dailybonus_ex;808;71;179;125; 0.5;0.5; 0;0;0;0
+ui_main_avt1;628;957;160;160; 0.5;0.5; 0;0;0;0
+ui_main_avt2;450;957;160;160; 0.5;0.5; 0;0;0;0
+ui_main_avt_lvl1;105;13;86;75; 0.5;0.5; 0;0;0;0
+ui_main_avt_lvl2;193;13;86;75; 0.5;0.5; 0;0;0;0
+ui_main_avt_nameuser;1251;1185;193;59; 0.5;0.5; 0;0;0;0
+ui_main_btn_battle;985;1246;463;269; 0.5;0.5; 0;0;0;0
+ui_main_btn_battle_1;1;1448;508;301; 0.5;0.5; 0;0;0;0
+ui_main_btn_begin_pack;577;556;140;148; 0.5;0.5; 0;0;0;0
+ui_main_btn_buy;1433;875;78;68; 0.5;0.5; 0;0;0;0
+ui_main_btn_dl7d;772;735;140;148; 0.5;0.5; 0;0;0;0
+ui_main_btn_dl30d;719;556;140;148; 0.5;0.5; 0;0;0;0
+ui_main_btn_event;914;735;140;148; 0.5;0.5; 0;0;0;0
+ui_main_btn_fast_collect;1056;735;140;148; 0.5;0.5; 0;0;0;0
+ui_main_btn_premium;1198;735;140;148; 0.5;0.5; 0;0;0;0
+ui_main_btn_quest;1251;1035;140;148; 0.5;0.5; 0;0;0;0
+ui_main_btn_starter_pack;1393;1035;140;148; 0.5;0.5; 0;0;0;0
+ui_main_btn_tabblack;450;486;140;40; 0.5;0.5; 0;0;0;0
+ui_main_icon_coin;696;485;67;69; 0.5;0.5; 0;0;0;0
+ui_main_icon_exp;765;485;67;69; 0.5;0.5; 0;0;0;0
+ui_main_icon_gem;834;485;67;69; 0.5;0.5; 0;0;0;0
+ui_main_icon_tab_black;808;13;187;56; 0.5;0.5; 0;0;0;0
+ui_main_setting;1433;945;84;88; 0.5;0.5; 0;0;0;0
+ui_main_topbar;2031;1906;10;106; 0.5;0.5; 4;4;10;10
+ui_popup_bg;1555;210;260;260; 0.5;0.5; 12;12;12;23
+ui_popup_title;928;885;310;108; 0.5;0.5; 0;30;0;0
+ui_shop_btn_arrow;1633;1683;55;100; 0.5;0.5; 0;0;0;0
+ui_top_tab_black;808;13;187;56; 0.5;0.5; 0;0;0;0

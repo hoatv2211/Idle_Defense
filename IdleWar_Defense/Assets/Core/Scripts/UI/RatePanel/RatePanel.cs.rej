@@ -1,0 +1,55 @@
+diff a/Assets/Core/Scripts/UI/RatePanel/RatePanel.cs b/Assets/Core/Scripts/UI/RatePanel/RatePanel.cs	(rejected hunks)
+@@ -81,13 +81,50 @@
+             {
+                 btnStars[i].img.material = null;
+             }
+-            
++
+             for (int i = star; i < count; i++)
+             {
+                 btnStars[i].img.material = greyMat;
+             }
+-            
++
+             btnRate.SetActive(true);
+         }
++        
++        //plugin
++        public static void Rate()
++        {
++#if UNITY_ANDROID||UNITY_EDITOR
++            if (_playReviewInfo != null)
++                ShowInAppReview();
++            else
++                Application.OpenURL("market://details?id=" + Application.identifier);
++
++#elif UNITY_IOS
++            UnityEngine.iOS.Device.RequestStoreReview();
++#endif
++        }
++
++#if UNITY_ANDROID||UNITY_EDITOR
++        private static Google.Play.Review.ReviewManager _reviewManager;
++        private static Google.Play.Review.PlayReviewInfo _playReviewInfo;
++
++        public static async void RequestReviewInfo() // call this before show in app review
++        {
++            _reviewManager = new Google.Play.Review.ReviewManager();
++            var requestFlowOperation = _reviewManager.RequestReviewFlow();
++            await requestFlowOperation;
++            if (requestFlowOperation.Error != Google.Play.Review.ReviewErrorCode.NoError)
++            {
++                _playReviewInfo = requestFlowOperation.GetResult();
++            }
++        }
++
++        public static async void ShowInAppReview()
++        {
++            var launchFlowOperation = _reviewManager.LaunchReviewFlow(_playReviewInfo);
++            await launchFlowOperation;
++            _playReviewInfo = null; // Reset the object
++        }
++#endif
+     }
+ }
+\ No newline at end of file

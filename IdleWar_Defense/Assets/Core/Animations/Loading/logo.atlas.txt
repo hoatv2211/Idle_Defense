@@ -1,0 +1,118 @@
+
+logo.png
+size: 1916,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 1247, 380
+  size: 465, 390
+  orig: 467, 392
+  offset: 1, 1
+  index: -1
+bigglow_red
+  rotate: false
+  xy: 2, 6
+  size: 114, 114
+  orig: 150, 150
+  offset: 18, 18
+  index: -1
+bigglow_yellow
+  rotate: false
+  xy: 118, 6
+  size: 114, 114
+  orig: 150, 150
+  offset: 18, 18
+  index: -1
+blast_yellow
+  rotate: false
+  xy: 976, 27
+  size: 133, 131
+  orig: 150, 150
+  offset: 10, 6
+  index: -1
+chan
+  rotate: false
+  xy: 1700, 19
+  size: 197, 174
+  orig: 199, 176
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 674, 26
+  size: 141, 156
+  orig: 143, 158
+  offset: 1, 1
+  index: -1
+laseryellow
+  rotate: true
+  xy: 1204, 287
+  size: 42, 16
+  orig: 50, 50
+  offset: 4, 17
+  index: -1
+logo
+  rotate: false
+  xy: 2, 317
+  size: 684, 453
+  orig: 686, 455
+  offset: 1, 1
+  index: -1
+logo/bg
+  rotate: false
+  xy: 688, 331
+  size: 557, 439
+  orig: 559, 441
+  offset: 1, 1
+  index: -1
+logo/bg2
+  rotate: false
+  xy: 1247, 2
+  size: 451, 376
+  orig: 453, 378
+  offset: 1, 1
+  index: -1
+logo/chan
+  rotate: false
+  xy: 688, 169
+  size: 183, 160
+  orig: 185, 162
+  offset: 1, 1
+  index: -1
+logo/cyber
+  rotate: false
+  xy: 2, 122
+  size: 670, 193
+  orig: 672, 195
+  offset: 1, 1
+  index: -1
+logo/dau
+  rotate: true
+  xy: 832, 31
+  size: 127, 142
+  orig: 129, 144
+  offset: 1, 1
+  index: -1
+logo/than
+  rotate: false
+  xy: 1047, 171
+  size: 155, 158
+  orig: 157, 160
+  offset: 1, 1
+  index: -1
+logo/war
+  rotate: true
+  xy: 1714, 195
+  size: 575, 200
+  orig: 577, 202
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 873, 160
+  size: 169, 172
+  orig: 171, 174
+  offset: 1, 1
+  index: -1

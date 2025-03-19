@@ -1,0 +1,62 @@
+
+ziao_ingame.png
+size: 456,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanphai
+  rotate: true
+  xy: 2, 2
+  size: 56, 99
+  orig: 58, 103
+  offset: 1, 2
+  index: -1
+chantrai
+  rotate: true
+  xy: 103, 3
+  size: 55, 96
+  orig: 58, 99
+  offset: 1, 2
+  index: -1
+dau
+  rotate: false
+  xy: 2, 60
+  size: 129, 138
+  orig: 131, 140
+  offset: 1, 1
+  index: -1
+sungphai
+  rotate: true
+  xy: 349, 108
+  size: 90, 103
+  orig: 92, 105
+  offset: 1, 1
+  index: -1
+sungtrai
+  rotate: false
+  xy: 349, 3
+  size: 90, 103
+  orig: 92, 105
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 201, 5
+  size: 66, 146
+  orig: 66, 146
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 133, 73
+  size: 93, 125
+  orig: 93, 126
+  offset: 0, 1
+  index: -1
+than
+  rotate: false
+  xy: 228, 125
+  size: 107, 73
+  orig: 110, 75
+  offset: 2, 1
+  index: -1

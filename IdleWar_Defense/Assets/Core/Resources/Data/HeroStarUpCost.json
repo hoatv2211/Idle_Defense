@@ -1,0 +1,26 @@
+[
+	{
+		"star":1,
+		"elementDust":0
+	},
+	{
+		"star":2,
+		"elementDust":30
+	},
+	{
+		"star":3,
+		"elementDust":150
+	},
+	{
+		"star":4,
+		"elementDust":400
+	},
+	{
+		"star":5,
+		"elementDust":1000
+	},
+	{
+		"star":6,
+		"elementDust":2000
+	}
+]

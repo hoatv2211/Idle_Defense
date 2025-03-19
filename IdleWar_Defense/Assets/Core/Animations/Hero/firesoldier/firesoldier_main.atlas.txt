@@ -1,0 +1,146 @@
+
+firesoldier_main.png
+size: 396,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao1
+  rotate: true
+  xy: 2, 373
+  size: 202, 221
+  orig: 202, 221
+  offset: 0, 0
+  index: -1
+ao2
+  rotate: true
+  xy: 185, 37
+  size: 124, 173
+  orig: 124, 173
+  offset: 0, 0
+  index: -1
+bantaytrc
+  rotate: true
+  xy: 294, 622
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+binh
+  rotate: true
+  xy: 2, 577
+  size: 108, 283
+  orig: 108, 283
+  offset: 0, 0
+  index: -1
+bitmat
+  rotate: false
+  xy: 303, 932
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+co
+  rotate: true
+  xy: 2, 2
+  size: 62, 72
+  orig: 64, 74
+  offset: 1, 1
+  index: -1
+co1
+  rotate: false
+  xy: 303, 867
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 287, 504
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 250, 526
+  size: 25, 23
+  orig: 27, 25
+  offset: 1, 1
+  index: -1
+mat3
+  rotate: false
+  xy: 389, 922
+  size: 4, 8
+  orig: 6, 10
+  offset: 1, 1
+  index: -1
+matnham
+  rotate: true
+  xy: 378, 707
+  size: 24, 11
+  orig: 26, 13
+  offset: 1, 1
+  index: -1
+may
+  rotate: true
+  xy: 225, 510
+  size: 65, 23
+  orig: 67, 25
+  offset: 1, 1
+  index: -1
+mu
+  rotate: false
+  xy: 2, 66
+  size: 181, 158
+  orig: 183, 160
+  offset: 1, 1
+  index: -1
+quai
+  rotate: false
+  xy: 303, 733
+  size: 82, 132
+  orig: 82, 132
+  offset: 0, 0
+  index: -1
+quansau
+  rotate: true
+  xy: 2, 687
+  size: 156, 290
+  orig: 156, 290
+  offset: 0, 0
+  index: -1
+quantrc
+  rotate: true
+  xy: 2, 845
+  size: 176, 299
+  orig: 176, 299
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 250, 551
+  size: 31, 24
+  orig: 33, 26
+  offset: 1, 1
+  index: -1
+taytrc
+  rotate: true
+  xy: 2, 226
+  size: 145, 191
+  orig: 145, 191
+  offset: 0, 0
+  index: -1
+ungsau
+  rotate: true
+  xy: 225, 321
+  size: 181, 163
+  orig: 181, 163
+  offset: 0, 0
+  index: -1
+ungtrc
+  rotate: true
+  xy: 195, 163
+  size: 156, 187
+  orig: 156, 187
+  offset: 0, 0
+  index: -1

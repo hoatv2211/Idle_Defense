@@ -1,0 +1,131 @@
+[
+	{
+		"id":1,
+		"type":5,
+		"sku":"mergedefend.daily.pack1",
+		"name":"Daily pack 1",
+		"logName":"daily_pack_1",
+		"rewardTypes":[1,1,1,1],
+		"rewardIds":[11,16,3,1],
+		"rewardValues":[1,5,20000,20000]
+	},
+	{
+		"id":2,
+		"type":5,
+		"sku":"mergedefend.daily.pack2",
+		"name":"Daily pack 2",
+		"logName":"daily_pack_2",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[11,16,3,1,-1],
+		"rewardValues":[5,25,100000,100000,25],
+		"usd":"0.99$"
+	},
+	{
+		"id":3,
+		"type":5,
+		"sku":"mergedefend.daily.pack3",
+		"name":"Daily pack 3",
+		"logName":"daily_pack_3",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[11,16,3,1,-1],
+		"rewardValues":[10,50,300000,300000,50],
+		"usd":"1.99$"
+	},
+	{
+		"id":4,
+		"type":5,
+		"sku":"mergedefend.daily.pack4",
+		"name":"Daily pack 4",
+		"logName":"daily_pack_4",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[11,16,3,1,-1],
+		"rewardValues":[25,50,1000000,1000000,125],
+		"usd":"4.99$"
+	},
+	{
+		"id":5,
+		"type":6,
+		"sku":"mergedefend.weekly.pack1",
+		"name":"Weekly pack 1",
+		"logName":"weekly_pack_1",
+		"rewardTypes":[1,1,1,1],
+		"rewardIds":[11,16,3,1],
+		"rewardValues":[2,15,50000,50000]
+	},
+	{
+		"id":6,
+		"type":6,
+		"sku":"mergedefend.weekly.pack2",
+		"name":"Weekly pack 2",
+		"logName":"weekly_pack_2",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[11,16,3,1,-1],
+		"rewardValues":[20,50,500000,500000,50],
+		"usd":"1.99$"
+	},
+	{
+		"id":7,
+		"type":6,
+		"sku":"mergedefend.weekly.pack3",
+		"name":"Weekly pack 3",
+		"logName":"weekly_pack_3",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[12,16,3,1,-1],
+		"rewardValues":[2,50,1000000,1000000,125],
+		"usd":"4.99$"
+	},
+	{
+		"id":8,
+		"type":6,
+		"sku":"mergedefend.weekly.pack4",
+		"name":"Weekly pack 4",
+		"logName":"weekly_pack_4",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[12,16,3,1,-1],
+		"rewardValues":[5,100,5000000,5000000,1000],
+		"usd":"29.99$"
+	},
+	{
+		"id":9,
+		"type":7,
+		"sku":"mergedefend.monthly.pack1",
+		"name":"Monthly  pack 1",
+		"logName":"monthly_pack_1",
+		"rewardTypes":[1,1,1,1],
+		"rewardIds":[12,16,3,1],
+		"rewardValues":[1,25,100000,100000]
+	},
+	{
+		"id":10,
+		"type":7,
+		"sku":"mergedefend.monthly.pack2",
+		"name":"Monthly  pack 2",
+		"logName":"monthly_pack_2",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[11,16,3,1,-1],
+		"rewardValues":[100,50,1000000,1000000,325],
+		"usd":"9.99$"
+	},
+	{
+		"id":11,
+		"type":7,
+		"sku":"mergedefend.monthly.pack3",
+		"name":"Monthly  pack 3",
+		"logName":"monthly_pack_3",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[12,16,3,1,-1],
+		"rewardValues":[10,100,2000000,2000000,1000],
+		"usd":"29.99$"
+	},
+	{
+		"id":12,
+		"type":7,
+		"sku":"mergedefend.monthly.pack4",
+		"name":"Monthly  pack 4",
+		"logName":"monthly_pack_4",
+		"rewardTypes":[1,1,1,1,8],
+		"rewardIds":[12,16,3,1,-1],
+		"rewardValues":[10,250,10000000,10000000,4000],
+		"usd":"69.99$"
+	}
+]

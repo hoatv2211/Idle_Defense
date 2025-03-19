@@ -1,0 +1,132 @@
+
+pewpew_ingame.png
+size: 300,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/chanphai
+  rotate: false
+  xy: 2, 59
+  size: 80, 86
+  orig: 82, 88
+  offset: 1, 1
+  index: -1
+1/chantrai
+  rotate: false
+  xy: 2, 147
+  size: 83, 93
+  orig: 85, 95
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: false
+  xy: 186, 398
+  size: 110, 182
+  orig: 112, 184
+  offset: 1, 1
+  index: -1
+1/tayphai1
+  rotate: false
+  xy: 242, 5
+  size: 55, 67
+  orig: 57, 69
+  offset: 1, 1
+  index: -1
+1/tayphai2
+  rotate: true
+  xy: 251, 133
+  size: 57, 44
+  orig: 59, 46
+  offset: 1, 1
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 89, 282
+  size: 69, 147
+  orig: 69, 147
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: false
+  xy: 160, 295
+  size: 125, 101
+  orig: 127, 104
+  offset: 1, 2
+  index: -1
+1/vaiphai
+  rotate: true
+  xy: 87, 93
+  size: 61, 65
+  orig: 63, 67
+  offset: 1, 1
+  index: -1
+1/vaitrai
+  rotate: true
+  xy: 89, 219
+  size: 61, 67
+  orig: 63, 70
+  offset: 1, 1
+  index: -1
+2/chanphai
+  rotate: true
+  xy: 154, 25
+  size: 80, 86
+  orig: 82, 88
+  offset: 1, 1
+  index: -1
+2/chantrai
+  rotate: true
+  xy: 156, 107
+  size: 83, 93
+  orig: 85, 95
+  offset: 1, 1
+  index: -1
+2/dau
+  rotate: true
+  xy: 2, 431
+  size: 149, 182
+  orig: 151, 184
+  offset: 1, 1
+  index: -1
+2/tayphai1
+  rotate: true
+  xy: 2, 2
+  size: 55, 67
+  orig: 57, 69
+  offset: 1, 1
+  index: -1
+2/tayphai2
+  rotate: true
+  xy: 251, 74
+  size: 57, 44
+  orig: 59, 46
+  offset: 1, 1
+  index: -1
+2/taytrai
+  rotate: false
+  xy: 2, 242
+  size: 85, 187
+  orig: 85, 187
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: false
+  xy: 160, 192
+  size: 125, 101
+  orig: 127, 104
+  offset: 1, 2
+  index: -1
+2/vaiphai
+  rotate: true
+  xy: 84, 30
+  size: 61, 65
+  orig: 63, 67
+  offset: 1, 1
+  index: -1
+2/vaitrai
+  rotate: true
+  xy: 87, 156
+  size: 61, 67
+  orig: 63, 70
+  offset: 1, 1
+  index: -1

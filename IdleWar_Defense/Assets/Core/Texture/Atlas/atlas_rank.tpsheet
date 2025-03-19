@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:60626c927eb4df9507b0b10870a6a95b:a3e8639e5e72967ee084c961a4646f92:f6cea65a0e85ca58d7abe1cbcee41c67$
+#
+:format=40300
+:texture=atlas_rank.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=enabled
+
+element_a;405;954;69;69; 0.5;0.5; 0;0;0;0
+element_b;476;954;69;69; 0.5;0.5; 0;0;0;0
+element_c;547;954;69;69; 0.5;0.5; 0;0;0;0
+element_s;618;954;69;69; 0.5;0.5; 0;0;0;0
+element_ss;689;954;69;69; 0.5;0.5; 0;0;0;0
+mask;1;823;200;200; 0.5;0.5; 50;50;50;50
+rank_a;1;621;200;200; 0.5;0.5; 50;50;50;50
+rank_b;1;419;200;200; 0.5;0.5; 50;50;50;50
+rank_c;1;217;200;200; 0.5;0.5; 50;50;50;50
+rank_s;1;15;200;200; 0.5;0.5; 50;50;50;50
+rank_ss;203;823;200;200; 0.5;0.5; 50;50;50;50

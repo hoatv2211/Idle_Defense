@@ -1,0 +1,48 @@
+
+shift_ingame.png
+size: 240,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mu
+  rotate: true
+  xy: 2, 135
+  size: 107, 110
+  orig: 109, 112
+  offset: 1, 1
+  index: -1
+sung
+  rotate: false
+  xy: 148, 12
+  size: 90, 349
+  orig: 90, 349
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 85, 79
+  size: 59, 54
+  orig: 61, 56
+  offset: 1, 1
+  index: -1
+than
+  rotate: false
+  xy: 2, 244
+  size: 144, 117
+  orig: 144, 117
+  offset: 0, 0
+  index: -1
+vaiphai
+  rotate: false
+  xy: 2, 2
+  size: 66, 63
+  orig: 68, 65
+  offset: 1, 1
+  index: -1
+vaitrai
+  rotate: false
+  xy: 2, 67
+  size: 81, 66
+  orig: 83, 68
+  offset: 1, 1
+  index: -1

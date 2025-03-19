@@ -1,0 +1,272 @@
+
+nhism_main.png
+size: 1984,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/aophai
+  rotate: false
+  xy: 823, 337
+  size: 123, 360
+  orig: 123, 360
+  offset: 0, 0
+  index: -1
+1/aotrai
+  rotate: false
+  xy: 659, 329
+  size: 80, 368
+  orig: 80, 368
+  offset: 0, 0
+  index: -1
+1/chanphai
+  rotate: false
+  xy: 870, 6
+  size: 140, 329
+  orig: 140, 329
+  offset: 0, 0
+  index: -1
+1/chantrai
+  rotate: false
+  xy: 775, 4
+  size: 93, 323
+  orig: 93, 323
+  offset: 0, 0
+  index: -1
+1/co
+  rotate: false
+  xy: 720, 281
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+1/coao
+  rotate: false
+  xy: 1222, 350
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+1/cung
+  rotate: true
+  xy: 2, 3
+  size: 694, 199
+  orig: 696, 201
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: false
+  xy: 1778, 170
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+1/day
+  rotate: false
+  xy: 203, 16
+  size: 216, 258
+  orig: 216, 258
+  offset: 0, 0
+  index: -1
+1/daydeo
+  rotate: true
+  xy: 1753, 266
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+1/giayphai
+  rotate: true
+  xy: 1073, 340
+  size: 72, 147
+  orig: 72, 147
+  offset: 0, 0
+  index: -1
+1/giaytrai
+  rotate: false
+  xy: 1377, 2
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+1/lung
+  rotate: false
+  xy: 1249, 60
+  size: 126, 288
+  orig: 126, 288
+  offset: 0, 0
+  index: -1
+1/mat
+  rotate: false
+  xy: 1073, 418
+  size: 57, 21
+  orig: 59, 23
+  offset: 1, 1
+  index: -1
+1/matnham
+  rotate: false
+  xy: 639, 2
+  size: 55, 15
+  orig: 57, 17
+  offset: 1, 1
+  index: -1
+1/muphai
+  rotate: false
+  xy: 1676, 6
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+1/mutrai
+  rotate: false
+  xy: 1510, 8
+  size: 81, 147
+  orig: 81, 147
+  offset: 0, 0
+  index: -1
+1/tayphai
+  rotate: false
+  xy: 639, 19
+  size: 134, 255
+  orig: 134, 255
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 203, 276
+  size: 226, 421
+  orig: 226, 421
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: true
+  xy: 1641, 164
+  size: 82, 135
+  orig: 82, 135
+  offset: 0, 0
+  index: -1
+1/tocsau
+  rotate: false
+  xy: 1249, 13
+  size: 36, 45
+  orig: 37, 46
+  offset: 1, 1
+  index: -1
+1/toctrc
+  rotate: true
+  xy: 1073, 441
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+1/tui
+  rotate: true
+  xy: 659, 278
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+2/aophai
+  rotate: false
+  xy: 948, 337
+  size: 123, 360
+  orig: 123, 360
+  offset: 0, 0
+  index: -1
+2/aotrai
+  rotate: false
+  xy: 741, 329
+  size: 80, 368
+  orig: 80, 368
+  offset: 0, 0
+  index: -1
+2/chanphai
+  rotate: false
+  xy: 1012, 6
+  size: 140, 329
+  orig: 140, 329
+  offset: 0, 0
+  index: -1
+2/chantrai
+  rotate: false
+  xy: 1154, 15
+  size: 93, 323
+  orig: 93, 323
+  offset: 0, 0
+  index: -1
+2/cung
+  rotate: false
+  xy: 1154, 414
+  size: 801, 283
+  orig: 803, 285
+  offset: 1, 1
+  index: -1
+2/dau
+  rotate: false
+  xy: 1788, 37
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+2/day
+  rotate: false
+  xy: 421, 16
+  size: 216, 258
+  orig: 216, 258
+  offset: 0, 0
+  index: -1
+2/giayphai
+  rotate: false
+  xy: 1073, 548
+  size: 78, 149
+  orig: 78, 149
+  offset: 0, 0
+  index: -1
+2/giaytrai
+  rotate: true
+  xy: 1862, 133
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+2/lung
+  rotate: false
+  xy: 1377, 124
+  size: 126, 288
+  orig: 126, 288
+  offset: 0, 0
+  index: -1
+2/muphai
+  rotate: false
+  xy: 1641, 248
+  size: 110, 164
+  orig: 110, 165
+  offset: 0, 0
+  index: -1
+2/mutrai
+  rotate: false
+  xy: 1593, 8
+  size: 81, 147
+  orig: 81, 147
+  offset: 0, 0
+  index: -1
+2/tayphai
+  rotate: false
+  xy: 1505, 157
+  size: 134, 255
+  orig: 134, 255
+  offset: 0, 0
+  index: -1
+2/taytrai
+  rotate: false
+  xy: 431, 276
+  size: 226, 421
+  orig: 226, 421
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: false
+  xy: 1895, 277
+  size: 82, 135
+  orig: 82, 135
+  offset: 0, 0
+  index: -1

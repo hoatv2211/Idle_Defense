@@ -1,0 +1,69 @@
+
+natsu_ingame.png
+size: 252,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan1
+  rotate: false
+  xy: 2, 16
+  size: 79, 79
+  orig: 81, 81
+  offset: 1, 1
+  index: -1
+chan2
+  rotate: false
+  xy: 180, 363
+  size: 68, 76
+  orig: 70, 78
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 124, 100
+  size: 110, 115
+  orig: 112, 117
+  offset: 1, 1
+  index: -1
+kiem
+  rotate: true
+  xy: 2, 330
+  size: 109, 176
+  orig: 111, 178
+  offset: 1, 1
+  index: -1
+tay1
+  rotate: true
+  xy: 167, 212
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 2, 218
+  size: 163, 110
+  orig: 163, 110
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 124, 2
+  size: 108, 96
+  orig: 110, 98
+  offset: 1, 1
+  index: -1
+tieu
+  rotate: true
+  xy: 2, 97
+  size: 119, 120
+  orig: 123, 124
+  offset: 2, 2
+  index: -1
+vai1
+  rotate: false
+  xy: 180, 302
+  size: 62, 59
+  orig: 64, 61
+  offset: 1, 1
+  index: -1

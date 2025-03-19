@@ -1,0 +1,104 @@
+
+nhism_ingame.png
+size: 464,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/cung
+  rotate: false
+  xy: 2, 237
+  size: 319, 131
+  orig: 321, 134
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: true
+  xy: 323, 245
+  size: 123, 121
+  orig: 125, 123
+  offset: 1, 1
+  index: -1
+1/day
+  rotate: false
+  xy: 2, 61
+  size: 239, 47
+  orig: 239, 47
+  offset: 0, 0
+  index: -1
+2/day
+  rotate: false
+  xy: 2, 61
+  size: 239, 47
+  orig: 239, 47
+  offset: 0, 0
+  index: -1
+1/lung
+  rotate: false
+  xy: 243, 11
+  size: 103, 97
+  orig: 105, 99
+  offset: 1, 1
+  index: -1
+1/tayphai
+  rotate: false
+  xy: 375, 383
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 375, 454
+  size: 71, 90
+  orig: 71, 90
+  offset: 0, 0
+  index: -1
+1/ten
+  rotate: true
+  xy: 2, 2
+  size: 28, 217
+  orig: 30, 219
+  offset: 1, 1
+  index: -1
+1/than
+  rotate: false
+  xy: 171, 110
+  size: 165, 125
+  orig: 165, 125
+  offset: 0, 0
+  index: -1
+2/cung
+  rotate: false
+  xy: 2, 370
+  size: 371, 174
+  orig: 373, 176
+  offset: 1, 1
+  index: -1
+2/dau
+  rotate: true
+  xy: 338, 120
+  size: 123, 121
+  orig: 125, 123
+  offset: 1, 1
+  index: -1
+2/lung
+  rotate: false
+  xy: 348, 21
+  size: 103, 97
+  orig: 105, 99
+  offset: 1, 1
+  index: -1
+2/ten
+  rotate: true
+  xy: 2, 32
+  size: 27, 228
+  orig: 29, 230
+  offset: 1, 1
+  index: -1
+2/than
+  rotate: false
+  xy: 2, 110
+  size: 167, 125
+  orig: 167, 125
+  offset: 0, 0
+  index: -1

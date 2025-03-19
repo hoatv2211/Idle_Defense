@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:76965eb2237715542c6035df937c2bcd:98d7780059b8846482e8ea37744675be:b16e91cdad5e921011478a5611367d31$
+#
+:format=40300
+:texture=button_template.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+
+ui_btn_green;1;847;327;176; 0.5;0.5; 0;0;0;0; 4;327;0;0;0;0;176;327;176; 2;1;2;3;0;1;3
+ui_btn_normal;1;668;327;176; 0.5;0.5; 0;0;0;0; 4;327;0;0;0;0;176;327;176; 2;1;2;3;0;1;3
+ui_btn_orange;1;489;327;176; 0.5;0.5; 0;0;0;0; 4;327;0;0;0;0;176;327;176; 2;1;2;3;0;1;3
+ui_win_btn_watchvideo;331;934;101;89; 0.5;0.5; 0;0;0;0; 4;101;0;0;0;0;89;101;89; 2;1;2;3;0;1;3

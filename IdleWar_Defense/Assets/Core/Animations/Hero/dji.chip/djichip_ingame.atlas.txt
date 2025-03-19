@@ -1,0 +1,97 @@
+
+djichip_ingame.png
+size: 1168,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/dau
+  rotate: true
+  xy: 894, 3
+  size: 104, 122
+  orig: 106, 124
+  offset: 1, 1
+  index: -1
+1/day
+  rotate: true
+  xy: 1064, 164
+  size: 85, 93
+  orig: 86, 94
+  offset: 1, 1
+  index: -1
+1/luoihai
+  rotate: true
+  xy: 313, 15
+  size: 234, 309
+  orig: 234, 309
+  offset: 0, 0
+  index: -1
+1/tay
+  rotate: true
+  xy: 624, 17
+  size: 67, 133
+  orig: 67, 133
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: true
+  xy: 854, 109
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1
+1/vai
+  rotate: true
+  xy: 1064, 111
+  size: 51, 49
+  orig: 53, 51
+  offset: 1, 1
+  index: -1
+1/vay
+  rotate: true
+  xy: 624, 86
+  size: 163, 113
+  orig: 163, 113
+  offset: 0, 0
+  index: -1
+2/day
+  rotate: true
+  xy: 1018, 14
+  size: 93, 118
+  orig: 93, 118
+  offset: 0, 0
+  index: -1
+2/luoihai
+  rotate: true
+  xy: 2, 2
+  size: 247, 309
+  orig: 247, 309
+  offset: 0, 0
+  index: -1
+2/tay
+  rotate: true
+  xy: 759, 17
+  size: 67, 133
+  orig: 67, 133
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: true
+  xy: 959, 109
+  size: 140, 103
+  orig: 140, 103
+  offset: 0, 0
+  index: -1
+2/vai
+  rotate: true
+  xy: 1115, 111
+  size: 51, 49
+  orig: 53, 51
+  offset: 1, 1
+  index: -1
+2/vay
+  rotate: true
+  xy: 739, 86
+  size: 163, 113
+  orig: 163, 113
+  offset: 0, 0
+  index: -1

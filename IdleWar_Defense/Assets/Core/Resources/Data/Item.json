@@ -1,0 +1,34 @@
+[
+	{
+		"id":1,
+		"name":"Barrier"
+	},
+	{
+		"id":2,
+		"name":"Ice grenade"
+	},
+	{
+		"id":3,
+		"name":"Fire grenade"
+	},
+	{
+		"id":4,
+		"name":"Electric grenade"
+	},
+	{
+		"id":5,
+		"name":"First air kit"
+	},
+	{
+		"id":6,
+		"name":"Call"
+	},
+	{
+		"id":7,
+		"name":"Mines"
+	},
+	{
+		"id":8,
+		"name":"Trap"
+	}
+]

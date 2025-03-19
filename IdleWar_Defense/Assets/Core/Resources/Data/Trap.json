@@ -1,0 +1,92 @@
+[
+	{
+		"id":1,
+		"name":"Barrier",
+		"logName":"barrier",
+		"AI":"Creates a barrier block enemy's way with <color=#FF0000>{0}</color> HP and <color=#FF0000>{3}</color> HP regen per second",
+		"hp":3000,
+		"damage":0,
+		"duration":9999,
+		"hpRegen":5
+	},
+	{
+		"id":7,
+		"name":"Mines",
+		"logName":"mines",
+		"AI":"Mine trap with <color=#FF0000>{1}</color> damage",
+		"hp":0,
+		"damage":1000,
+		"duration":9999,
+		"hpRegen":0
+	},
+	{
+		"id":5,
+		"name":"First air kit",
+		"logName":"first_air_kit",
+		"AI":"Heals all heroes <color=#FF0000>{3}</color> HP per second for <color=#FF0000>{2}</color> seconds",
+		"hp":0,
+		"damage":0,
+		"duration":3,
+		"hpRegen":1000
+	},
+	{
+		"id":8,
+		"name":"Spike Trap",
+		"logName":"trap",
+		"AI":"Thorn trap <color=#FF0000>{1}</color> damage",
+		"hp":0,
+		"damage":700,
+		"duration":9999,
+		"hpRegen":0
+	},
+	{
+		"id":4,
+		"name":"Electric grenade",
+		"logName":"electric_grenade",
+		"AI":"When used, it will explode <color=#FF0000>{1}</color> damage and stuns enemies in <color=#FF0000>{2}</color> seconds",
+		"hp":0,
+		"damage":700,
+		"duration":4,
+		"hpRegen":0
+	},
+	{
+		"id":3,
+		"name":"Fire grenade",
+		"logName":"fire_grenade",
+		"AI":"When used, it will explode <color=#FF0000>{1}</color> damage and burn enemies in <color=#FF0000>{2}</color> seconds",
+		"hp":0,
+		"damage":500,
+		"duration":7,
+		"hpRegen":0
+	},
+	{
+		"id":2,
+		"name":"Ice grenade",
+		"logName":"ice_grenade",
+		"AI":"When used, it will explode <color=#FF0000>{1}</color> damage and freeze enemies in <color=#FF0000>{2}</color> seconds",
+		"hp":0,
+		"damage":400,
+		"duration":2,
+		"hpRegen":0
+	},
+	{
+		"id":6,
+		"name":"Call",
+		"logName":"call",
+		"AI":"Call for help to drop bombs with <color=#FF0000>{1}</color> damage per second on all enemies",
+		"hp":0,
+		"damage":2000,
+		"duration":2,
+		"hpRegen":0
+	},
+	{
+		"id":9,
+		"name":"Defense Canon",
+		"logName":"defense_canon",
+		"AI":"Canon gun, mounted on the base for defense with <color=#FF0000>{1}</color> attack damage",
+		"hp":0,
+		"damage":150,
+		"duration":9999,
+		"hpRegen":50
+	}
+]

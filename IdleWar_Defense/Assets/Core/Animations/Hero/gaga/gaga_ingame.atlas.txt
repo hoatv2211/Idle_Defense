@@ -1,0 +1,62 @@
+
+gaga_ingame.png
+size: 276,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao
+  rotate: true
+  xy: 2, 77
+  size: 111, 125
+  orig: 113, 128
+  offset: 1, 2
+  index: -1
+chanphai
+  rotate: true
+  xy: 129, 16
+  size: 75, 77
+  orig: 77, 79
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: true
+  xy: 129, 93
+  size: 76, 81
+  orig: 78, 84
+  offset: 1, 2
+  index: -1
+dau
+  rotate: false
+  xy: 2, 190
+  size: 153, 119
+  orig: 153, 119
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: true
+  xy: 2, 2
+  size: 73, 62
+  orig: 75, 63
+  offset: 1, 1
+  index: -1
+tayphai2
+  rotate: false
+  xy: 212, 88
+  size: 54, 81
+  orig: 58, 81
+  offset: 3, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 66, 3
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 157, 171
+  size: 138, 114
+  orig: 140, 116
+  offset: 1, 1
+  index: -1

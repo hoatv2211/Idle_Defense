@@ -1,0 +1,307 @@
+
+bongminz_main.png
+size: 824,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bantayphai
+  rotate: false
+  xy: 648, 38
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+1/bantaytrai
+  rotate: false
+  xy: 672, 221
+  size: 66, 46
+  orig: 67, 47
+  offset: 0, 1
+  index: -1
+1/buki
+  rotate: false
+  xy: 513, 360
+  size: 45, 146
+  orig: 47, 148
+  offset: 1, 1
+  index: -1
+1/chanphai1
+  rotate: false
+  xy: 673, 434
+  size: 69, 166
+  orig: 69, 166
+  offset: 0, 0
+  index: -1
+1/chanphai2
+  rotate: false
+  xy: 511, 51
+  size: 50, 200
+  orig: 50, 200
+  offset: 0, 0
+  index: -1
+1/chantrai
+  rotate: true
+  xy: 270, 253
+  size: 91, 296
+  orig: 91, 296
+  offset: 0, 0
+  index: -1
+1/co
+  rotate: false
+  xy: 655, 174
+  size: 75, 45
+  orig: 77, 47
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: true
+  xy: 772, 47
+  size: 56, 49
+  orig: 58, 51
+  offset: 1, 1
+  index: -1
+1/daugoi
+  rotate: false
+  xy: 647, 98
+  size: 54, 66
+  orig: 56, 68
+  offset: 1, 1
+  index: -1
+1/giap
+  rotate: false
+  xy: 563, 166
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+1/tayphai1
+  rotate: false
+  xy: 737, 286
+  size: 64, 61
+  orig: 66, 63
+  offset: 1, 1
+  index: -1
+1/tayphai2
+  rotate: false
+  xy: 563, 93
+  size: 82, 71
+  orig: 84, 73
+  offset: 1, 1
+  index: -1
+1/taytrai1
+  rotate: true
+  xy: 563, 46
+  size: 45, 83
+  orig: 47, 85
+  offset: 1, 1
+  index: -1
+1/taytrai2
+  rotate: true
+  xy: 760, 692
+  size: 95, 39
+  orig: 97, 41
+  offset: 1, 1
+  index: -1
+1/than
+  rotate: true
+  xy: 560, 358
+  size: 87, 105
+  orig: 87, 105
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: true
+  xy: 560, 358
+  size: 87, 105
+  orig: 87, 105
+  offset: 0, 0
+  index: -1
+1/toc1
+  rotate: false
+  xy: 241, 2
+  size: 133, 249
+  orig: 133, 249
+  offset: 0, 0
+  index: -1
+1/toc2
+  rotate: false
+  xy: 2, 788
+  size: 337, 242
+  orig: 337, 242
+  offset: 0, 0
+  index: -1
+1/toc3
+  rotate: true
+  xy: 609, 789
+  size: 241, 160
+  orig: 241, 160
+  offset: 0, 0
+  index: -1
+1/tocsau
+  rotate: false
+  xy: 568, 231
+  size: 102, 125
+  orig: 102, 125
+  offset: 0, 0
+  index: -1
+1/toctrc
+  rotate: false
+  xy: 751, 349
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+1/vay1
+  rotate: false
+  xy: 2, 20
+  size: 237, 235
+  orig: 237, 236
+  offset: 0, 1
+  index: -1
+1/vay2
+  rotate: false
+  xy: 341, 745
+  size: 266, 285
+  orig: 266, 286
+  offset: 0, 1
+  index: -1
+2/bantayphai
+  rotate: false
+  xy: 710, 45
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+2/bantaytrai
+  rotate: true
+  xy: 759, 105
+  size: 66, 46
+  orig: 67, 47
+  offset: 0, 1
+  index: -1
+2/buki
+  rotate: false
+  xy: 673, 602
+  size: 85, 185
+  orig: 87, 187
+  offset: 1, 1
+  index: -1
+2/chanphai1
+  rotate: false
+  xy: 744, 436
+  size: 67, 164
+  orig: 69, 166
+  offset: 1, 1
+  index: -1
+2/chanphai2
+  rotate: false
+  xy: 771, 830
+  size: 51, 200
+  orig: 51, 200
+  offset: 0, 0
+  index: -1
+2/chantrai
+  rotate: false
+  xy: 580, 447
+  size: 91, 296
+  orig: 91, 296
+  offset: 0, 0
+  index: -1
+2/co
+  rotate: false
+  xy: 732, 173
+  size: 75, 45
+  orig: 77, 47
+  offset: 1, 1
+  index: -1
+2/daugoi
+  rotate: false
+  xy: 703, 105
+  size: 54, 66
+  orig: 56, 68
+  offset: 1, 1
+  index: -1
+2/giap
+  rotate: true
+  xy: 672, 269
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+2/tayphai1
+  rotate: true
+  xy: 740, 220
+  size: 64, 61
+  orig: 66, 63
+  offset: 1, 1
+  index: -1
+2/tayphai2
+  rotate: false
+  xy: 667, 361
+  size: 82, 71
+  orig: 84, 73
+  offset: 1, 1
+  index: -1
+2/taytrai1
+  rotate: false
+  xy: 760, 607
+  size: 45, 83
+  orig: 47, 85
+  offset: 1, 1
+  index: -1
+2/taytrai2
+  rotate: false
+  xy: 511, 5
+  size: 95, 39
+  orig: 97, 41
+  offset: 1, 1
+  index: -1
+2/toc1
+  rotate: false
+  xy: 376, 2
+  size: 133, 249
+  orig: 133, 249
+  offset: 0, 0
+  index: -1
+2/toc2
+  rotate: false
+  xy: 2, 544
+  size: 337, 242
+  orig: 337, 242
+  offset: 0, 0
+  index: -1
+2/toc3
+  rotate: false
+  xy: 270, 346
+  size: 241, 160
+  orig: 241, 160
+  offset: 0, 0
+  index: -1
+2/vay1
+  rotate: false
+  xy: 341, 508
+  size: 237, 235
+  orig: 237, 236
+  offset: 0, 1
+  index: -1
+2/vay2
+  rotate: false
+  xy: 2, 257
+  size: 266, 285
+  orig: 266, 286
+  offset: 0, 1
+  index: -1
+mat1
+  rotate: false
+  xy: 560, 492
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+mat2
+  rotate: true
+  xy: 513, 346
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1

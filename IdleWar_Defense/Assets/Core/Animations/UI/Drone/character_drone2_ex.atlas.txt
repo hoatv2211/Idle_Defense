@@ -1,0 +1,83 @@
+
+character_drone2_ex.png
+size: 892,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+den
+  rotate: false
+  xy: 826, 74
+  size: 37, 38
+  orig: 39, 40
+  offset: 1, 1
+  index: -1
+drone2_body
+  rotate: true
+  xy: 2, 14
+  size: 230, 314
+  orig: 230, 314
+  offset: 0, 0
+  index: -1
+drone2_giftbox
+  rotate: true
+  xy: 318, 66
+  size: 178, 209
+  orig: 180, 211
+  offset: 1, 1
+  index: -1
+drone2_machine1a1
+  rotate: false
+  xy: 826, 40
+  size: 33, 32
+  orig: 35, 34
+  offset: 1, 1
+  index: -1
+drone2_machine1a2
+  rotate: false
+  xy: 450, 13
+  size: 60, 51
+  orig: 62, 53
+  offset: 1, 1
+  index: -1
+drone2_machine1a3
+  rotate: true
+  xy: 529, 123
+  size: 121, 147
+  orig: 121, 147
+  offset: 0, 0
+  index: -1
+drone2_rope
+  rotate: true
+  xy: 318, 4
+  size: 60, 130
+  orig: 60, 130
+  offset: 0, 0
+  index: -1
+drone2_rope2
+  rotate: false
+  xy: 827, 114
+  size: 60, 130
+  orig: 60, 130
+  offset: 0, 0
+  index: -1
+frone2_machine1b3
+  rotate: true
+  xy: 678, 3
+  size: 119, 146
+  orig: 119, 146
+  offset: 0, 0
+  index: -1
+frone2_machine2a3
+  rotate: true
+  xy: 678, 124
+  size: 120, 147
+  orig: 120, 147
+  offset: 0, 0
+  index: -1
+frone2_machine2b3
+  rotate: true
+  xy: 529, 2
+  size: 119, 146
+  orig: 119, 146
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+dasisy_ingame.png
+size: 608,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/chanphai
+  rotate: true
+  xy: 133, 2
+  size: 58, 62
+  orig: 60, 64
+  offset: 1, 1
+  index: -1
+1/chantrai
+  rotate: false
+  xy: 526, 101
+  size: 70, 81
+  orig: 72, 83
+  offset: 1, 1
+  index: -1
+1/dao1
+  rotate: false
+  xy: 410, 248
+  size: 176, 62
+  orig: 178, 65
+  offset: 1, 1
+  index: -1
+1/dao2
+  rotate: false
+  xy: 410, 184
+  size: 176, 62
+  orig: 178, 65
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: true
+  xy: 133, 187
+  size: 123, 117
+  orig: 125, 119
+  offset: 1, 1
+  index: -1
+1/tayphai
+  rotate: true
+  xy: 425, 95
+  size: 87, 99
+  orig: 87, 100
+  offset: 0, 1
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 332, 158
+  size: 76, 152
+  orig: 76, 152
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: false
+  xy: 2, 158
+  size: 129, 152
+  orig: 131, 154
+  offset: 1, 1
+  index: -1
+2/chanphai
+  rotate: true
+  xy: 197, 2
+  size: 58, 62
+  orig: 60, 64
+  offset: 1, 1
+  index: -1
+2/chantrai
+  rotate: false
+  xy: 533, 18
+  size: 70, 81
+  orig: 72, 83
+  offset: 1, 1
+  index: -1
+2/dao1
+  rotate: false
+  xy: 252, 87
+  size: 171, 69
+  orig: 173, 71
+  offset: 1, 1
+  index: -1
+2/dao2
+  rotate: false
+  xy: 261, 16
+  size: 171, 69
+  orig: 173, 71
+  offset: 1, 1
+  index: -1
+2/dau
+  rotate: true
+  xy: 133, 62
+  size: 123, 117
+  orig: 125, 119
+  offset: 1, 1
+  index: -1
+2/tayphai
+  rotate: true
+  xy: 434, 7
+  size: 86, 97
+  orig: 86, 98
+  offset: 0, 1
+  index: -1
+2/taytrai
+  rotate: false
+  xy: 252, 158
+  size: 78, 152
+  orig: 173, 182
+  offset: 81, 0
+  index: -1
+2/than
+  rotate: false
+  xy: 2, 12
+  size: 129, 144
+  orig: 131, 147
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,106 @@
+[
+	{
+		"id":1,
+		"description":"Buy coins {0} times",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[2,-1],
+		"rewardValues":[10,100]
+	},
+	{
+		"id":2,
+		"description":"Spin in wheel {0} times",
+		"timeMax":2,
+		"rewardTypes":[1,4],
+		"rewardIds":[1,-1],
+		"rewardValues":[100000,100]
+	},
+	{
+		"id":3,
+		"description":"Discovery {0} times",
+		"timeMax":1,
+		"rewardTypes":[6,4],
+		"rewardIds":[1,-1],
+		"rewardValues":[3,100]
+	},
+	{
+		"id":4,
+		"description":"Disassemble Gear once",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[8,-1],
+		"rewardValues":[50,50]
+	},
+	{
+		"id":5,
+		"description":"Basic summon once",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[13,-1],
+		"rewardValues":[1,50]
+	},
+	{
+		"id":6,
+		"description":"Senior summon once",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[2,-1],
+		"rewardValues":[20,100]
+	},
+	{
+		"id":7,
+		"description":"Fast travel once",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[2,-1],
+		"rewardValues":[20,50]
+	},
+	{
+		"id":8,
+		"description":"Level up hero once",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[17,-1],
+		"rewardValues":[1,50]
+	},
+	{
+		"id":9,
+		"description":"Play mission once",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[17,-1],
+		"rewardValues":[1,100]
+	},
+	{
+		"id":10,
+		"description":"Buy anything in store once",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[2,-1],
+		"rewardValues":[10,50]
+	},
+	{
+		"id":11,
+		"description":"Upgrade Gear once",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[2,-1],
+		"rewardValues":[10,100]
+	},
+	{
+		"id":12,
+		"description":"Take Vip bonus {0} time",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[16,-1],
+		"rewardValues":[10,100]
+	},
+	{
+		"id":13,
+		"description":"Take Subscrible bonus {0} time",
+		"timeMax":1,
+		"rewardTypes":[1,4],
+		"rewardIds":[16,-1],
+		"rewardValues":[10,100]
+	}
+]

@@ -1,0 +1,48 @@
+
+warningboss.png
+size: 1892,804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BeamWhite01
+  rotate: false
+  xy: 2, 2
+  size: 803, 800
+  orig: 1000, 1000
+  offset: 98, 101
+  index: -1
+WARNING1
+  rotate: false
+  xy: 807, 118
+  size: 538, 96
+  orig: 542, 99
+  offset: 2, 2
+  index: -1
+WARNING2
+  rotate: false
+  xy: 807, 216
+  size: 580, 139
+  orig: 591, 149
+  offset: 6, 5
+  index: -1
+bg
+  rotate: false
+  xy: 807, 406
+  size: 1080, 192
+  orig: 1082, 194
+  offset: 1, 1
+  index: -1
+border1
+  rotate: false
+  xy: 807, 357
+  size: 1078, 47
+  orig: 1082, 51
+  offset: 1, 2
+  index: -1
+border2
+  rotate: false
+  xy: 807, 600
+  size: 1080, 202
+  orig: 1082, 204
+  offset: 1, 1
+  index: -1

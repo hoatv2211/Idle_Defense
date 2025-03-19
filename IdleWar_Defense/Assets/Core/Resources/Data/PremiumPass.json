@@ -1,0 +1,13 @@
+[
+	{
+		"id":1,
+		"type":1,
+		"sku":"mergedefend.premium.pass",
+		"name":"Unlock Premium Pass",
+		"logName":"unlock_premium_pass",
+		"rewardTypes":[1,8],
+		"rewardIds":[2,-1],
+		"rewardValues":[1000,325],
+		"usd":"9.99$"
+	}
+]

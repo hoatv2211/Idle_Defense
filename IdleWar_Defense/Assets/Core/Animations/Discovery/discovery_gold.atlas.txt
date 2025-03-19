@@ -1,0 +1,104 @@
+
+discovery_gold.png
+size: 1964,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban_tay1
+  rotate: false
+  xy: 1859, 178
+  size: 99, 134
+  orig: 99, 134
+  offset: 0, 0
+  index: -1
+ban_tay2
+  rotate: false
+  xy: 1858, 314
+  size: 101, 123
+  orig: 101, 123
+  offset: 0, 0
+  index: -1
+day
+  rotate: false
+  xy: 1847, 5
+  size: 10, 217
+  orig: 10, 217
+  offset: 0, 0
+  index: -1
+gold1
+  rotate: false
+  xy: 1902, 133
+  size: 20, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+gold2
+  rotate: false
+  xy: 1177, 224
+  size: 679, 213
+  orig: 681, 220
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 672, 31
+  size: 503, 406
+  orig: 530, 408
+  offset: 13, 1
+  index: -1
+light_blue
+  rotate: false
+  xy: 2, 31
+  size: 668, 406
+  orig: 670, 408
+  offset: 1, 1
+  index: -1
+light_under
+  rotate: false
+  xy: 1177, 2
+  size: 668, 220
+  orig: 670, 244
+  offset: 1, 1
+  index: -1
+ngon_tay2_1
+  rotate: true
+  xy: 1904, 49
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+ngon_tay2_2
+  rotate: false
+  xy: 1859, 133
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+ngon_tay2_3
+  rotate: true
+  xy: 1859, 41
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+ngon_tay_1
+  rotate: false
+  xy: 1897, 102
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+ngon_tay_2
+  rotate: false
+  xy: 1859, 77
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+ngon_tay_3
+  rotate: true
+  xy: 1902, 147
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1

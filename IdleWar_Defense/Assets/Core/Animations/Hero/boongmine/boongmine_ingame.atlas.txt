@@ -1,0 +1,76 @@
+
+boongmine_ingame.png
+size: 912,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/dau
+  rotate: false
+  xy: 2, 2
+  size: 229, 217
+  orig: 229, 217
+  offset: 0, 0
+  index: -1
+1/kiem
+  rotate: true
+  xy: 601, 26
+  size: 58, 112
+  orig: 60, 114
+  offset: 1, 1
+  index: -1
+1/tayphai
+  rotate: true
+  xy: 715, 14
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 756, 74
+  size: 76, 145
+  orig: 76, 145
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: false
+  xy: 464, 86
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+2/ao
+  rotate: false
+  xy: 610, 86
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: false
+  xy: 233, 2
+  size: 229, 217
+  orig: 229, 217
+  offset: 0, 0
+  index: -1
+2/kiem
+  rotate: true
+  xy: 464, 9
+  size: 75, 135
+  orig: 77, 137
+  offset: 1, 1
+  index: -1
+2/tayphai
+  rotate: true
+  xy: 804, 14
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+2/taytrai
+  rotate: false
+  xy: 834, 74
+  size: 76, 145
+  orig: 76, 145
+  offset: 0, 0
+  index: -1

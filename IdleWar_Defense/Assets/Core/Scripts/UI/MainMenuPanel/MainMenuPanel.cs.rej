@@ -1,0 +1,11 @@
+diff a/Assets/Core/Scripts/UI/MainMenuPanel/MainMenuPanel.cs b/Assets/Core/Scripts/UI/MainMenuPanel/MainMenuPanel.cs	(rejected hunks)
+@@ -176,8 +176,7 @@
+                         //     AdsHelper.__ShowInterstitialAd();
+                         // }
+                         //xong hết tutorial mới gọi mấy popup linh tinh
+-                        if (TutorialsManager.Instance.IsCompleted(TutorialsGroup.SUMMON_HERO_X10_HOME)
+-                            && GameData.Instance.UserGroup.Level >= Constants.UNLOCK_7_DAYS_BONUS)
++                        if (GameData.Instance.UserGroup.Level >= Constants.UNLOCK_7_DAYS_BONUS)
+                         {
+                             //nếu đang từ battle Discovery thì back lại discovery panel
+                             if (DiscoveriesGroup.lastDiscoveryData != null)

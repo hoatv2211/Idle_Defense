@@ -1,0 +1,62 @@
+
+character_drone_ex.png
+size: 340,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+den
+  rotate: false
+  xy: 290, 29
+  size: 36, 36
+  orig: 39, 40
+  offset: 2, 1
+  index: -1
+drone_giftbox
+  rotate: false
+  xy: 196, 109
+  size: 142, 167
+  orig: 142, 167
+  offset: 0, 0
+  index: -1
+frone_body
+  rotate: false
+  xy: 2, 100
+  size: 192, 176
+  orig: 192, 176
+  offset: 0, 0
+  index: -1
+frone_machine1a
+  rotate: false
+  xy: 290, 2
+  size: 26, 25
+  orig: 28, 27
+  offset: 1, 1
+  index: -1
+frone_machine1b
+  rotate: false
+  xy: 290, 67
+  size: 48, 40
+  orig: 50, 42
+  offset: 1, 1
+  index: -1
+frone_machine1c
+  rotate: true
+  xy: 2, 3
+  size: 95, 118
+  orig: 95, 118
+  offset: 0, 0
+  index: -1
+frone_machine2c
+  rotate: true
+  xy: 122, 5
+  size: 93, 116
+  orig: 93, 116
+  offset: 0, 0
+  index: -1
+frone_rope
+  rotate: false
+  xy: 240, 3
+  size: 48, 104
+  orig: 48, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,554 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3345813995670860487
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3345813995670860505}
+  - component: {fileID: 3345813995670860486}
+  - component: {fileID: 3345813995670860504}
+  m_Layer: 0
+  m_Name: GameplayTest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3345813995670860505
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345813995670860487}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3185776270282296156}
+  - {fileID: 3345813995671400262}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3345813995670860486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345813995670860487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0f09320c08012f4c9959daf41cba27a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hubPanel: {fileID: 0}
+  camera: {fileID: 0}
+  cameraShake: {fileID: 0}
+  heroSpawnPoses: []
+  transformPool: {fileID: 3345813995670860505}
+  barriersPool: []
+  trapsPool: []
+  textHpsPool: []
+  coinDropsPool: []
+  builtInBullet: []
+  builtInImpact: []
+  effectBuffFirstAirKit: {fileID: 0}
+  canons: []
+  autoPlay: 0
+  holdingTap: 0
+  tapToTarget: {fileID: 0}
+  currentTimeScale: 1
+  EMouse: {fileID: 3345813995671400263}
+  gameData: {fileID: 3345813995670860504}
+--- !u!114 &3345813995670860504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345813995670860487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09c97c02cf67dac4bb2a31ef86db3e0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  formulaDefinitions: []
+  formulaElementDamageDefinitions: []
+--- !u!1 &3345813995671400260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3345813995671400262}
+  - component: {fileID: 3345813995671400263}
+  - component: {fileID: 3345813995671400281}
+  m_Layer: 0
+  m_Name: Mouse
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3345813995671400262
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345813995671400260}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.202848, y: -0.6393195, z: 113.341995}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3345813995670860505}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3345813995671400263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345813995671400260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5196f904ff9aa9544b152868be61c59e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 0
+  HP: 1e+13
+  isBoss: 0
+  relativeObjects: []
+  PositionHpBar: {x: 0, y: 0, z: 0}
+  collider2D: {fileID: 3345813995671400281}
+  soundDie: 
+  soundBeHit: 
+  soundInvisible: 
+  stage: -1
+--- !u!61 &3345813995671400281
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345813995671400260}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!1 &6595654096439275572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3185776270282296156}
+  - component: {fileID: 4612636194557769846}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3185776270282296156
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6595654096439275572}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.06265962, y: 0.12712166, z: 216.02734}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3345813995670860505}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4612636194557769846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6595654096439275572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0678cc468f8ff7a49a0ff1844b72032d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SFXClips:
+  - fileName: button_click
+    id: 1
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: e3b2b9d3afd4de548a1fd7b202e18e11, type: 3}
+  - fileName: claim
+    id: 2
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 93adb475f73a42e4f9177d40cb3fd3ea, type: 3}
+  - fileName: spin
+    id: 3
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 2da5deb99254e0b4e9c354788532bb11, type: 3}
+  - fileName: Coin collect
+    id: 4
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 554c7773ff636604db6165f2bd5e3d4b, type: 3}
+  - fileName: Victory
+    id: 5
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: cf3d24964ce67644da2a01d0a68531fb, type: 3}
+  - fileName: Defeat
+    id: 6
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 0b3fa224d03b8974fb2cac28f68e6a0b, type: 3}
+  - fileName: energy_blast_large_02
+    id: 7
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 676080f6297a50f4c9f2c91597c24062, type: 3}
+  - fileName: electric_lightning_blast_06
+    id: 8
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 48944d4728f927f4ebe919f7f05dbe85, type: 3}
+  - fileName: voice_male_effort_grunt_02
+    id: 9
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 9f38e539b82faa047abebbdcd0ba69ee, type: 3}
+  - fileName: sci-fi_weapon_plasma_pistol_03
+    id: 10
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 32c9eeb32229daa40b4167707589b1c9, type: 3}
+  - fileName: voice_female_c_hurt_pain_01
+    id: 11
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: e53882eed2eacad48957083d2203071b, type: 3}
+  - fileName: voice_female_c_death_03
+    id: 12
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 56107258530054f4da4dacddee3a80f1, type: 3}
+  - fileName: John_attack
+    id: 13
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 2e71b87da409f8045ba87d373e4720d9, type: 3}
+  - fileName: John_being hit
+    id: 14
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 578b64aa25d16304eb3f72ce7755c38b, type: 3}
+  - fileName: John_Die
+    id: 15
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 2540ec32ec2fc7b43bf9afa851c08e3a, type: 3}
+  - fileName: John_Skill charge
+    id: 16
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: addc35429b4bade49bd03816e3d1c1d6, type: 3}
+  - fileName: John_skill
+    id: 17
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: b9d562dbfdfe9c748b9e9b47497a574e, type: 3}
+  - fileName: Rus_hit
+    id: 18
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 104a1af209e612c4dbba966cccb41793, type: 3}
+  - fileName: Rus_Being_hit
+    id: 19
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 53e5bb64e46f84946b66d5910ef86da0, type: 3}
+  - fileName: Rus_Die
+    id: 20
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: d894e770bfc7cd74b8050ab989c7098d, type: 3}
+  - fileName: Rus_Skill
+    id: 21
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: bd6e3d538e3af9541b6e20d1dc988bba, type: 3}
+  - fileName: Sam_attack_melee
+    id: 22
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 51194ae37b5246e4984b5da0adc5482a, type: 3}
+  - fileName: Sam_attack_range
+    id: 23
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 8ebda94cf1955ed468d57eda01e6b626, type: 3}
+  - fileName: Sam_being_hit
+    id: 24
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 7234389ccaf532348ad3e10ec6b7bd63, type: 3}
+  - fileName: Sam_die
+    id: 25
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 573824c559034b6409e3cf0c15bb6035, type: 3}
+  - fileName: Sam_skill
+    id: 26
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 84039deacfe3e5647a60dd93ef405e01, type: 3}
+  - fileName: East_attack_melee
+    id: 27
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: ed37d457d700ffd4d87a65561342dc02, type: 3}
+  - fileName: East_attack_range
+    id: 28
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 65ac91122aae6554fbd378358fee537e, type: 3}
+  - fileName: East_being_hit
+    id: 29
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 666a2a0d638f100498e5372e246bc9af, type: 3}
+  - fileName: East_Die
+    id: 30
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 229e8695e64dde54aa0eb65445b7ef31, type: 3}
+  - fileName: East_Skill
+    id: 31
+    limitNumber: 10
+    clip: {fileID: 8300000, guid: 7cd5c115b34c09f48857157aed463bc0, type: 3}
+  - fileName: Crazyball_attack
+    id: 32
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 87c19b61bc9e64b4181b6cca779f3611, type: 3}
+  - fileName: Crazyball_die
+    id: 33
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: eb8ae1e2a0c61104393424eba966ef7d, type: 3}
+  - fileName: Crazyball_move
+    id: 34
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 135ee61ea953cf340b080bfbf40b058e, type: 3}
+  - fileName: Crazyball_Transform
+    id: 35
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 0131595151082ac4cab3806954e93aef, type: 3}
+  - fileName: Roach_attack
+    id: 36
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: cb8c03865e510bb4582995a6ad8b53af, type: 3}
+  - fileName: Roach_Die
+    id: 37
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 2b19adf5e53781a4e8bae4a2643c2e0b, type: 3}
+  - fileName: Roach_move
+    id: 38
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 9108bdd19a64a9941bb436791079f5e8, type: 3}
+  - fileName: DD_attack
+    id: 39
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 2d51f2cbf9bd23c4cb0b269810174d76, type: 3}
+  - fileName: DD_die
+    id: 40
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 5a4b20e0c688d4f428010a670ed580b9, type: 3}
+  - fileName: DD_fly
+    id: 41
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 2eeed5962d1ed76459b56c7c7a0ce427, type: 3}
+  - fileName: Viper_attack
+    id: 42
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 482d8fb8120b3134899895a3e286c9eb, type: 3}
+  - fileName: Viper_die
+    id: 43
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: f007ce7fdfd491148afdfd0e8a638068, type: 3}
+  - fileName: Viper_move
+    id: 44
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: cc2fd85349fc01c4798f92bac2520e3b, type: 3}
+  - fileName: attack
+    id: 45
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 0480ec1261b19d94b850d8a52ac63ea7, type: 3}
+  - fileName: Chines_move
+    id: 46
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 0ca4e68eb21fef24583c9348dadf17be, type: 3}
+  - fileName: Die
+    id: 47
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 1dc366b7dae0e3047b0d00597cbe9bbe, type: 3}
+  - fileName: Spider_attack
+    id: 48
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 98fb4e7398625d64f9f71a77738bc639, type: 3}
+  - fileName: Spider_die
+    id: 49
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 08cacccd97c261c48a0c765277e6f731, type: 3}
+  - fileName: Spider_move
+    id: 50
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 3c62c0f0683299640bbc53ca316ac450, type: 3}
+  - fileName: Crumble_move
+    id: 51
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: bad3227b6f5e062468a75fb9c8f28758, type: 3}
+  - fileName: Crumble_skill
+    id: 52
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 8623cda3241908b44b86e5a7c51096f3, type: 3}
+  - fileName: Crazy Macine_attack
+    id: 53
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: d6b4092c172737d4094501fe3b290061, type: 3}
+  - fileName: Crazy Macine_die
+    id: 54
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: cf2ecccac4a406b40974657a5efbb732, type: 3}
+  - fileName: Crazy Macine_move
+    id: 55
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: d8770f8f73dbb0343b076c8f530d544a, type: 3}
+  - fileName: devil mech_Attack
+    id: 56
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 809139c9a4f391b4f863f357b27ad61d, type: 3}
+  - fileName: devil mech_Die
+    id: 57
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: a78d7bf8d8b441d4eacf884d2f10f91f, type: 3}
+  - fileName: devil mech_Move
+    id: 58
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 330bdb8fd6941ae4891eca5945d8026e, type: 3}
+  - fileName: shadow_attack
+    id: 59
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 55c8c28905611e14a807cd2a84b7a0af, type: 3}
+  - fileName: shadow_die
+    id: 60
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: bb87b43147292194bac270d3040bc668, type: 3}
+  - fileName: shadow_skill
+    id: 61
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 712817bd55664b141b18efb36f74c05b, type: 3}
+  - fileName: Canonvic die
+    id: 62
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 3fbf5462627c03a4a9fd0c3948f3564d, type: 3}
+  - fileName: Canonvic_atk
+    id: 63
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 6565c05b9c9c5bd4a97dda58437722dc, type: 3}
+  - fileName: Canonvic_move
+    id: 64
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 8579466826a159b4e82e26e13e3d2276, type: 3}
+  - fileName: Punch_attack
+    id: 65
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: bd71fc2a23284904782819e3e9a774a0, type: 3}
+  - fileName: Punch_Die
+    id: 66
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: d2fab4ccfc2c2fe49981f3992cf1c8fc, type: 3}
+  - fileName: Punch_move
+    id: 67
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 391a62c9d5d70eb4e966f9b854e41172, type: 3}
+  - fileName: Punch_skill_1
+    id: 68
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 6b33e3d70ebe8764ea9c81efe40b25d9, type: 3}
+  - fileName: Punch_skill_2
+    id: 69
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 7bfc0d68771ecce448815dd16472ab76, type: 3}
+  - fileName: thebutcher_attack
+    id: 70
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: f2e3884f338dbad46aea499dee87aff5, type: 3}
+  - fileName: thebutcher_die
+    id: 71
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 77e5896b5378dab4d959ddf95e8719d6, type: 3}
+  - fileName: thebutcher_move
+    id: 72
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: d56b868807a7e904aba23f8713dc77b8, type: 3}
+  - fileName: Octopus_attack
+    id: 73
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 1f5a21bcc15ad4d41a7a92052e715794, type: 3}
+  - fileName: Octopus_die
+    id: 74
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: d8db96835de091c43a94dec73fc89536, type: 3}
+  - fileName: Octopus_move
+    id: 75
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: dba8c264061e8294fad8dcf59ed9f688, type: 3}
+  - fileName: E666_attack
+    id: 76
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: c7ae78ce841c0ad479116e04d31ce40f, type: 3}
+  - fileName: E666_die
+    id: 77
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: bf8d9fe5f9e736447bd6230712345245, type: 3}
+  - fileName: E666_Move
+    id: 78
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 5caa46ee8837c884c9a98bfc7d395cd3, type: 3}
+  - fileName: therock_attack
+    id: 79
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 8bb1bd04076c8a14b95fdae22e922867, type: 3}
+  - fileName: therock_die
+    id: 80
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: c791dbb8e04b1e3449fd1858e3c07fec, type: 3}
+  - fileName: therock_move
+    id: 81
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 1b6251afeb0decb4fa2c07256a7c8bb8, type: 3}
+  musicClips:
+  - fileName: Main menu
+    id: 1
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: e7086929983473c48814a4365279ade9, type: 3}
+  - fileName: Boss Battle 1 Loop
+    id: 2
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 02450d14162bce844b559242bba19df2, type: 3}
+  - fileName: Boss Battle 2 Loop
+    id: 3
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: ad41222de9f2b444699cd452ef12211f, type: 3}
+  - fileName: Boss Battle 3 Loop
+    id: 4
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: c4b9dffef07a23e4496e77c79bf6e1ec, type: 3}
+  - fileName: Boss Battle 4 Loop
+    id: 5
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: a525877255ae4f54eb16793c340ac17f, type: 3}
+  - fileName: Boss Battle 5 Loop
+    id: 6
+    limitNumber: 1
+    clip: {fileID: 8300000, guid: 56f5ca0b1965894478cf3283d0d1f5f4, type: 3}

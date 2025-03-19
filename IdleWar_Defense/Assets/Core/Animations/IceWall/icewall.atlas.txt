@@ -1,0 +1,41 @@
+
+icewall.png
+size: 608,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice1
+  rotate: false
+  xy: 2, 12
+  size: 136, 199
+  orig: 138, 201
+  offset: 1, 1
+  index: -1
+ice2
+  rotate: false
+  xy: 140, 13
+  size: 136, 198
+  orig: 138, 200
+  offset: 1, 1
+  index: -1
+ice3
+  rotate: true
+  xy: 392, 101
+  size: 110, 210
+  orig: 114, 212
+  offset: 1, 1
+  index: -1
+ice4
+  rotate: true
+  xy: 392, 2
+  size: 97, 213
+  orig: 99, 215
+  offset: 1, 1
+  index: -1
+ice5
+  rotate: false
+  xy: 278, 2
+  size: 112, 209
+  orig: 114, 211
+  offset: 1, 1
+  index: -1

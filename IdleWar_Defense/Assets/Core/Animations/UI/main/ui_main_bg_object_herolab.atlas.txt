@@ -1,0 +1,41 @@
+
+ui_main_bg_object_herolab.png
+size: 780,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+binh
+  rotate: true
+  xy: 333, 2
+  size: 220, 223
+  orig: 220, 223
+  offset: 0, 0
+  index: -1
+bongbong
+  rotate: true
+  xy: 700, 5
+  size: 97, 77
+  orig: 99, 79
+  offset: 1, 1
+  index: -1
+nap
+  rotate: false
+  xy: 558, 104
+  size: 157, 118
+  orig: 159, 120
+  offset: 1, 1
+  index: -1
+nen
+  rotate: false
+  xy: 2, 29
+  size: 329, 193
+  orig: 331, 195
+  offset: 1, 1
+  index: -1
+ng
+  rotate: true
+  xy: 558, 29
+  size: 73, 140
+  orig: 74, 140
+  offset: 1, 0
+  index: -1

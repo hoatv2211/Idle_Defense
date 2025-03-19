@@ -1,0 +1,62 @@
+
+e7.png
+size: 300,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: false
+  xy: 267, 28
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: false
+  xy: 267, 59
+  size: 27, 30
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+chan3
+  rotate: true
+  xy: 267, 123
+  size: 32, 28
+  orig: 33, 28
+  offset: 1, 0
+  index: -1
+chan4
+  rotate: false
+  xy: 267, 91
+  size: 29, 30
+  orig: 29, 31
+  offset: 0, 1
+  index: -1
+mat
+  rotate: false
+  xy: 267, 6
+  size: 28, 20
+  orig: 30, 23
+  offset: 1, 2
+  index: -1
+shadow
+  rotate: true
+  xy: 149, 2
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 297, 154
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 2
+  size: 145, 153
+  orig: 145, 153
+  offset: 0, 0
+  index: -1

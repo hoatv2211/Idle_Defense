@@ -1,0 +1,62 @@
+
+e6.png
+size: 476,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+binhduoi
+  rotate: false
+  xy: 294, 16
+  size: 79, 106
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+binhtren
+  rotate: true
+  xy: 375, 53
+  size: 69, 96
+  orig: 69, 97
+  offset: 0, 0
+  index: -1
+chan1
+  rotate: false
+  xy: 405, 12
+  size: 33, 39
+  orig: 34, 39
+  offset: 1, 0
+  index: -1
+chan2
+  rotate: true
+  xy: 440, 8
+  size: 43, 26
+  orig: 44, 26
+  offset: 1, 0
+  index: -1
+chan3
+  rotate: true
+  xy: 375, 5
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 6
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 2, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 157, 2
+  size: 120, 135
+  orig: 121, 135
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+e16.png
+size: 812,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan1
+  rotate: true
+  xy: 221, 12
+  size: 63, 135
+  orig: 64, 135
+  offset: 1, 0
+  index: -1
+chan2
+  rotate: true
+  xy: 667, 9
+  size: 93, 128
+  orig: 93, 128
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 547, 145
+  size: 121, 118
+  orig: 121, 118
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 512, 19
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 2, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: true
+  xy: 355, 137
+  size: 129, 190
+  orig: 129, 190
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 221, 77
+  size: 132, 189
+  orig: 132, 189
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 35
+  size: 231, 217
+  orig: 231, 217
+  offset: 0, 0
+  index: -1
+vai1
+  rotate: true
+  xy: 358, 2
+  size: 133, 152
+  orig: 133, 152
+  offset: 0, 0
+  index: -1
+vai2
+  rotate: false
+  xy: 667, 104
+  size: 140, 162
+  orig: 140, 162
+  offset: 0, 0
+  index: -1

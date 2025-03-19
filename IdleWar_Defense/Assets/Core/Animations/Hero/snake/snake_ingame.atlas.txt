@@ -1,0 +1,69 @@
+
+snake_ingame.png
+size: 476,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/co
+  rotate: true
+  xy: 245, 2
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: true
+  xy: 353, 34
+  size: 108, 105
+  orig: 110, 107
+  offset: 1, 1
+  index: -1
+1/sung
+  rotate: true
+  xy: 2, 142
+  size: 64, 259
+  orig: 66, 261
+  offset: 1, 1
+  index: -1
+1/tay
+  rotate: false
+  xy: 263, 157
+  size: 57, 49
+  orig: 60, 51
+  offset: 2, 1
+  index: -1
+1/than
+  rotate: false
+  xy: 2, 9
+  size: 124, 131
+  orig: 124, 131
+  offset: 0, 0
+  index: -1
+1/vai
+  rotate: true
+  xy: 263, 113
+  size: 42, 50
+  orig: 44, 53
+  offset: 1, 1
+  index: -1
+2/co
+  rotate: true
+  xy: 128, 27
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+2/sung
+  rotate: true
+  xy: 2, 208
+  size: 78, 330
+  orig: 80, 332
+  offset: 1, 1
+  index: -1
+2/than
+  rotate: true
+  xy: 334, 144
+  size: 142, 138
+  orig: 142, 138
+  offset: 0, 0
+  index: -1

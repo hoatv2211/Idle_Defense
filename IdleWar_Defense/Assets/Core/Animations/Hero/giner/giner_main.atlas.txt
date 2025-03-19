@@ -1,0 +1,160 @@
+
+giner_main.png
+size: 700,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao
+  rotate: true
+  xy: 2, 21
+  size: 188, 218
+  orig: 188, 218
+  offset: 0, 0
+  index: -1
+bantayphai
+  rotate: true
+  xy: 603, 125
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+chanphai
+  rotate: false
+  xy: 2, 211
+  size: 155, 311
+  orig: 155, 311
+  offset: 0, 0
+  index: -1
+chantrai
+  rotate: true
+  xy: 159, 408
+  size: 114, 322
+  orig: 114, 322
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 600, 9
+  size: 77, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 465, 116
+  size: 115, 136
+  orig: 115, 136
+  offset: 0, 0
+  index: -1
+giayphai
+  rotate: true
+  xy: 364, 4
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+giaytrai
+  rotate: false
+  xy: 465, 233
+  size: 164, 118
+  orig: 164, 118
+  offset: 0, 0
+  index: -1
+hong
+  rotate: true
+  xy: 364, 113
+  size: 172, 99
+  orig: 172, 99
+  offset: 0, 0
+  index: -1
+matnham1
+  rotate: false
+  xy: 657, 263
+  size: 22, 16
+  orig: 25, 18
+  offset: 2, 1
+  index: -1
+matnham2
+  rotate: false
+  xy: 661, 465
+  size: 13, 12
+  orig: 15, 15
+  offset: 1, 2
+  index: -1
+matphai
+  rotate: true
+  xy: 661, 479
+  size: 43, 20
+  orig: 46, 30
+  offset: 2, 9
+  index: -1
+mattrai
+  rotate: false
+  xy: 2, 2
+  size: 13, 17
+  orig: 15, 19
+  offset: 1, 1
+  index: -1
+may
+  rotate: true
+  xy: 631, 233
+  size: 46, 24
+  orig: 48, 26
+  offset: 1, 1
+  index: -1
+mom
+  rotate: true
+  xy: 452, 340
+  size: 22, 11
+  orig: 24, 13
+  offset: 1, 1
+  index: -1
+prop
+  rotate: true
+  xy: 501, 3
+  size: 111, 97
+  orig: 113, 99
+  offset: 1, 1
+  index: -1
+rau
+  rotate: true
+  xy: 452, 364
+  size: 42, 25
+  orig: 44, 27
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: false
+  xy: 222, 18
+  size: 140, 267
+  orig: 140, 267
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 159, 287
+  size: 119, 291
+  orig: 119, 291
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 483, 353
+  size: 176, 169
+  orig: 176, 169
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 159, 217
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 631, 281
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1

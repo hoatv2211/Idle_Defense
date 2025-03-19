@@ -1,0 +1,76 @@
+
+zhao_ingame.png
+size: 308,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan1
+  rotate: false
+  xy: 238, 125
+  size: 62, 65
+  orig: 65, 67
+  offset: 1, 1
+  index: -1
+chan2
+  rotate: true
+  xy: 251, 24
+  size: 35, 44
+  orig: 37, 46
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 105, 192
+  size: 125, 92
+  orig: 127, 94
+  offset: 1, 1
+  index: -1
+hong
+  rotate: true
+  xy: 215, 21
+  size: 90, 34
+  orig: 92, 36
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 251, 61
+  size: 62, 52
+  orig: 64, 54
+  offset: 1, 1
+  index: -1
+tayphai2
+  rotate: false
+  xy: 232, 192
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 2, 129
+  size: 101, 155
+  orig: 102, 155
+  offset: 1, 0
+  index: -1
+than
+  rotate: false
+  xy: 104, 23
+  size: 109, 88
+  orig: 111, 90
+  offset: 1, 1
+  index: -1
+vay
+  rotate: false
+  xy: 105, 113
+  size: 131, 77
+  orig: 131, 77
+  offset: 0, 0
+  index: -1
+vong
+  rotate: true
+  xy: 2, 2
+  size: 125, 100
+  orig: 127, 102
+  offset: 1, 1
+  index: -1

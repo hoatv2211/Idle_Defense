@@ -1,0 +1,111 @@
+
+mb1.png
+size: 332,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan1
+  rotate: true
+  xy: 231, 604
+  size: 68, 86
+  orig: 70, 88
+  offset: 1, 1
+  index: -1
+chan2
+  rotate: true
+  xy: 200, 445
+  size: 157, 129
+  orig: 159, 131
+  offset: 1, 1
+  index: -1
+chan3
+  rotate: true
+  xy: 186, 164
+  size: 124, 139
+  orig: 126, 142
+  offset: 1, 2
+  index: -1
+dau
+  rotate: false
+  xy: 2, 627
+  size: 227, 213
+  orig: 229, 215
+  offset: 1, 1
+  index: -1
+day
+  rotate: false
+  xy: 76, 26
+  size: 70, 63
+  orig: 72, 65
+  offset: 1, 1
+  index: -1
+den
+  rotate: true
+  xy: 2, 449
+  size: 176, 196
+  orig: 178, 199
+  offset: 1, 2
+  index: -1
+duoi
+  rotate: true
+  xy: 186, 46
+  size: 116, 141
+  orig: 118, 143
+  offset: 1, 1
+  index: -1
+khien1
+  rotate: true
+  xy: 2, 270
+  size: 177, 182
+  orig: 177, 183
+  offset: 0, 0
+  index: -1
+khien2
+  rotate: true
+  xy: 2, 91
+  size: 177, 182
+  orig: 177, 183
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 148, 55
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: true
+  xy: 148, 2
+  size: 42, 58
+  orig: 47, 63
+  offset: 2, 3
+  index: -1
+nongsung
+  rotate: false
+  xy: 2, 17
+  size: 72, 72
+  orig: 74, 74
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 186, 290
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+sung
+  rotate: false
+  xy: 231, 674
+  size: 92, 166
+  orig: 94, 168
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 325, 839
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

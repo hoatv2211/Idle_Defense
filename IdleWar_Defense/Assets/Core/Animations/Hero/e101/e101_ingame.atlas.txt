@@ -1,0 +1,90 @@
+
+e101_ingame.png
+size: 376,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanphai
+  rotate: true
+  xy: 282, 95
+  size: 63, 86
+  orig: 65, 88
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: true
+  xy: 282, 30
+  size: 63, 86
+  orig: 65, 88
+  offset: 1, 1
+  index: -1
+dao
+  rotate: false
+  xy: 2, 302
+  size: 257, 201
+  orig: 258, 202
+  offset: 0, 1
+  index: -1
+dau
+  rotate: true
+  xy: 138, 194
+  size: 106, 114
+  orig: 108, 116
+  offset: 1, 1
+  index: -1
+sung
+  rotate: false
+  xy: 138, 2
+  size: 61, 190
+  orig: 61, 190
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: true
+  xy: 2, 183
+  size: 117, 134
+  orig: 117, 134
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 201, 86
+  size: 79, 72
+  orig: 82, 75
+  offset: 2, 1
+  index: -1
+than
+  rotate: false
+  xy: 2, 2
+  size: 130, 76
+  orig: 132, 78
+  offset: 1, 1
+  index: -1
+vaiphai
+  rotate: false
+  xy: 254, 160
+  size: 109, 109
+  orig: 111, 111
+  offset: 1, 1
+  index: -1
+vaiphai2
+  rotate: false
+  xy: 2, 80
+  size: 109, 101
+  orig: 111, 103
+  offset: 1, 1
+  index: -1
+vaitrai
+  rotate: false
+  xy: 261, 383
+  size: 110, 120
+  orig: 112, 122
+  offset: 1, 1
+  index: -1
+vaitrai2
+  rotate: false
+  xy: 261, 271
+  size: 110, 110
+  orig: 112, 113
+  offset: 1, 1
+  index: -1

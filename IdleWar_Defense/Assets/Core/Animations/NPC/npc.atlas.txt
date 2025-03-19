@@ -1,0 +1,153 @@
+
+npc.png
+size: 1544,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantaysau
+  rotate: false
+  xy: 987, 211
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+bantaytrc
+  rotate: true
+  xy: 158, 2
+  size: 135, 119
+  orig: 135, 119
+  offset: 0, 0
+  index: -1
+chansau
+  rotate: true
+  xy: 2, 3
+  size: 134, 154
+  orig: 136, 156
+  offset: 1, 1
+  index: -1
+chantrc
+  rotate: true
+  xy: 279, 33
+  size: 104, 151
+  orig: 106, 153
+  offset: 1, 1
+  index: -1
+coao
+  rotate: false
+  xy: 1405, 17
+  size: 79, 54
+  orig: 81, 56
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 876, 181
+  size: 109, 121
+  orig: 111, 123
+  offset: 1, 1
+  index: -1
+day
+  rotate: true
+  xy: 1122, 263
+  size: 39, 209
+  orig: 39, 209
+  offset: 0, 0
+  index: -1
+emo1/emo1
+  rotate: true
+  xy: 1122, 187
+  size: 74, 69
+  orig: 77, 72
+  offset: 1, 1
+  index: -1
+emo2/emo2
+  rotate: false
+  xy: 1193, 194
+  size: 67, 67
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+emo3/emo3
+  rotate: false
+  xy: 1262, 197
+  size: 66, 64
+  orig: 68, 67
+  offset: 1, 1
+  index: -1
+prop
+  rotate: true
+  xy: 1326, 13
+  size: 58, 77
+  orig: 60, 79
+  offset: 1, 1
+  index: -1
+tainghe
+  rotate: false
+  xy: 592, 165
+  size: 167, 137
+  orig: 169, 139
+  offset: 1, 1
+  index: -1
+tainghesau
+  rotate: true
+  xy: 1486, 19
+  size: 52, 54
+  orig: 54, 56
+  offset: 1, 1
+  index: -1
+taysau
+  rotate: false
+  xy: 761, 180
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+taytrc
+  rotate: true
+  xy: 432, 4
+  size: 140, 246
+  orig: 140, 246
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 879, 4
+  size: 175, 302
+  orig: 175, 302
+  offset: 0, 0
+  index: -1
+toc1
+  rotate: false
+  xy: 1333, 73
+  size: 173, 229
+  orig: 173, 229
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: false
+  xy: 1183, 35
+  size: 141, 150
+  orig: 141, 150
+  offset: 0, 0
+  index: -1
+tocsau
+  rotate: true
+  xy: 680, 5
+  size: 158, 197
+  orig: 158, 197
+  offset: 0, 0
+  index: -1
+tocsau2
+  rotate: true
+  xy: 2, 139
+  size: 163, 343
+  orig: 163, 343
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 347, 146
+  size: 243, 156
+  orig: 243, 156
+  offset: 0, 0
+  index: -1

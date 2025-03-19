@@ -1,0 +1,76 @@
+
+viruss_ingame.png
+size: 552,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/dau
+  rotate: true
+  xy: 264, 197
+  size: 138, 117
+  orig: 138, 117
+  offset: 0, 0
+  index: -1
+1/piano
+  rotate: true
+  xy: 157, 103
+  size: 232, 105
+  orig: 234, 108
+  offset: 1, 2
+  index: -1
+1/tayphai
+  rotate: false
+  xy: 157, 8
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: true
+  xy: 264, 127
+  size: 68, 116
+  orig: 68, 116
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: true
+  xy: 333, 2
+  size: 123, 108
+  orig: 123, 108
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: true
+  xy: 443, 5
+  size: 120, 107
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+2/piano
+  rotate: true
+  xy: 2, 27
+  size: 308, 153
+  orig: 314, 158
+  offset: 3, 3
+  index: -1
+2/tayphai
+  rotate: false
+  xy: 245, 8
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+2/taytrai
+  rotate: true
+  xy: 382, 127
+  size: 68, 116
+  orig: 68, 116
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: true
+  xy: 383, 203
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1

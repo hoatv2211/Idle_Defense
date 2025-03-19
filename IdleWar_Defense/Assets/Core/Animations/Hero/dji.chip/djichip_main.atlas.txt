@@ -1,0 +1,307 @@
+
+djichip_main.png
+size: 1992,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/aosau
+  rotate: false
+  xy: 624, 64
+  size: 344, 297
+  orig: 344, 297
+  offset: 0, 0
+  index: -1
+1/aotrai
+  rotate: true
+  xy: 286, 93
+  size: 265, 162
+  orig: 265, 162
+  offset: 0, 0
+  index: -1
+1/bantayphai
+  rotate: false
+  xy: 445, 5
+  size: 62, 34
+  orig: 64, 36
+  offset: 1, 1
+  index: -1
+1/chanphai
+  rotate: false
+  xy: 157, 13
+  size: 125, 148
+  orig: 125, 148
+  offset: 0, 0
+  index: -1
+1/chantrai
+  rotate: false
+  xy: 1799, 74
+  size: 70, 143
+  orig: 70, 143
+  offset: 0, 0
+  index: -1
+1/co
+  rotate: true
+  xy: 1940, 369
+  size: 56, 40
+  orig: 58, 42
+  offset: 1, 1
+  index: -1
+2/co
+  rotate: true
+  xy: 1940, 369
+  size: 56, 40
+  orig: 58, 42
+  offset: 1, 1
+  index: -1
+1/dai
+  rotate: false
+  xy: 450, 41
+  size: 166, 80
+  orig: 166, 80
+  offset: 0, 0
+  index: -1
+1/daugoiphai
+  rotate: true
+  xy: 699, 14
+  size: 48, 78
+  orig: 50, 80
+  offset: 1, 1
+  index: -1
+1/daugoitrai
+  rotate: true
+  xy: 618, 8
+  size: 54, 79
+  orig: 56, 81
+  offset: 1, 1
+  index: -1
+1/day1
+  rotate: true
+  xy: 1287, 144
+  size: 189, 243
+  orig: 189, 243
+  offset: 0, 0
+  index: -1
+1/day2
+  rotate: false
+  xy: 1746, 396
+  size: 165, 201
+  orig: 166, 201
+  offset: 1, 0
+  index: -1
+1/day3
+  rotate: true
+  xy: 1772, 219
+  size: 93, 123
+  orig: 94, 123
+  offset: 1, 0
+  index: -1
+2/day3
+  rotate: true
+  xy: 1772, 219
+  size: 93, 123
+  orig: 94, 123
+  offset: 1, 0
+  index: -1
+1/quan
+  rotate: false
+  xy: 1532, 166
+  size: 238, 167
+  orig: 238, 167
+  offset: 0, 0
+  index: -1
+1/scyther
+  rotate: false
+  xy: 2, 360
+  size: 620, 477
+  orig: 622, 479
+  offset: 1, 1
+  index: -1
+1/tayphai1
+  rotate: true
+  xy: 1913, 427
+  size: 83, 74
+  orig: 85, 76
+  offset: 1, 1
+  index: -1
+1/tayphai2
+  rotate: true
+  xy: 779, 15
+  size: 47, 85
+  orig: 49, 87
+  offset: 1, 1
+  index: -1
+1/than
+  rotate: true
+  xy: 1269, 13
+  size: 129, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1
+1/vaitrai
+  rotate: false
+  xy: 284, 16
+  size: 85, 75
+  orig: 87, 77
+  offset: 1, 1
+  index: -1
+2/aosau
+  rotate: true
+  xy: 970, 17
+  size: 344, 297
+  orig: 344, 297
+  offset: 0, 0
+  index: -1
+2/aotrai
+  rotate: false
+  xy: 1532, 2
+  size: 265, 162
+  orig: 265, 162
+  offset: 0, 0
+  index: -1
+2/bantayphai
+  rotate: false
+  xy: 509, 5
+  size: 62, 34
+  orig: 64, 36
+  offset: 1, 1
+  index: -1
+2/chanphai
+  rotate: false
+  xy: 2, 12
+  size: 153, 149
+  orig: 153, 149
+  offset: 0, 0
+  index: -1
+2/chantrai
+  rotate: false
+  xy: 1915, 691
+  size: 70, 146
+  orig: 70, 146
+  offset: 0, 0
+  index: -1
+2/dai
+  rotate: false
+  xy: 1772, 314
+  size: 166, 80
+  orig: 166, 80
+  offset: 0, 0
+  index: -1
+2/daugoiphai
+  rotate: true
+  xy: 1799, 2
+  size: 70, 82
+  orig: 72, 84
+  offset: 1, 1
+  index: -1
+2/daugoitrai
+  rotate: false
+  xy: 371, 2
+  size: 54, 89
+  orig: 56, 92
+  offset: 1, 1
+  index: -1
+2/day1
+  rotate: true
+  xy: 2, 163
+  size: 195, 282
+  orig: 195, 282
+  offset: 0, 0
+  index: -1
+2/day2
+  rotate: false
+  xy: 450, 123
+  size: 172, 235
+  orig: 172, 235
+  offset: 0, 0
+  index: -1
+2/light
+  rotate: false
+  xy: 1290, 335
+  size: 454, 502
+  orig: 510, 560
+  offset: 28, 29
+  index: -1
+2/quan
+  rotate: true
+  xy: 1746, 599
+  size: 238, 167
+  orig: 238, 167
+  offset: 0, 0
+  index: -1
+2/scyther
+  rotate: false
+  xy: 624, 363
+  size: 664, 474
+  orig: 666, 476
+  offset: 1, 1
+  index: -1
+2/tayphai1
+  rotate: true
+  xy: 1915, 606
+  size: 83, 74
+  orig: 85, 76
+  offset: 1, 1
+  index: -1
+2/tayphai2
+  rotate: true
+  xy: 866, 15
+  size: 47, 85
+  orig: 49, 87
+  offset: 1, 1
+  index: -1
+2/than
+  rotate: false
+  xy: 1401, 12
+  size: 129, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1
+2/vaitrai
+  rotate: true
+  xy: 1913, 512
+  size: 85, 75
+  orig: 87, 77
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 1897, 243
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+do
+  rotate: true
+  xy: 1269, 318
+  size: 43, 16
+  orig: 45, 18
+  offset: 1, 1
+  index: -1
+matnham
+  rotate: true
+  xy: 427, 8
+  size: 43, 16
+  orig: 45, 18
+  offset: 1, 1
+  index: -1
+may
+  rotate: true
+  xy: 427, 53
+  size: 38, 20
+  orig: 40, 22
+  offset: 1, 1
+  index: -1
+tim
+  rotate: false
+  xy: 573, 23
+  size: 43, 16
+  orig: 45, 18
+  offset: 1, 1
+  index: -1
+toc
+  rotate: false
+  xy: 1871, 143
+  size: 74, 74
+  orig: 74, 75
+  offset: 0, 1
+  index: -1

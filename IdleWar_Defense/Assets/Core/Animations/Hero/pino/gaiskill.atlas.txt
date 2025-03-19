@@ -1,0 +1,20 @@
+
+gaiskill.png
+size: 164,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gai1
+  rotate: false
+  xy: 89, 7
+  size: 71, 75
+  orig: 75, 79
+  offset: 2, 2
+  index: -1
+gai2
+  rotate: true
+  xy: 2, 2
+  size: 80, 85
+  orig: 84, 89
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,160 @@
+
+tom_main.png
+size: 976,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao
+  rotate: false
+  xy: 705, 327
+  size: 185, 190
+  orig: 185, 190
+  offset: 0, 0
+  index: -1
+banchanphai
+  rotate: false
+  xy: 548, 51
+  size: 153, 158
+  orig: 153, 158
+  offset: 0, 0
+  index: -1
+banchantrai
+  rotate: false
+  xy: 548, 211
+  size: 154, 157
+  orig: 154, 157
+  offset: 0, 0
+  index: -1
+bantayphai
+  rotate: false
+  xy: 329, 20
+  size: 66, 67
+  orig: 68, 69
+  offset: 1, 1
+  index: -1
+chanphai
+  rotate: true
+  xy: 399, 370
+  size: 147, 304
+  orig: 147, 304
+  offset: 0, 0
+  index: -1
+chantrai
+  rotate: false
+  xy: 399, 65
+  size: 147, 303
+  orig: 147, 303
+  offset: 0, 0
+  index: -1
+co
+  rotate: true
+  xy: 868, 34
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 2, 88
+  size: 99, 134
+  orig: 99, 134
+  offset: 0, 0
+  index: -1
+day
+  rotate: true
+  xy: 892, 342
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+hong
+  rotate: true
+  xy: 886, 139
+  size: 186, 88
+  orig: 186, 88
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 868, 11
+  size: 59, 21
+  orig: 61, 23
+  offset: 1, 1
+  index: -1
+mat 2
+  rotate: true
+  xy: 943, 53
+  size: 59, 15
+  orig: 61, 17
+  offset: 1, 1
+  index: -1
+may
+  rotate: false
+  xy: 886, 114
+  size: 63, 23
+  orig: 65, 25
+  offset: 1, 1
+  index: -1
+sung
+  rotate: false
+  xy: 2, 189
+  size: 395, 328
+  orig: 397, 330
+  offset: 1, 1
+  index: -1
+sung2
+  rotate: false
+  xy: 892, 374
+  size: 82, 143
+  orig: 82, 143
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: true
+  xy: 138, 89
+  size: 98, 214
+  orig: 98, 214
+  offset: 0, 0
+  index: -1
+taytrai1
+  rotate: true
+  xy: 703, 5
+  size: 107, 163
+  orig: 109, 165
+  offset: 1, 1
+  index: -1
+taytrai2
+  rotate: false
+  xy: 138, 2
+  size: 189, 85
+  orig: 189, 85
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 704, 114
+  size: 211, 180
+  orig: 211, 180
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 80, 8
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 354, 93
+  size: 39, 94
+  orig: 41, 96
+  offset: 1, 1
+  index: -1
+tui3
+  rotate: true
+  xy: 2, 17
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1

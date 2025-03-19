@@ -1,0 +1,83 @@
+
+mb4.png
+size: 452,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan1
+  rotate: false
+  xy: 244, 40
+  size: 202, 157
+  orig: 202, 157
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: false
+  xy: 2, 2
+  size: 218, 130
+  orig: 219, 130
+  offset: 1, 0
+  index: -1
+chan3
+  rotate: false
+  xy: 2, 134
+  size: 240, 136
+  orig: 240, 136
+  offset: 0, 0
+  index: -1
+chan4
+  rotate: true
+  xy: 391, 740
+  size: 149, 48
+  orig: 149, 48
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 276, 341
+  size: 164, 160
+  orig: 166, 162
+  offset: 1, 1
+  index: -1
+mat
+  rotate: false
+  xy: 276, 199
+  size: 159, 140
+  orig: 160, 140
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 332, 536
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 441, 888
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+thanphai
+  rotate: true
+  xy: 2, 503
+  size: 186, 328
+  orig: 186, 328
+  offset: 0, 0
+  index: -1
+thantrai
+  rotate: true
+  xy: 2, 691
+  size: 198, 387
+  orig: 198, 387
+  offset: 0, 0
+  index: -1
+thantrong
+  rotate: true
+  xy: 2, 272
+  size: 229, 272
+  orig: 232, 274
+  offset: 2, 1
+  index: -1

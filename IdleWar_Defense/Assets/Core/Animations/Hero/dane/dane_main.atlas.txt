@@ -1,0 +1,153 @@
+
+dane_main.png
+size: 792,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banchansau
+  rotate: false
+  xy: 453, 117
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+banchantruoc
+  rotate: false
+  xy: 589, 107
+  size: 105, 144
+  orig: 105, 144
+  offset: 0, 0
+  index: -1
+bantaytrc
+  rotate: false
+  xy: 346, 2
+  size: 106, 101
+  orig: 106, 101
+  offset: 0, 0
+  index: -1
+chansau
+  rotate: true
+  xy: 457, 253
+  size: 117, 264
+  orig: 117, 264
+  offset: 0, 0
+  index: -1
+chantruoc
+  rotate: true
+  xy: 457, 372
+  size: 142, 268
+  orig: 142, 268
+  offset: 0, 0
+  index: -1
+cole
+  rotate: false
+  xy: 2, 294
+  size: 453, 220
+  orig: 455, 222
+  offset: 1, 1
+  index: -1
+dai
+  rotate: true
+  xy: 727, 396
+  size: 118, 34
+  orig: 118, 34
+  offset: 0, 0
+  index: -1
+dai2
+  rotate: false
+  xy: 696, 127
+  size: 94, 124
+  orig: 94, 124
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 454, 13
+  size: 93, 102
+  orig: 93, 102
+  offset: 0, 0
+  index: -1
+day
+  rotate: false
+  xy: 647, 14
+  size: 65, 91
+  orig: 67, 93
+  offset: 1, 1
+  index: -1
+mat
+  rotate: true
+  xy: 763, 463
+  size: 51, 21
+  orig: 53, 23
+  offset: 1, 1
+  index: -1
+mat nham
+  rotate: false
+  xy: 2, 4
+  size: 52, 8
+  orig: 54, 10
+  offset: 1, 1
+  index: -1
+taytruoc1
+  rotate: false
+  xy: 325, 105
+  size: 126, 187
+  orig: 126, 187
+  offset: 0, 0
+  index: -1
+taytruoc2
+  rotate: false
+  xy: 2, 14
+  size: 173, 83
+  orig: 173, 83
+  offset: 0, 0
+  index: -1
+taytruoc2 copy
+  rotate: false
+  xy: 177, 19
+  size: 167, 78
+  orig: 167, 78
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 99
+  size: 193, 321
+  orig: 193, 321
+  offset: 0, 0
+  index: -1
+thuoc
+  rotate: true
+  xy: 778, 18
+  size: 33, 12
+  orig: 35, 14
+  offset: 1, 1
+  index: -1
+tui1
+  rotate: false
+  xy: 714, 53
+  size: 68, 72
+  orig: 70, 74
+  offset: 1, 1
+  index: -1
+tui2
+  rotate: true
+  xy: 714, 2
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 723, 309
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+vaisau
+  rotate: true
+  xy: 549, 14
+  size: 91, 96
+  orig: 93, 98
+  offset: 1, 1
+  index: -1

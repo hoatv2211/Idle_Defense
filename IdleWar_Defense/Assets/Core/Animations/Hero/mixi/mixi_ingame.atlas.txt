@@ -1,0 +1,104 @@
+
+mixi_ingame.png
+size: 248,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/chanphai
+  rotate: false
+  xy: 102, 76
+  size: 72, 63
+  orig: 74, 65
+  offset: 1, 1
+  index: -1
+1/chantrai
+  rotate: true
+  xy: 158, 2
+  size: 72, 66
+  orig: 74, 68
+  offset: 1, 1
+  index: -1
+1/dao
+  rotate: false
+  xy: 2, 409
+  size: 199, 72
+  orig: 199, 72
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: true
+  xy: 130, 310
+  size: 97, 101
+  orig: 99, 103
+  offset: 1, 1
+  index: -1
+1/gai
+  rotate: true
+  xy: 130, 216
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+1/hong
+  rotate: false
+  xy: 115, 141
+  size: 98, 73
+  orig: 100, 75
+  offset: 1, 1
+  index: -1
+1/tayphai
+  rotate: false
+  xy: 83, 4
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: true
+  xy: 2, 151
+  size: 72, 111
+  orig: 72, 111
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: false
+  xy: 2, 5
+  size: 79, 69
+  orig: 81, 71
+  offset: 1, 1
+  index: -1
+1/vaiphai
+  rotate: false
+  xy: 176, 82
+  size: 67, 57
+  orig: 69, 59
+  offset: 1, 1
+  index: -1
+2/dao
+  rotate: false
+  xy: 2, 483
+  size: 204, 71
+  orig: 204, 72
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: true
+  xy: 2, 295
+  size: 112, 126
+  orig: 114, 128
+  offset: 1, 1
+  index: -1
+2/hong
+  rotate: false
+  xy: 2, 76
+  size: 98, 73
+  orig: 100, 75
+  offset: 1, 1
+  index: -1
+2/taytrai
+  rotate: true
+  xy: 2, 225
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1

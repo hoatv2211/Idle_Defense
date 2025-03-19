@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">113126707459</string>
+  <string name="google_storage_bucket" translatable="false">cyber-war-f11fa.appspot.com</string>
+  <string name="project_id" translatable="false">cyber-war-f11fa</string>
+  <string name="google_api_key" translatable="false">AIzaSyAQEQKD-YnuOFFJR8FEhYXD5_pF7eZpBzU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAQEQKD-YnuOFFJR8FEhYXD5_pF7eZpBzU</string>
+  <string name="google_app_id" translatable="false">1:113126707459:android:d1bcd8121260b0dd7f9936</string>
+  <string name="default_web_client_id" translatable="false">113126707459-kcojop5v0prkdpvprgitkmbaekmpjtej.apps.googleusercontent.com</string>
+</resources>

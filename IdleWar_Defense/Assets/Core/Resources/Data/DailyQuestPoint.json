@@ -1,0 +1,32 @@
+[
+	{
+		"point":2,
+		"rewardType":1,
+		"rewardId":17,
+		"rewardValue":2
+	},
+	{
+		"point":4,
+		"rewardType":6,
+		"rewardId":-1,
+		"rewardValue":5
+	},
+	{
+		"point":6,
+		"rewardType":1,
+		"rewardId":8,
+		"rewardValue":300
+	},
+	{
+		"point":8,
+		"rewardType":1,
+		"rewardId":9,
+		"rewardValue":1
+	},
+	{
+		"point":10,
+		"rewardType":1,
+		"rewardId":2,
+		"rewardValue":100
+	}
+]

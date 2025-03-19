@@ -1,0 +1,104 @@
+
+husk_ingame.png
+size: 684,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantayphai
+  rotate: false
+  xy: 189, 11
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+bantaytrai
+  rotate: true
+  xy: 2, 8
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+chanphai
+  rotate: true
+  xy: 389, 6
+  size: 56, 68
+  orig: 58, 70
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: true
+  xy: 311, 5
+  size: 57, 76
+  orig: 59, 78
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 459, 8
+  size: 77, 78
+  orig: 79, 80
+  offset: 1, 1
+  index: -1
+giao1
+  rotate: true
+  xy: 91, 55
+  size: 31, 200
+  orig: 33, 202
+  offset: 1, 1
+  index: -1
+giao2
+  rotate: true
+  xy: 293, 64
+  size: 22, 71
+  orig: 24, 73
+  offset: 1, 1
+  index: -1
+giao3
+  rotate: true
+  xy: 366, 64
+  size: 22, 71
+  orig: 24, 73
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 145, 2
+  size: 51, 42
+  orig: 53, 44
+  offset: 1, 1
+  index: -1
+taytrai
+  rotate: true
+  xy: 91, 11
+  size: 42, 52
+  orig: 44, 54
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 538, 13
+  size: 73, 72
+  orig: 75, 74
+  offset: 1, 1
+  index: -1
+toc
+  rotate: false
+  xy: 612, 15
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+vaiphai
+  rotate: true
+  xy: 233, 7
+  size: 46, 37
+  orig: 48, 39
+  offset: 1, 1
+  index: -1
+vaitrai
+  rotate: true
+  xy: 272, 7
+  size: 46, 37
+  orig: 48, 39
+  offset: 1, 1
+  index: -1

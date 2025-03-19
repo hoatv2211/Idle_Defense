@@ -1,0 +1,118 @@
+[
+	{
+		"type":1,
+		"info":"Win mission {0}"
+	},
+	{
+		"type":2,
+		"info":"Summon basic hero 1 time"
+	},
+	{
+		"type":3,
+		"info":"Summon basic hero {0} times"
+	},
+	{
+		"type":4,
+		"info":"Summon senior hero 1 time"
+	},
+	{
+		"type":5,
+		"info":"Summon senior hero {0} times"
+	},
+	{
+		"type":6,
+		"info":"Upgrade level hero 1 time"
+	},
+	{
+		"type":7,
+		"info":"Upgrade level hero {0} times"
+	},
+	{
+		"type":8,
+		"info":"Have 1 hero level {1}"
+	},
+	{
+		"type":9,
+		"info":"Have {0} heroes level {1}"
+	},
+	{
+		"type":10,
+		"info":"Equip gear for 1 hero"
+	},
+	{
+		"type":11,
+		"info":"Equip gear for {0} heroes"
+	},
+	{
+		"type":12,
+		"info":"Upgrade base to level {0}"
+	},
+	{
+		"type":13,
+		"info":"User level {0}"
+	},
+	{
+		"type":14,
+		"info":"Upgrade any trap 1 time"
+	},
+	{
+		"type":15,
+		"info":"Upgrade any trap {0} times"
+	},
+	{
+		"type":16,
+		"info":"Disassemble 1 gear"
+	},
+	{
+		"type":17,
+		"info":"Disassemble {0} gears"
+	},
+	{
+		"type":18,
+		"info":"Upgrade gear 1 time"
+	},
+	{
+		"type":19,
+		"info":"Upgrade gear {0} times"
+	},
+	{
+		"type":20,
+		"info":"Evolution hero 1 time"
+	},
+	{
+		"type":21,
+		"info":"Evolution hero {0} times"
+	},
+	{
+		"type":22,
+		"info":"Disassemble hero 1 time"
+	},
+	{
+		"type":23,
+		"info":"Disassemble hero {0} times"
+	},
+	{
+		"type":24,
+		"info":"Star up hero 1 time"
+	},
+	{
+		"type":25,
+		"info":"Star up hero {0} times"
+	},
+	{
+		"type":26,
+		"info":"Discovery 1 time"
+	},
+	{
+		"type":27,
+		"info":"Discovery {0} times"
+	},
+	{
+		"type":28,
+		"info":"Formation have 1 hero"
+	},
+	{
+		"type":29,
+		"info":"Formation have {0} heroes"
+	}
+]

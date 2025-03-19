@@ -1,0 +1,251 @@
+
+snake_main.png
+size: 1676,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/aosau
+  rotate: false
+  xy: 1282, 18
+  size: 89, 143
+  orig: 90, 143
+  offset: 0, 0
+  index: -1
+1/aotrc
+  rotate: false
+  xy: 788, 101
+  size: 217, 179
+  orig: 217, 179
+  offset: 0, 0
+  index: -1
+1/aotrc2
+  rotate: false
+  xy: 285, 16
+  size: 250, 265
+  orig: 250, 265
+  offset: 0, 0
+  index: -1
+1/chan
+  rotate: false
+  xy: 2, 2
+  size: 281, 279
+  orig: 281, 279
+  offset: 0, 0
+  index: -1
+1/co
+  rotate: true
+  xy: 1039, 287
+  size: 150, 88
+  orig: 150, 88
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: false
+  xy: 1464, 49
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+1/daugoi
+  rotate: false
+  xy: 1574, 58
+  size: 82, 95
+  orig: 84, 97
+  offset: 1, 1
+  index: -1
+1/day
+  rotate: false
+  xy: 855, 598
+  size: 438, 180
+  orig: 438, 180
+  offset: 0, 0
+  index: -1
+1/giayphai
+  rotate: true
+  xy: 1129, 230
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1
+1/giaytrai
+  rotate: false
+  xy: 1145, 2
+  size: 135, 151
+  orig: 135, 151
+  offset: 0, 0
+  index: -1
+1/khan
+  rotate: true
+  xy: 1589, 660
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+1/kinh
+  rotate: false
+  xy: 1625, 263
+  size: 49, 42
+  orig: 51, 44
+  offset: 1, 1
+  index: -1
+1/mat
+  rotate: true
+  xy: 809, 463
+  size: 67, 18
+  orig: 69, 20
+  offset: 1, 1
+  index: -1
+1/matnham
+  rotate: false
+  xy: 1282, 2
+  size: 63, 14
+  orig: 65, 16
+  offset: 1, 1
+  index: -1
+2/matnham
+  rotate: false
+  xy: 1282, 2
+  size: 63, 14
+  orig: 65, 16
+  offset: 1, 1
+  index: -1
+1/sung
+  rotate: false
+  xy: 2, 283
+  size: 805, 247
+  orig: 807, 249
+  offset: 1, 1
+  index: -1
+1/taysau
+  rotate: false
+  xy: 1464, 2
+  size: 52, 45
+  orig: 54, 47
+  offset: 1, 1
+  index: -1
+1/taytrc
+  rotate: true
+  xy: 1137, 368
+  size: 228, 153
+  orig: 228, 153
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: true
+  xy: 1511, 307
+  size: 188, 151
+  orig: 188, 151
+  offset: 0, 0
+  index: -1
+1/toc
+  rotate: true
+  xy: 940, 5
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+1/vay
+  rotate: false
+  xy: 855, 439
+  size: 280, 157
+  orig: 280, 157
+  offset: 0, 0
+  index: -1
+2/aosau
+  rotate: false
+  xy: 1373, 18
+  size: 89, 143
+  orig: 90, 143
+  offset: 0, 0
+  index: -1
+2/aotrc
+  rotate: false
+  xy: 1292, 316
+  size: 217, 179
+  orig: 217, 179
+  offset: 0, 0
+  index: -1
+2/chan
+  rotate: true
+  xy: 1295, 497
+  size: 281, 292
+  orig: 281, 292
+  offset: 0, 0
+  index: -1
+2/co
+  rotate: false
+  xy: 788, 11
+  size: 150, 88
+  orig: 150, 88
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: true
+  xy: 1007, 172
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+2/giayphai
+  rotate: false
+  xy: 1007, 2
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1
+2/giaytrai
+  rotate: true
+  xy: 1472, 155
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+2/khan
+  rotate: true
+  xy: 1589, 540
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+2/mat
+  rotate: true
+  xy: 1652, 711
+  size: 67, 18
+  orig: 69, 20
+  offset: 1, 1
+  index: -1
+2/sung
+  rotate: false
+  xy: 2, 532
+  size: 851, 246
+  orig: 853, 248
+  offset: 1, 1
+  index: -1
+2/taysau
+  rotate: true
+  xy: 1625, 209
+  size: 52, 47
+  orig: 54, 49
+  offset: 1, 1
+  index: -1
+2/taytrc
+  rotate: false
+  xy: 809, 282
+  size: 228, 155
+  orig: 228, 155
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: false
+  xy: 1282, 163
+  size: 188, 151
+  orig: 188, 151
+  offset: 0, 0
+  index: -1
+2/vaytrc2
+  rotate: false
+  xy: 537, 16
+  size: 249, 265
+  orig: 249, 265
+  offset: 0, 0
+  index: -1

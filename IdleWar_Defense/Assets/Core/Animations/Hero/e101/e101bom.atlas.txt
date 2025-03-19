@@ -1,0 +1,27 @@
+
+e101bom.png
+size: 104,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bom
+  rotate: true
+  xy: 70, 17
+  size: 35, 29
+  orig: 39, 34
+  offset: 2, 2
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+t_shadow
+  rotate: false
+  xy: 70, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

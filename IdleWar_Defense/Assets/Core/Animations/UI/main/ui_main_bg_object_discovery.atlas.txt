@@ -1,0 +1,90 @@
+
+ui_main_bg_object_discovery.png
+size: 888,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blastblue
+  rotate: true
+  xy: 587, 88
+  size: 133, 131
+  orig: 150, 150
+  offset: 10, 6
+  index: -1
+laserblue
+  rotate: false
+  xy: 2, 10
+  size: 42, 16
+  orig: 50, 50
+  offset: 4, 17
+  index: -1
+nen
+  rotate: false
+  xy: 2, 28
+  size: 329, 193
+  orig: 331, 195
+  offset: 1, 1
+  index: -1
+nha
+  rotate: false
+  xy: 333, 14
+  size: 252, 207
+  orig: 254, 209
+  offset: 1, 1
+  index: -1
+tay1
+  rotate: true
+  xy: 668, 4
+  size: 82, 73
+  orig: 84, 75
+  offset: 1, 1
+  index: -1
+tay12
+  rotate: false
+  xy: 833, 108
+  size: 48, 46
+  orig: 50, 48
+  offset: 1, 1
+  index: -1
+tay13
+  rotate: false
+  xy: 842, 12
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+tay14
+  rotate: true
+  xy: 720, 99
+  size: 122, 111
+  orig: 124, 113
+  offset: 1, 1
+  index: -1
+tay2
+  rotate: false
+  xy: 587, 2
+  size: 79, 84
+  orig: 81, 86
+  offset: 1, 1
+  index: -1
+tay22
+  rotate: false
+  xy: 842, 56
+  size: 44, 50
+  orig: 46, 52
+  offset: 1, 1
+  index: -1
+tay23
+  rotate: true
+  xy: 833, 156
+  size: 65, 45
+  orig: 67, 47
+  offset: 1, 1
+  index: -1
+tay24
+  rotate: true
+  xy: 743, 8
+  size: 89, 97
+  orig: 91, 99
+  offset: 1, 1
+  index: -1

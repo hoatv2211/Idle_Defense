@@ -1,0 +1,251 @@
+
+viruss_main.png
+size: 1892,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/aosau
+  rotate: false
+  xy: 1368, 29
+  size: 204, 245
+  orig: 204, 245
+  offset: 0, 0
+  index: -1
+1/chan
+  rotate: false
+  xy: 825, 132
+  size: 221, 390
+  orig: 221, 390
+  offset: 0, 0
+  index: -1
+1/co
+  rotate: true
+  xy: 1478, 278
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+1/coao
+  rotate: true
+  xy: 1836, 207
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: true
+  xy: 1664, 26
+  size: 90, 89
+  orig: 91, 89
+  offset: 1, 0
+  index: -1
+1/giaysau
+  rotate: true
+  xy: 1574, 166
+  size: 151, 78
+  orig: 151, 78
+  offset: 0, 0
+  index: -1
+1/giaytrc
+  rotate: false
+  xy: 977, 6
+  size: 90, 124
+  orig: 90, 124
+  offset: 0, 0
+  index: -1
+1/kinh
+  rotate: false
+  xy: 189, 2
+  size: 81, 36
+  orig: 81, 36
+  offset: 0, 0
+  index: -1
+1/mat
+  rotate: false
+  xy: 1365, 7
+  size: 46, 20
+  orig: 48, 22
+  offset: 1, 1
+  index: -1
+1/matnham
+  rotate: false
+  xy: 1413, 14
+  size: 44, 13
+  orig: 46, 15
+  offset: 1, 1
+  index: -1
+1/no
+  rotate: false
+  xy: 272, 4
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+1/piano
+  rotate: true
+  xy: 189, 40
+  size: 482, 154
+  orig: 484, 156
+  offset: 1, 1
+  index: -1
+1/taysau1
+  rotate: true
+  xy: 349, 3
+  size: 117, 182
+  orig: 117, 182
+  offset: 0, 0
+  index: -1
+1/taysau2
+  rotate: false
+  xy: 1662, 272
+  size: 180, 62
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+1/taytrc1
+  rotate: false
+  xy: 1662, 430
+  size: 188, 92
+  orig: 188, 92
+  offset: 0, 0
+  index: -1
+1/taytrc2
+  rotate: true
+  xy: 860, 6
+  size: 124, 115
+  orig: 124, 115
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: false
+  xy: 1574, 3
+  size: 88, 161
+  orig: 98, 161
+  offset: 0, 0
+  index: -1
+1/toc
+  rotate: true
+  xy: 1271, 138
+  size: 136, 95
+  orig: 136, 96
+  offset: 0, 1
+  index: -1
+1/vaisau
+  rotate: false
+  xy: 1281, 6
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+1/vestsau
+  rotate: false
+  xy: 1478, 319
+  size: 90, 203
+  orig: 90, 203
+  offset: 0, 0
+  index: -1
+1/vesttrc
+  rotate: false
+  xy: 345, 122
+  size: 238, 400
+  orig: 238, 400
+  offset: 0, 0
+  index: -1
+2/aosau
+  rotate: false
+  xy: 1271, 276
+  size: 205, 246
+  orig: 205, 246
+  offset: 0, 0
+  index: -1
+2/chan
+  rotate: false
+  xy: 1048, 132
+  size: 221, 390
+  orig: 221, 390
+  offset: 0, 0
+  index: -1
+2/coao
+  rotate: true
+  xy: 1844, 271
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: true
+  xy: 1755, 26
+  size: 90, 89
+  orig: 91, 89
+  offset: 1, 0
+  index: -1
+2/piano
+  rotate: true
+  xy: 2, 15
+  size: 507, 185
+  orig: 518, 202
+  offset: 10, 5
+  index: -1
+2/taysau1
+  rotate: true
+  xy: 533, 3
+  size: 117, 182
+  orig: 117, 182
+  offset: 0, 0
+  index: -1
+2/taysau2
+  rotate: false
+  xy: 1654, 208
+  size: 180, 62
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+2/taytrc1
+  rotate: false
+  xy: 1662, 336
+  size: 188, 92
+  orig: 188, 92
+  offset: 0, 0
+  index: -1
+2/taytrc2
+  rotate: true
+  xy: 1069, 8
+  size: 122, 113
+  orig: 124, 115
+  offset: 1, 1
+  index: -1
+2/than
+  rotate: true
+  xy: 1664, 118
+  size: 88, 161
+  orig: 98, 161
+  offset: 0, 0
+  index: -1
+2/toc
+  rotate: true
+  xy: 1184, 14
+  size: 116, 95
+  orig: 116, 95
+  offset: 0, 0
+  index: -1
+2/vaisau
+  rotate: true
+  xy: 717, 4
+  size: 116, 141
+  orig: 116, 142
+  offset: 0, 1
+  index: -1
+2/vestsau
+  rotate: false
+  xy: 1570, 319
+  size: 90, 203
+  orig: 90, 203
+  offset: 0, 0
+  index: -1
+2/vesttrc
+  rotate: false
+  xy: 585, 122
+  size: 238, 400
+  orig: 238, 400
+  offset: 0, 0
+  index: -1

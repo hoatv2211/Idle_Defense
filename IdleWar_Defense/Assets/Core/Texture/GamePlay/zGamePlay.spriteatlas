@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: zGamePlay
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: dd5041a2824b65a44b810ef37596faad, type: 3}
+    - {fileID: 2800000, guid: eec64b120a4ef9441a71dcecb81e2ff2, type: 3}
+    - {fileID: 2800000, guid: 2d3dece110f67c64aa7fd5f1a980bbb1, type: 3}
+    - {fileID: 2800000, guid: 69a53bf96f1f12c4badb7f06c2ff6cc8, type: 3}
+    - {fileID: 2800000, guid: 90d1b00f555eafe46bb86e1c48d15f87, type: 3}
+    - {fileID: 2800000, guid: 9411ddd71d30b1b41af65473878b024b, type: 3}
+    - {fileID: 2800000, guid: f9d0cbdd7553d97469a455a7311792e5, type: 3}
+    - {fileID: 2800000, guid: fbfcdb1e5712e274f8a6a0d15deb0cc4, type: 3}
+    - {fileID: 2800000, guid: aa8f5923682944244a4eb402928cac59, type: 3}
+    - {fileID: 2800000, guid: 4829abbbbc3808b4693209bd99c1f55b, type: 3}
+    totalSpriteSurfaceArea: 1165772
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2d3dece110f67c64aa7fd5f1a980bbb1, type: 3}
+  - {fileID: 21300000, guid: eec64b120a4ef9441a71dcecb81e2ff2, type: 3}
+  - {fileID: 21300000, guid: dd5041a2824b65a44b810ef37596faad, type: 3}
+  - {fileID: 21300000, guid: aa8f5923682944244a4eb402928cac59, type: 3}
+  - {fileID: 21300000, guid: 9411ddd71d30b1b41af65473878b024b, type: 3}
+  - {fileID: 21300000, guid: 69a53bf96f1f12c4badb7f06c2ff6cc8, type: 3}
+  - {fileID: 21300000, guid: f9d0cbdd7553d97469a455a7311792e5, type: 3}
+  - {fileID: 21300000, guid: fbfcdb1e5712e274f8a6a0d15deb0cc4, type: 3}
+  - {fileID: 21300000, guid: 90d1b00f555eafe46bb86e1c48d15f87, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Barrier3
+  - Barrier2
+  - Barrier1
+  - Lo chong
+  - earthQuake
+  - Base
+  - heroSlot
+  - icewall
+  - Chong
+  m_RenderDataMap: {}
+  m_Tag: zGamePlay
+  m_IsVariant: 0

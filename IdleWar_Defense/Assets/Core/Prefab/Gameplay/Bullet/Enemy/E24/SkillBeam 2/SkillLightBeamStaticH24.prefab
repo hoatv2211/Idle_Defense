@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8988484103300831375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8988484103300683985}
+  - component: {fileID: 8988484103306429203}
+  m_Layer: 0
+  m_Name: SkillLightBeamStaticH24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &8988484103300683985
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8988484103300831375}
+  m_LocalRotation: {x: 0.5, y: 0.5, z: 0.5, w: -0.5}
+  m_LocalPosition: {x: -0.02, y: 0, z: -0.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 90, z: 180}
+--- !u!114 &8988484103306429203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8988484103300831375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab65db61b0cbd7f4bb2afcba7e37d8ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  beamLineRendererPrefab: {fileID: 2518918461879895320, guid: 758e9c08a946f844a838045f5a6dc1f1,
+    type: 3}
+  beamStartPrefab: {fileID: 6547216462993740833, guid: 484bc13d17ebf6a46a49c4b9669323fd,
+    type: 3}
+  beamEndPrefab: {fileID: 346259677418093867, guid: 2ab51b955b7a3b54285f24e785fe03c7,
+    type: 3}
+  alwaysOn: 1
+  beamCollides: 1
+  beamLength: 120
+  beamEndOffset: 0
+  textureScrollSpeed: 10
+  textureLengthScale: 5
+  timeSpawn: 0.6
+  OnBeamEnd:
+    m_PersistentCalls:
+      m_Calls: []

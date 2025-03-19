@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 99f7577bf88eb7f468bf0c9e7236c57d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNI-Korin
+  fontNames:
+  - VNI-Korin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 679390e54f9f5994196d0da83d3ad709, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

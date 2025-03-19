@@ -1,0 +1,41 @@
+
+victor_ingame.png
+size: 256,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: false
+  xy: 2, 79
+  size: 142, 95
+  orig: 143, 95
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 146, 69
+  size: 108, 105
+  orig: 108, 105
+  offset: 0, 0
+  index: -1
+meo
+  rotate: true
+  xy: 2, 2
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: true
+  xy: 189, 13
+  size: 54, 65
+  orig: 56, 67
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 105, 4
+  size: 63, 82
+  orig: 65, 84
+  offset: 1, 1
+  index: -1

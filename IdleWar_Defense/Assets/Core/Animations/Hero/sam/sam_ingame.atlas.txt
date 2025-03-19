@@ -1,0 +1,188 @@
+
+sam_ingame.png
+size: 1956,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/chan
+  rotate: true
+  xy: 1877, 157
+  size: 101, 65
+  orig: 103, 67
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: false
+  xy: 1528, 2
+  size: 116, 97
+  orig: 117, 99
+  offset: 1, 1
+  index: -1
+1/giao
+  rotate: true
+  xy: 2, 6
+  size: 120, 393
+  orig: 120, 393
+  offset: 0, 0
+  index: -1
+1/khan1
+  rotate: true
+  xy: 1127, 10
+  size: 70, 98
+  orig: 71, 99
+  offset: 1, 0
+  index: -1
+1/khan2
+  rotate: true
+  xy: 1426, 20
+  size: 60, 88
+  orig: 61, 89
+  offset: 1, 0
+  index: -1
+1/tay1
+  rotate: true
+  xy: 823, 10
+  size: 114, 85
+  orig: 115, 85
+  offset: 1, 0
+  index: -1
+1/tay2
+  rotate: false
+  xy: 557, 7
+  size: 131, 117
+  orig: 132, 118
+  offset: 0, 1
+  index: -1
+1/than
+  rotate: true
+  xy: 1227, 8
+  size: 72, 98
+  orig: 75, 100
+  offset: 2, 1
+  index: -1
+1/vong
+  rotate: false
+  xy: 1528, 101
+  size: 177, 157
+  orig: 180, 159
+  offset: 1, 1
+  index: -1
+2/chan
+  rotate: false
+  xy: 910, 4
+  size: 101, 56
+  orig: 103, 58
+  offset: 1, 1
+  index: -1
+2/dau
+  rotate: false
+  xy: 1646, 2
+  size: 99, 97
+  orig: 100, 99
+  offset: 1, 1
+  index: -1
+2/giao
+  rotate: true
+  xy: 460, 126
+  size: 132, 438
+  orig: 132, 438
+  offset: 0, 0
+  index: -1
+2/khan1
+  rotate: true
+  xy: 1707, 157
+  size: 101, 168
+  orig: 101, 168
+  offset: 0, 0
+  index: -1
+2/khan2
+  rotate: true
+  xy: 397, 33
+  size: 91, 158
+  orig: 91, 158
+  offset: 0, 0
+  index: -1
+2/tay1
+  rotate: false
+  xy: 910, 62
+  size: 114, 85
+  orig: 115, 85
+  offset: 1, 0
+  index: -1
+3/tay1
+  rotate: false
+  xy: 910, 62
+  size: 114, 85
+  orig: 115, 85
+  offset: 1, 0
+  index: -1
+2/tay2
+  rotate: false
+  xy: 690, 7
+  size: 131, 117
+  orig: 132, 118
+  offset: 0, 1
+  index: -1
+2/than
+  rotate: true
+  xy: 1327, 8
+  size: 72, 97
+  orig: 75, 99
+  offset: 2, 1
+  index: -1
+2/vong
+  rotate: false
+  xy: 1330, 82
+  size: 196, 176
+  orig: 200, 178
+  offset: 2, 1
+  index: -1
+3/chan
+  rotate: true
+  xy: 900, 149
+  size: 109, 225
+  orig: 109, 225
+  offset: 0, 0
+  index: -1
+3/dau
+  rotate: false
+  xy: 1026, 54
+  size: 99, 93
+  orig: 100, 94
+  offset: 1, 1
+  index: -1
+3/giao
+  rotate: true
+  xy: 2, 128
+  size: 130, 456
+  orig: 133, 458
+  offset: 1, 1
+  index: -1
+3/tay2
+  rotate: true
+  xy: 1747, 21
+  size: 134, 118
+  orig: 136, 121
+  offset: 0, 2
+  index: -1
+3/than
+  rotate: true
+  xy: 1867, 11
+  size: 144, 87
+  orig: 146, 90
+  offset: 1, 1
+  index: -1
+3/vong
+  rotate: false
+  xy: 1127, 82
+  size: 201, 176
+  orig: 204, 179
+  offset: 2, 1
+  index: -1
+sang
+  rotate: false
+  xy: 1707, 133
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1

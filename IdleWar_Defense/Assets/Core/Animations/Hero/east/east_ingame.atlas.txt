@@ -1,0 +1,146 @@
+
+east_ingame.png
+size: 648,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/chan1
+  rotate: true
+  xy: 432, 231
+  size: 54, 78
+  orig: 56, 80
+  offset: 1, 1
+  index: -1
+1/chan2
+  rotate: true
+  xy: 546, 115
+  size: 56, 83
+  orig: 58, 85
+  offset: 1, 1
+  index: -1
+1/khien
+  rotate: false
+  xy: 89, 124
+  size: 75, 161
+  orig: 77, 163
+  offset: 1, 1
+  index: -1
+1/may xuc
+  rotate: false
+  xy: 166, 128
+  size: 131, 157
+  orig: 133, 159
+  offset: 1, 1
+  index: -1
+1/tay
+  rotate: false
+  xy: 221, 3
+  size: 76, 123
+  orig: 78, 125
+  offset: 1, 1
+  index: -1
+1/than
+  rotate: false
+  xy: 2, 4
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+1/toc
+  rotate: false
+  xy: 377, 10
+  size: 134, 116
+  orig: 136, 118
+  offset: 1, 1
+  index: -1
+1/vai1
+  rotate: false
+  xy: 571, 38
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+2/vai1
+  rotate: false
+  xy: 571, 38
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+1/vai2
+  rotate: true
+  xy: 432, 131
+  size: 40, 54
+  orig: 42, 56
+  offset: 1, 1
+  index: -1
+2/vai2
+  rotate: true
+  xy: 432, 131
+  size: 40, 54
+  orig: 42, 56
+  offset: 1, 1
+  index: -1
+2/chan1
+  rotate: true
+  xy: 432, 175
+  size: 54, 78
+  orig: 56, 80
+  offset: 1, 1
+  index: -1
+2/chan2
+  rotate: false
+  xy: 513, 30
+  size: 56, 83
+  orig: 58, 85
+  offset: 1, 1
+  index: -1
+2/day1
+  rotate: false
+  xy: 488, 132
+  size: 56, 39
+  orig: 57, 39
+  offset: 1, 0
+  index: -1
+2/day2
+  rotate: false
+  xy: 571, 2
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+2/khien
+  rotate: false
+  xy: 2, 103
+  size: 85, 182
+  orig: 87, 184
+  offset: 1, 1
+  index: -1
+2/may xuc
+  rotate: false
+  xy: 299, 128
+  size: 131, 157
+  orig: 133, 159
+  offset: 1, 1
+  index: -1
+2/tay
+  rotate: false
+  xy: 299, 3
+  size: 76, 123
+  orig: 78, 125
+  offset: 1, 1
+  index: -1
+2/than
+  rotate: true
+  xy: 122, 4
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+2/toc
+  rotate: true
+  xy: 513, 173
+  size: 112, 114
+  orig: 126, 116
+  offset: 13, 1
+  index: -1

@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Event
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6d55ee80d73772c499358a30d587d6ae, type: 3}
+    - {fileID: 2800000, guid: 349933fb1919cac40848b11e470fba36, type: 3}
+    - {fileID: 2800000, guid: e8a41bf2c6fd49c48a9bdf36ce7c8436, type: 3}
+    - {fileID: 2800000, guid: 2df9587c8e535d045ab4995163cf29a5, type: 3}
+    - {fileID: 2800000, guid: 5bd46a934306fe54db4eac96b7a66281, type: 3}
+    - {fileID: 2800000, guid: 942ef2d884352ea4fbe13d719341b9f8, type: 3}
+    - {fileID: 2800000, guid: 361eb5c7c804e0941ae882a2f44f28bd, type: 3}
+    - {fileID: 2800000, guid: 5249c083add332f4d85903498f3c6f78, type: 3}
+    - {fileID: 2800000, guid: 3918fec83beb7c84f87dfd399e15a717, type: 3}
+    - {fileID: 2800000, guid: 18c5fc19c32a2284680eba300b5e220e, type: 3}
+    - {fileID: 2800000, guid: e09e4c3907723864a912a09c03627943, type: 3}
+    - {fileID: 2800000, guid: 2f430d082304ccb4eb4408371d5e7de0, type: 3}
+    - {fileID: 2800000, guid: e3b11296a2470d64fa057ab2c3928b94, type: 3}
+    - {fileID: 2800000, guid: 38782e7276d5a16498beda3628d823a1, type: 3}
+    - {fileID: 2800000, guid: 814a932447e7df94aa088ea5aee3cbb0, type: 3}
+    - {fileID: 2800000, guid: bf58b72eec352f143a76616eacd00831, type: 3}
+    - {fileID: 2800000, guid: 2bcfd4ecd511cd249b72d7872bf229a1, type: 3}
+    - {fileID: 2800000, guid: f55fec9892c43754ebc0da429c249264, type: 3}
+    - {fileID: 2800000, guid: 1d9a3f9dc7897444f9345443e5311386, type: 3}
+    - {fileID: 2800000, guid: 8e94439db841a9d469fc1e6f0b7f0e19, type: 3}
+    - {fileID: 2800000, guid: 4273b1dae58a35040a00cfc195b400c4, type: 3}
+    - {fileID: 2800000, guid: 8bbd96cc92dafbd488ca708f12634305, type: 3}
+    - {fileID: 2800000, guid: 0cacf4fbf928ce946ad7594d67cb5956, type: 3}
+    - {fileID: 2800000, guid: f8f7e14baea033a45955bb83cd431474, type: 3}
+    totalSpriteSurfaceArea: 3000818
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6d55ee80d73772c499358a30d587d6ae, type: 3}
+  - {fileID: 21300000, guid: 38782e7276d5a16498beda3628d823a1, type: 3}
+  - {fileID: 21300000, guid: e8a41bf2c6fd49c48a9bdf36ce7c8436, type: 3}
+  - {fileID: 21300000, guid: 5249c083add332f4d85903498f3c6f78, type: 3}
+  - {fileID: 21300000, guid: 5bd46a934306fe54db4eac96b7a66281, type: 3}
+  - {fileID: 21300000, guid: 814a932447e7df94aa088ea5aee3cbb0, type: 3}
+  - {fileID: 21300000, guid: e3b11296a2470d64fa057ab2c3928b94, type: 3}
+  - {fileID: 21300000, guid: 361eb5c7c804e0941ae882a2f44f28bd, type: 3}
+  - {fileID: 21300000, guid: 2f430d082304ccb4eb4408371d5e7de0, type: 3}
+  - {fileID: 21300000, guid: f55fec9892c43754ebc0da429c249264, type: 3}
+  - {fileID: 21300000, guid: 3918fec83beb7c84f87dfd399e15a717, type: 3}
+  - {fileID: 21300000, guid: 942ef2d884352ea4fbe13d719341b9f8, type: 3}
+  - {fileID: 21300000, guid: 18c5fc19c32a2284680eba300b5e220e, type: 3}
+  - {fileID: 21300000, guid: e09e4c3907723864a912a09c03627943, type: 3}
+  - {fileID: 21300000, guid: 4273b1dae58a35040a00cfc195b400c4, type: 3}
+  - {fileID: 21300000, guid: f8f7e14baea033a45955bb83cd431474, type: 3}
+  - {fileID: 21300000, guid: 349933fb1919cac40848b11e470fba36, type: 3}
+  - {fileID: 21300000, guid: 0cacf4fbf928ce946ad7594d67cb5956, type: 3}
+  - {fileID: 21300000, guid: 2df9587c8e535d045ab4995163cf29a5, type: 3}
+  - {fileID: 21300000, guid: 8bbd96cc92dafbd488ca708f12634305, type: 3}
+  - {fileID: 21300000, guid: 2bcfd4ecd511cd249b72d7872bf229a1, type: 3}
+  - {fileID: 21300000, guid: 8e94439db841a9d469fc1e6f0b7f0e19, type: 3}
+  - {fileID: 21300000, guid: 1d9a3f9dc7897444f9345443e5311386, type: 3}
+  - {fileID: 21300000, guid: bf58b72eec352f143a76616eacd00831, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dau_tich
+  - Event-tach-2_0017_thanh-chay-xam-
+  - evenBackground_0
+  - nut_cam
+  - Khung_vang_
+  - Event-tach-2_0013_thanh-nat-vang-
+  - Event-tach-2_0016_thanh-chay-vang-
+  - khung_nho
+  - Event-tach-2_0015_mui-ten-xuong-
+  - Event-tach-2_0022_noi-
+  - Video_
+  - mo_trang
+  - Event-tach-2_0003_khoa-nau
+  - Event-tach-2_0000_khoa-xam-
+  - dai_xanh_2
+  - nut_xanh_la
+  - evenBackground
+  - premium_pass
+  - khung_xanh_
+  - thanh_xanh_
+  - Event-tach-2_0021_dai-xanh-
+  - ui_bg
+  - khung_hinh_
+  - Event-tach-2_0020_piano
+  m_RenderDataMap: {}
+  m_Tag: Event
+  m_IsVariant: 0

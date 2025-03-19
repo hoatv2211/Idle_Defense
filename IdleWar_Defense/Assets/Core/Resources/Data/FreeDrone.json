@@ -1,0 +1,58 @@
+[
+	{
+		"id":1,
+		"name":"Barrier",
+		"rewardType":6,
+		"rewardId":1,
+		"rewardValues":[1]
+	},
+	{
+		"id":2,
+		"name":"Ice grenade",
+		"rewardType":6,
+		"rewardId":2,
+		"rewardValues":[1]
+	},
+	{
+		"id":3,
+		"name":"Fire grenade",
+		"rewardType":6,
+		"rewardId":3,
+		"rewardValues":[1]
+	},
+	{
+		"id":4,
+		"name":"Electric grenade",
+		"rewardType":6,
+		"rewardId":4,
+		"rewardValues":[1]
+	},
+	{
+		"id":5,
+		"name":"First air kit",
+		"rewardType":6,
+		"rewardId":5,
+		"rewardValues":[1]
+	},
+	{
+		"id":6,
+		"name":"Call",
+		"rewardType":6,
+		"rewardId":6,
+		"rewardValues":[1]
+	},
+	{
+		"id":7,
+		"name":"Mines",
+		"rewardType":6,
+		"rewardId":7,
+		"rewardValues":[1]
+	},
+	{
+		"id":8,
+		"name":"Trap",
+		"rewardType":6,
+		"rewardId":8,
+		"rewardValues":[1]
+	}
+]

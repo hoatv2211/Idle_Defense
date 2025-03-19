@@ -1,0 +1,48 @@
+
+franky_ingame.png
+size: 424,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanphai
+  rotate: false
+  xy: 340, 35
+  size: 77, 89
+  orig: 79, 91
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: false
+  xy: 335, 180
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 224, 2
+  size: 114, 122
+  orig: 116, 124
+  offset: 1, 1
+  index: -1
+guitar
+  rotate: false
+  xy: 2, 4
+  size: 220, 261
+  orig: 222, 263
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: true
+  xy: 335, 126
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 224, 126
+  size: 139, 109
+  orig: 139, 109
+  offset: 0, 0
+  index: -1

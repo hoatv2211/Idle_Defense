@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 40d1b1518b654a3478049daad9f0f47b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4121434368404023594
+    second: gp_btn_control1
+  - first:
+      213: -6912230955950138699
+    second: gp_btn_control2
+  - first:
+      213: 4186748321649849047
+    second: gp_btn_control3 copy
+  - first:
+      213: 3044695068018807676
+    second: gp_btn_control3
+  - first:
+      213: 1930971941402550178
+    second: gp_btn_pause
+  - first:
+      213: -2387939348121385519
+    second: gp_btn_speedx1
+  - first:
+      213: 202186890480030221
+    second: gp_btn_speedx2
+  - first:
+      213: 9085493252343414324
+    second: ui_btn_trap copy 2
+  - first:
+      213: -6037165358489707443
+    second: ui_btn_trap copy 3
+  - first:
+      213: -7937396002414083778
+    second: ui_btn_trap copy
+  - first:
+      213: 3720791705900398171
+    second: ui_btn_trap
+  - first:
+      213: -5319672936003410929
+    second: ui_btn_trap_numb
+  - first:
+      213: -8052816590194651159
+    second: ui_btn_trap_numb_change
+  - first:
+      213: -6692448595519523555
+    second: ui_main_icon_tab_black
+  - first:
+      213: -9052611066117517706
+    second: ui_tab_enemy1
+  - first:
+      213: 8210328757867643029
+    second: ui_tab_enemy2a
+  - first:
+      213: -3981768699169282487
+    second: ui_tab_enemy2b
+  - first:
+      213: -8518822723174995416
+    second: ui_tab_enemy2c
+  - first:
+      213: 2422838989839260967
+    second: ui_tab_tower1
+  - first:
+      213: 1938546432254907207
+    second: ui_tab_tower2a
+  - first:
+      213: -6737591568655672885
+    second: ui_tab_tower2b
+  - first:
+      213: -5571218821166129458
+    second: ui_tab_tower2c
+  - first:
+      213: -2806149420220860651
+    second: ui_top_tab_coin
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gp_btn_control1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 28
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6113a3749bdc6c0800000000000000
+      internalID: -4121434368404023594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp_btn_control2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba12217192d210a0800000000000000
+      internalID: -6912230955950138699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp_btn_control3 copy
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 225
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2f6eb8a615a1a30800000000000000
+      internalID: 4186748321649849047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp_btn_control3
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 225
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7315aa680ee04a20800000000000000
+      internalID: 3044695068018807676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp_btn_pause
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 443
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af9b8effb03cca10800000000000000
+      internalID: 1930971941402550178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp_btn_speedx1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 23
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d50c0290d55cded0800000000000000
+      internalID: -2387939348121385519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gp_btn_speedx2
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 351
+        width: 115
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d029d49d7ef4ec200800000000000000
+      internalID: 202186890480030221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_btn_trap copy 2
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 242
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e332bd9f7261e70800000000000000
+      internalID: 9085493252343414324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_btn_trap copy 3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 242
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c5decb71ea73ca0800000000000000
+      internalID: -6037165358489707443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_btn_trap copy
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 242
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c082d364b8d190800000000000000
+      internalID: -7937396002414083778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_btn_trap
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 116
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b969c758e2a330800000000000000
+      internalID: 3720791705900398171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_btn_trap_numb
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 147
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04e14846a9bc26b0800000000000000
+      internalID: -5319672936003410929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_btn_trap_numb_change
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 355
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef43141af5ae3090800000000000000
+      internalID: -8052816590194651159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_main_icon_tab_black
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 385
+        width: 187
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d153f72e575af13a0800000000000000
+      internalID: -6692448595519523555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_tab_enemy1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e8b4ab23aae5280800000000000000
+      internalID: -9052611066117517706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_tab_enemy2a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 710
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59000ed4182f0f170800000000000000
+      internalID: 8210328757867643029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_tab_enemy2b
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 405
+        width: 710
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ee34e67aedb8c0800000000000000
+      internalID: -3981768699169282487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_tab_enemy2c
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 710
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ae0a03edf07c980800000000000000
+      internalID: -8518822723174995416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_tab_tower1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dd5597937af9120800000000000000
+      internalID: 2422838989839260967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_tab_tower2a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 297
+        width: 710
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743972395b917ea10800000000000000
+      internalID: 1938546432254907207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_tab_tower2b
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 710
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc99c946a244f72a0800000000000000
+      internalID: -6737591568655672885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_tab_tower2c
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 710
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece1c6eeffd0fa2b0800000000000000
+      internalID: -5571218821166129458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_top_tab_coin
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 443
+        width: 225
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517311d48fd8e09d0800000000000000
+      internalID: -2806149420220860651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gp_btn_control1: -4121434368404023594
+      gp_btn_control2: -6912230955950138699
+      gp_btn_control3: 3044695068018807676
+      gp_btn_control3 copy: 4186748321649849047
+      gp_btn_pause: 1930971941402550178
+      gp_btn_speedx1: -2387939348121385519
+      gp_btn_speedx2: 202186890480030221
+      ui_btn_trap: 3720791705900398171
+      ui_btn_trap copy: -7937396002414083778
+      ui_btn_trap copy 2: 9085493252343414324
+      ui_btn_trap copy 3: -6037165358489707443
+      ui_btn_trap_numb: -5319672936003410929
+      ui_btn_trap_numb_change: -8052816590194651159
+      ui_main_icon_tab_black: -6692448595519523555
+      ui_tab_enemy1: -9052611066117517706
+      ui_tab_enemy2a: 8210328757867643029
+      ui_tab_enemy2b: -3981768699169282487
+      ui_tab_enemy2c: -8518822723174995416
+      ui_tab_tower1: 2422838989839260967
+      ui_tab_tower2a: 1938546432254907207
+      ui_tab_tower2b: -6737591568655672885
+      ui_tab_tower2c: -5571218821166129458
+      ui_top_tab_coin: -2806149420220860651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

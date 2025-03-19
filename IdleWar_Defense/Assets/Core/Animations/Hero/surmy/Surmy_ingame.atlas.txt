@@ -1,0 +1,90 @@
+
+Surmy_ingame.png
+size: 408,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/dau
+  rotate: false
+  xy: 2, 2
+  size: 105, 102
+  orig: 108, 104
+  offset: 2, 1
+  index: -1
+2/dau
+  rotate: false
+  xy: 2, 2
+  size: 105, 102
+  orig: 108, 104
+  offset: 2, 1
+  index: -1
+1/kiem
+  rotate: true
+  xy: 227, 17
+  size: 38, 157
+  orig: 38, 158
+  offset: 0, 0
+  index: -1
+1/tay
+  rotate: false
+  xy: 227, 73
+  size: 66, 115
+  orig: 66, 115
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: true
+  xy: 295, 57
+  size: 276, 108
+  orig: 278, 110
+  offset: 1, 1
+  index: -1
+1/toc
+  rotate: true
+  xy: 184, 390
+  size: 156, 221
+  orig: 156, 222
+  offset: 0, 0
+  index: -1
+1/vai
+  rotate: false
+  xy: 184, 335
+  size: 76, 53
+  orig: 78, 55
+  offset: 1, 1
+  index: -1
+2/kiem
+  rotate: true
+  xy: 2, 106
+  size: 82, 200
+  orig: 82, 200
+  offset: 0, 0
+  index: -1
+2/tay
+  rotate: true
+  xy: 109, 5
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: false
+  xy: 2, 190
+  size: 291, 133
+  orig: 293, 135
+  offset: 1, 1
+  index: -1
+2/toc
+  rotate: false
+  xy: 2, 325
+  size: 180, 221
+  orig: 180, 222
+  offset: 0, 0
+  index: -1
+2/vai
+  rotate: false
+  xy: 262, 335
+  size: 76, 53
+  orig: 78, 55
+  offset: 1, 1
+  index: -1

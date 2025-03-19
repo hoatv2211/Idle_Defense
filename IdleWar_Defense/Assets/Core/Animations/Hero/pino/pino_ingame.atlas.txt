@@ -1,0 +1,104 @@
+
+pino_ingame.png
+size: 724,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/chanphai
+  rotate: false
+  xy: 469, 3
+  size: 54, 58
+  orig: 56, 60
+  offset: 1, 1
+  index: -1
+1/chantrai
+  rotate: true
+  xy: 252, 7
+  size: 41, 73
+  orig: 44, 75
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: true
+  xy: 2, 12
+  size: 157, 152
+  orig: 157, 152
+  offset: 0, 0
+  index: -1
+1/sung
+  rotate: true
+  xy: 648, 6
+  size: 76, 73
+  orig: 78, 75
+  offset: 1, 1
+  index: -1
+1/tayphai
+  rotate: true
+  xy: 459, 63
+  size: 106, 181
+  orig: 106, 181
+  offset: 0, 0
+  index: -1
+1/taytrai
+  rotate: false
+  xy: 642, 84
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+1/vaiphai
+  rotate: true
+  xy: 402, 2
+  size: 52, 65
+  orig: 54, 67
+  offset: 1, 1
+  index: -1
+1/vaitrai
+  rotate: false
+  xy: 156, 2
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+2/chanphai
+  rotate: false
+  xy: 525, 3
+  size: 54, 58
+  orig: 56, 60
+  offset: 1, 1
+  index: -1
+2/chantrai
+  rotate: true
+  xy: 327, 7
+  size: 41, 73
+  orig: 44, 75
+  offset: 1, 1
+  index: -1
+2/tayphai
+  rotate: true
+  xy: 156, 50
+  size: 119, 202
+  orig: 119, 202
+  offset: 0, 0
+  index: -1
+2/taytrai
+  rotate: true
+  xy: 360, 56
+  size: 113, 97
+  orig: 113, 97
+  offset: 0, 0
+  index: -1
+2/vaiphai
+  rotate: true
+  xy: 581, 9
+  size: 52, 65
+  orig: 54, 67
+  offset: 1, 1
+  index: -1
+2/vaitrai
+  rotate: false
+  xy: 204, 2
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1

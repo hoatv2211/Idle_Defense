@@ -1,0 +1,75 @@
+[
+	{
+		"id":1,
+		"type":2,
+		"sku":"mergedefend.gem.pack.1",
+		"name":"Gem pack 1",
+		"imgGemIndex":0,
+		"logName":"gem_1",
+		"rewardTypes":[1,1,8],
+		"rewardIds":[2,2,-1],
+		"rewardValues":[200,10,25],
+		"usd":"0.99$",
+		"note":"X2 Resource 1 ở lần đầu mua"
+	},
+	{
+		"id":2,
+		"type":2,
+		"sku":"mergedefend.gem.pack.2",
+		"name":"Gem pack 2",
+		"imgGemIndex":1,
+		"logName":"gem_2",
+		"rewardTypes":[1,1,8],
+		"rewardIds":[2,2,-1],
+		"rewardValues":[600,60,75],
+		"usd":"2.99$"
+	},
+	{
+		"id":3,
+		"type":2,
+		"sku":"mergedefend.gem.pack.3",
+		"name":"Gem pack 3",
+		"imgGemIndex":2,
+		"logName":"gem_3",
+		"rewardTypes":[1,1,8],
+		"rewardIds":[2,2,-1],
+		"rewardValues":[1000,150,125],
+		"usd":"4.99$"
+	},
+	{
+		"id":4,
+		"type":2,
+		"sku":"mergedefend.gem.pack.4",
+		"name":"Gem pack 4",
+		"imgGemIndex":3,
+		"logName":"gem_4",
+		"rewardTypes":[1,1,8],
+		"rewardIds":[2,2,-1],
+		"rewardValues":[2000,400,325],
+		"usd":"9.99$"
+	},
+	{
+		"id":5,
+		"type":2,
+		"sku":"mergedefend.gem.pack.5",
+		"name":"Gem pack 5",
+		"imgGemIndex":4,
+		"logName":"gem_5",
+		"rewardTypes":[1,1,8],
+		"rewardIds":[2,2,-1],
+		"rewardValues":[6000,1500,1000],
+		"usd":"29.99$"
+	},
+	{
+		"id":6,
+		"type":2,
+		"sku":"mergedefend.gem.pack.6",
+		"name":"Gem pack 6",
+		"imgGemIndex":5,
+		"logName":"gem_6",
+		"rewardTypes":[1,1,8],
+		"rewardIds":[2,2,-1],
+		"rewardValues":[10000,3000,2500],
+		"usd":"49.99$"
+	}
+]

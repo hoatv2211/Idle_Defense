@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6cdb155b2b768b4c8891c8ac7a236d9, type: 3}
+  m_Name: ContentUnlockInfor
+  m_EditorClassIdentifier: 
+  Datas:
+  - unlockLevel: 1001
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Unlocked <color=#E4BE2D>Summon Gate</color>
+
+      Unlocked <color=#E4BE2D>Quest</color>
+
+      Unlocked
+      <color=#E4BE2D>Afk Reward</color>
+
+      Unlocked <color=#E4BE2D>Formation
+      and Slot 2</color>
+
+      Unlocked <color=#E4BE2D>Upgrade Hero</color> & <color=#E4BE2D>Equip
+      Gear</color>'
+  - unlockLevel: 2015
+    GetUnlockValueFromFirebase: 1
+    unlockLevelFirebaseKey: PvPUnlock
+    unlockText: Unlocked  <color=#E4BE2D>PvP Mode</color>
+  - unlockLevel: 1005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Unlocked  <color=#E4BE2D>x10 summon</color>
+
+      Unlocked <color=#E4BE2D>Formation
+      Slot 3</color>'
+  - unlockLevel: 1008
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Unlocked <color=#E4BE2D>Achievement</color>
+  - unlockLevel: 1010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 
+  - unlockLevel: 2001
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Unlocked <color=#E4BE2D>Base</color>
+
+'
+  - unlockLevel: 2005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Unlocked <color=#E4BE2D>Lucky Wheel</color>
+  - unlockLevel: 2008
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Unlocked <color=#E4BE2D>Formation Slot 4</color>
+  - unlockLevel: 2010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Unlocked <color=#E4BE2D>Workshop</color>
+  - unlockLevel: 2015
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Unlocked <color=#E4BE2D>Star Up Hero</color>
+  - unlockLevel: 3005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Unlock <color=#E4BE2D>Discovery</color>
+
+      Gold Mine <color=#E4BE2D>Lv.1</color>
+
+      Scrap
+      Factory <color=#E4BE2D>Lv.1</color>'
+  - unlockLevel: 3010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Electric Core Center <color=#E4BE2D>Lv.1</color>
+
+      Nitrogen
+      Core Center <color=#E4BE2D>Lv.1</color>'
+  - unlockLevel: 3012
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Unlocked <color=#E4BE2D>Formation Slot 5</color>
+  - unlockLevel: 3015
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Unlocked <color=#E4BE2D>Hero Evolution</color>
+
+      Scrap Factory
+      <color=#E4BE2D>Lv.2</color>'
+  - unlockLevel: 4005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Unlocked <color=#E4BE2D>Hero Lab</color>
+
+      Gold Mine <color=#E4BE2D>Lv.2</color>'
+  - unlockLevel: 4010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Metalic Core Center <color=#E4BE2D>Lv.1</color>
+
+      Lava Core
+      Center <color=#E4BE2D>Lv.1</color>'
+  - unlockLevel: 4012
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Unlocked <color=#E4BE2D>Formation Slot 6</color>
+  - unlockLevel: 4015
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Unlocked <color=#E4BE2D>Lucky Wheel Royale</color>
+  - unlockLevel: 5005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Electric Core Center <color=#E4BE2D>Lv.2</color>
+
+      Nitrogen
+      Core Center <color=#E4BE2D>Lv.2</color>'
+  - unlockLevel: 5010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Metalic Core Center <color=#E4BE2D>Lv.2</color>
+
+      Lava Core
+      Center <color=#E4BE2D>Lv.2</color>'
+  - unlockLevel: 5015
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Gold Mine <color=#E4BE2D>Lv.3</color>
+  - unlockLevel: 6005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Scrap Factory <color=#E4BE2D>Lv.3</color>
+  - unlockLevel: 6010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Electric Core Center <color=#E4BE2D>Lv.3</color>
+
+      Nitrogen
+      Core Center <color=#E4BE2D>Lv.3</color>'
+  - unlockLevel: 6015
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Metalic Core Center <color=#E4BE2D>Lv.3</color>
+
+      Lava Core
+      Center <color=#E4BE2D>Lv.3</color>'
+  - unlockLevel: 7005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Gold Mine <color=#E4BE2D>Lv.4</color>
+  - unlockLevel: 7010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Scrap Factory <color=#E4BE2D>Lv.4</color>
+  - unlockLevel: 7015
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Electric Core Center <color=#E4BE2D>Lv.4</color>
+
+      Nitrogen
+      Core Center <color=#E4BE2D>Lv.4</color>'
+  - unlockLevel: 8005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Metalic Core Center <color=#E4BE2D>Lv.4</color>
+
+      Lava Core
+      Center <color=#E4BE2D>Lv.4</color>'
+  - unlockLevel: 8010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Gold Mine <color=#E4BE2D>Lv.5</color>
+  - unlockLevel: 8015
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: Scrap Factory <color=#E4BE2D>Lv.5</color>
+  - unlockLevel: 9005
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Electric Core Center <color=#E4BE2D>Lv.5</color>
+
+      Nitrogen
+      Core Center <color=#E4BE2D>Lv.5</color>'
+  - unlockLevel: 9010
+    GetUnlockValueFromFirebase: 0
+    unlockLevelFirebaseKey: 
+    unlockText: 'Metalic Core Center <color=#E4BE2D>Lv.5</color>
+
+      Lava Core
+      Center <color=#E4BE2D>Lv.5</color>'

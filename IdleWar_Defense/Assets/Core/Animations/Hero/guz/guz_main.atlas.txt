@@ -1,0 +1,188 @@
+
+guz_main.png
+size: 1656,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-11
+  rotate: false
+  xy: 362, 204
+  size: 264, 446
+  orig: 292, 480
+  offset: 14, 21
+  index: -1
+bantayphai
+  rotate: false
+  xy: 1558, 428
+  size: 93, 116
+  orig: 93, 116
+  offset: 0, 0
+  index: -1
+bantaytrai
+  rotate: true
+  xy: 1531, 292
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+chanphai1
+  rotate: true
+  xy: 235, 4
+  size: 182, 224
+  orig: 184, 226
+  offset: 1, 1
+  index: -1
+chanphai2
+  rotate: true
+  xy: 799, 306
+  size: 344, 284
+  orig: 344, 284
+  offset: 0, 0
+  index: -1
+chantrai
+  rotate: true
+  xy: 1085, 306
+  size: 344, 283
+  orig: 344, 284
+  offset: 0, 1
+  index: -1
+chim
+  rotate: false
+  xy: 799, 248
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 1370, 368
+  size: 159, 154
+  orig: 159, 154
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 689, 14
+  size: 372, 232
+  orig: 372, 232
+  offset: 0, 0
+  index: -1
+hamduoi1
+  rotate: true
+  xy: 1370, 2
+  size: 143, 66
+  orig: 143, 66
+  offset: 0, 0
+  index: -1
+hamduoi2
+  rotate: false
+  xy: 1370, 151
+  size: 139, 62
+  orig: 139, 62
+  offset: 0, 0
+  index: -1
+khien
+  rotate: false
+  xy: 2, 188
+  size: 358, 462
+  orig: 360, 464
+  offset: 1, 1
+  index: -1
+lung
+  rotate: true
+  xy: 628, 248
+  size: 402, 169
+  orig: 404, 171
+  offset: 1, 1
+  index: -1
+mat
+  rotate: true
+  xy: 944, 254
+  size: 50, 16
+  orig: 52, 18
+  offset: 1, 1
+  index: -1
+matnham
+  rotate: false
+  xy: 362, 191
+  size: 49, 11
+  orig: 51, 13
+  offset: 1, 1
+  index: -1
+sip
+  rotate: true
+  xy: 1370, 215
+  size: 151, 159
+  orig: 151, 159
+  offset: 0, 0
+  index: -1
+taitrai
+  rotate: false
+  xy: 962, 260
+  size: 60, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+tayphai1
+  rotate: true
+  xy: 1558, 546
+  size: 104, 94
+  orig: 106, 96
+  offset: 1, 1
+  index: -1
+tayphai2
+  rotate: true
+  xy: 461, 16
+  size: 186, 226
+  orig: 188, 228
+  offset: 1, 1
+  index: -1
+taytrai1
+  rotate: false
+  xy: 1370, 524
+  size: 186, 126
+  orig: 186, 126
+  offset: 0, 0
+  index: -1
+taytrai2
+  rotate: false
+  xy: 2, 3
+  size: 231, 183
+  orig: 233, 185
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 1063, 5
+  size: 299, 305
+  orig: 299, 305
+  offset: 0, 0
+  index: -1
+tocsau1
+  rotate: false
+  xy: 1438, 59
+  size: 154, 86
+  orig: 154, 86
+  offset: 0, 0
+  index: -1
+tocsau2
+  rotate: false
+  xy: 861, 250
+  size: 81, 54
+  orig: 83, 56
+  offset: 1, 1
+  index: -1
+toctrc
+  rotate: true
+  xy: 628, 205
+  size: 41, 49
+  orig: 43, 51
+  offset: 1, 1
+  index: -1
+vaiphai
+  rotate: false
+  xy: 1531, 147
+  size: 116, 143
+  orig: 118, 145
+  offset: 1, 1
+  index: -1

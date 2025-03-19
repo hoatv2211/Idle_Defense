@@ -1,0 +1,160 @@
+
+cheft_main.png
+size: 1720,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banchanphai
+  rotate: false
+  xy: 1191, 12
+  size: 169, 121
+  orig: 169, 121
+  offset: 0, 0
+  index: -1
+banchantrai
+  rotate: false
+  xy: 948, 7
+  size: 133, 114
+  orig: 133, 114
+  offset: 0, 0
+  index: -1
+bantayphai
+  rotate: false
+  xy: 1083, 28
+  size: 86, 93
+  orig: 88, 95
+  offset: 1, 1
+  index: -1
+bantaytrai
+  rotate: false
+  xy: 1362, 48
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+chanphai
+  rotate: true
+  xy: 1191, 135
+  size: 131, 271
+  orig: 131, 271
+  offset: 0, 0
+  index: -1
+chantrai
+  rotate: true
+  xy: 655, 112
+  size: 154, 291
+  orig: 154, 291
+  offset: 0, 0
+  index: -1
+chao
+  rotate: true
+  xy: 462, 108
+  size: 158, 191
+  orig: 158, 191
+  offset: 0, 0
+  index: -1
+dai lung
+  rotate: false
+  xy: 212, 2
+  size: 221, 66
+  orig: 221, 66
+  offset: 0, 0
+  index: -1
+dao
+  rotate: true
+  xy: 1464, 40
+  size: 226, 130
+  orig: 228, 132
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 1596, 3
+  size: 112, 95
+  orig: 112, 95
+  offset: 0, 0
+  index: -1
+do
+  rotate: false
+  xy: 2, 8
+  size: 165, 58
+  orig: 167, 60
+  offset: 1, 1
+  index: -1
+khan
+  rotate: false
+  xy: 771, 7
+  size: 169, 103
+  orig: 169, 103
+  offset: 0, 0
+  index: -1
+khansau
+  rotate: false
+  xy: 1362, 17
+  size: 71, 29
+  orig: 73, 31
+  offset: 1, 1
+  index: -1
+mat
+  rotate: true
+  xy: 169, 8
+  size: 58, 18
+  orig: 60, 20
+  offset: 1, 1
+  index: -1
+matnham
+  rotate: true
+  xy: 189, 9
+  size: 57, 14
+  orig: 59, 16
+  offset: 1, 1
+  index: -1
+may
+  rotate: false
+  xy: 1083, 12
+  size: 38, 14
+  orig: 40, 16
+  offset: 1, 1
+  index: -1
+mu
+  rotate: false
+  xy: 655, 2
+  size: 114, 108
+  orig: 114, 109
+  offset: 0, 0
+  index: -1
+pet
+  rotate: false
+  xy: 462, 47
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: true
+  xy: 948, 123
+  size: 143, 241
+  orig: 143, 241
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 1596, 100
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 212, 70
+  size: 248, 196
+  orig: 248, 196
+  offset: 0, 0
+  index: -1
+vat
+  rotate: false
+  xy: 2, 68
+  size: 208, 198
+  orig: 208, 198
+  offset: 0, 0
+  index: -1

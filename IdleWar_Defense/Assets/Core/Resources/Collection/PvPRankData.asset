@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1af3d2d27fffe41845faff9335970b, type: 3}
+  m_Name: PvPRankData
+  m_EditorClassIdentifier: 
+  PointWin: 299
+  PointLose: 99
+  Datas:
+  - ID: 21
+    RankName: Silver 1
+    RankGroupID: 5
+    RankPointRequest: 0
+    RankPointRange: 000000004c040000
+    RWGem: 10
+    RWSummonScroll: 5
+    RWHonor: 1000
+  - ID: 20
+    RankName: Silver 2
+    RankGroupID: 5
+    RankPointRequest: 100
+    RankPointRange: 000000004c040000
+    RWGem: 10
+    RWSummonScroll: 5
+    RWHonor: 1000
+  - ID: 19
+    RankName: Silver 3
+    RankGroupID: 5
+    RankPointRequest: 250
+    RankPointRange: 000000004c040000
+    RWGem: 10
+    RWSummonScroll: 5
+    RWHonor: 1000
+  - ID: 18
+    RankName: Silver 4
+    RankGroupID: 5
+    RankPointRequest: 500
+    RankPointRange: 000000004c040000
+    RWGem: 10
+    RWSummonScroll: 5
+    RWHonor: 1000
+  - ID: 17
+    RankName: Silver 5
+    RankGroupID: 5
+    RankPointRequest: 750
+    RankPointRange: 000000004c040000
+    RWGem: 10
+    RWSummonScroll: 5
+    RWHonor: 1000
+  - ID: 16
+    RankName: Gold 1
+    RankGroupID: 4
+    RankPointRequest: 1100
+    RankPointRange: 4c04000094110000
+    RWGem: 20
+    RWSummonScroll: 10
+    RWHonor: 2000
+  - ID: 15
+    RankName: Gold 2
+    RankGroupID: 4
+    RankPointRequest: 1500
+    RankPointRange: 4c04000094110000
+    RWGem: 20
+    RWSummonScroll: 10
+    RWHonor: 2000
+  - ID: 14
+    RankName: Gold 3
+    RankGroupID: 4
+    RankPointRequest: 2000
+    RankPointRange: 4c04000094110000
+    RWGem: 20
+    RWSummonScroll: 10
+    RWHonor: 2000
+  - ID: 13
+    RankName: Gold 4
+    RankGroupID: 4
+    RankPointRequest: 2600
+    RankPointRange: 4c04000094110000
+    RWGem: 20
+    RWSummonScroll: 10
+    RWHonor: 2000
+  - ID: 12
+    RankName: Gold 5
+    RankGroupID: 4
+    RankPointRequest: 3300
+    RankPointRange: 4c04000094110000
+    RWGem: 20
+    RWSummonScroll: 10
+    RWHonor: 2000
+  - ID: 11
+    RankName: Crystal 1
+    RankGroupID: 3
+    RankPointRequest: 4500
+    RankPointRange: 94110000983a0000
+    RWGem: 50
+    RWSummonScroll: 10
+    RWHonor: 3000
+  - ID: 10
+    RankName: Crystal 2
+    RankGroupID: 3
+    RankPointRequest: 6000
+    RankPointRange: 94110000983a0000
+    RWGem: 30
+    RWSummonScroll: 10
+    RWHonor: 3000
+  - ID: 9
+    RankName: Crystal 3
+    RankGroupID: 3
+    RankPointRequest: 7500
+    RankPointRange: 94110000983a0000
+    RWGem: 30
+    RWSummonScroll: 10
+    RWHonor: 3000
+  - ID: 8
+    RankName: Crystal 4
+    RankGroupID: 3
+    RankPointRequest: 9000
+    RankPointRange: 94110000983a0000
+    RWGem: 30
+    RWSummonScroll: 10
+    RWHonor: 3000
+  - ID: 7
+    RankName: Crystal 5
+    RankGroupID: 3
+    RankPointRequest: 11000
+    RankPointRange: 94110000983a0000
+    RWGem: 30
+    RWSummonScroll: 10
+    RWHonor: 3000
+  - ID: 6
+    RankName: Diamond 1
+    RankGroupID: 2
+    RankPointRequest: 15000
+    RankPointRange: 983a000030750000
+    RWGem: 50
+    RWSummonScroll: 10
+    RWHonor: 5000
+  - ID: 5
+    RankName: Diamond 2
+    RankGroupID: 2
+    RankPointRequest: 18000
+    RankPointRange: 983a000030750000
+    RWGem: 50
+    RWSummonScroll: 10
+    RWHonor: 5000
+  - ID: 4
+    RankName: Diamond 3
+    RankGroupID: 2
+    RankPointRequest: 21000
+    RankPointRange: 983a000030750000
+    RWGem: 50
+    RWSummonScroll: 20
+    RWHonor: 5000
+  - ID: 3
+    RankName: Diamond 4
+    RankGroupID: 2
+    RankPointRequest: 24000
+    RankPointRange: 983a000030750000
+    RWGem: 50
+    RWSummonScroll: 30
+    RWHonor: 5000
+  - ID: 2
+    RankName: Diamond 5
+    RankGroupID: 2
+    RankPointRequest: 27000
+    RankPointRange: 983a000030750000
+    RWGem: 50
+    RWSummonScroll: 40
+    RWHonor: 5000
+  - ID: 1
+    RankName: Challenger
+    RankGroupID: 1
+    RankPointRequest: 30000
+    RankPointRange: 30750000
+    RWGem: 100
+    RWSummonScroll: 50
+    RWHonor: 10000

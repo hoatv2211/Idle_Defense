@@ -1,0 +1,70 @@
+[
+	{
+		"id":1,
+		"type":3,
+		"sku":"mergedefend.defense.pack.1",
+		"name":"Defense pack 1",
+		"logName":"defense_pack_1",
+		"rewardTypes":[6,6,6,8],
+		"rewardIds":[1,8,7,-1],
+		"rewardValues":[10,10,10,25],
+		"usd":"0.99$"
+	},
+	{
+		"id":2,
+		"type":3,
+		"sku":"mergedefend.defense.pack.2",
+		"name":"Defense pack 2",
+		"logName":"defense_pack_2",
+		"rewardTypes":[6,6,6,8],
+		"rewardIds":[1,8,7,-1],
+		"rewardValues":[60,60,60,125],
+		"usd":"4.99$"
+	},
+	{
+		"id":3,
+		"type":3,
+		"sku":"mergedefend.helping.pack.1",
+		"name":"Helping pack 1",
+		"logName":"helping_pack_1",
+		"rewardTypes":[6,6,8],
+		"rewardIds":[6,5,-1],
+		"rewardValues":[5,10,25],
+		"usd":"0.99$"
+	},
+	{
+		"id":4,
+		"type":3,
+		"sku":"mergedefend.helping.pack.2",
+		"name":"Helping pack 2",
+		"logName":"helping_pack_1",
+		"rewardTypes":[6,6,8],
+		"rewardIds":[6,5,-1],
+		"rewardValues":[30,60,125],
+		"usd":"4.99$"
+	},
+	{
+		"id":5,
+		"type":3,
+		"sku":"mergedefend.grenader.pack.1",
+		"name":"Grenade pack 1",
+		"imgBgIndex":1,
+		"logName":"grenade_pack_1",
+		"rewardTypes":[6,6,6,8],
+		"rewardIds":[2,3,4,-1],
+		"rewardValues":[10,10,10,25],
+		"usd":"0.99$"
+	},
+	{
+		"id":6,
+		"type":3,
+		"sku":"mergedefend.grenader.pack.2",
+		"name":"Grenade pack 2",
+		"imgBgIndex":3,
+		"logName":"grenade_pack_2",
+		"rewardTypes":[6,6,6,8],
+		"rewardIds":[2,3,4,-1],
+		"rewardValues":[60,60,60,125],
+		"usd":"4.99$"
+	}
+]

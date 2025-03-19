@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:8a2126f49d335912bf6f867ac9c9a213:6215d00174025060e41c949a1d47cca0:ecc3803e112554b31d973a4926e95365$
+#
+:format=40300
+:texture=atlas_trap.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+t1;648;210;291;161; 0.5;0.5; 0;0;0;0
+t2;221;354;235;330; 0.5;0.5; 0;0;0;0
+t3;207;686;259;337; 0.5;0.5; 0;0;0;0
+t4;1;291;218;344; 0.5;0.5; 0;0;0;0
+t5;1;43;163;246; 0.5;0.5; 0;0;0;0
+t6;1;637;204;386; 0.5;0.5; 0;0;0;0
+t7;166;46;288;243; 0.5;0.5; 0;0;0;0
+t8;458;373;381;311; 0.5;0.5; 0;0;0;0
+t9;456;38;190;314; 0.5;0.5; 0;0;0;0

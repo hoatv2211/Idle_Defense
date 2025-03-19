@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328662601335",
+    "project_id": "idle-cyber-defense",
+    "storage_bucket": "idle-cyber-defense.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328662601335:android:6a09a09e67569a952a4072",
+        "android_client_info": {
+          "package_name": "com.mad.idlecyberdefense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Ef49LZ9WhmRevMi2Z2oKDj_mGUqV4dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2953 @@
+fileFormatVersion: 2
+guid: d66111af14c6c664991e99adcb83f259
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2508080277085801435
+    second: Bin_skill1
+  - first:
+      213: -5439562775328190739
+    second: Bin_skill2
+  - first:
+      213: 6523542955373538183
+    second: Bongminz_skill1
+  - first:
+      213: 1092408149270720649
+    second: Bongminz_skill2
+  - first:
+      213: 4228814772530094919
+    second: Bongminz_skill3
+  - first:
+      213: -8590331007402811972
+    second: Cheft_skill1
+  - first:
+      213: 401139088618995263
+    second: Cheft_skill2
+  - first:
+      213: -6966279766050238669
+    second: Daisy_skill1
+  - first:
+      213: -5703031100591060049
+    second: Daisy_skill2
+  - first:
+      213: -8014262936873007521
+    second: Daisy_skill3
+  - first:
+      213: -5078359121840789828
+    second: Daisy_skill4
+  - first:
+      213: -8994288946127857728
+    second: Dane_skill1
+  - first:
+      213: -2539562661365011721
+    second: Dane_skill2
+  - first:
+      213: -47182134834034709
+    second: Djchip_skill1
+  - first:
+      213: 5538804859603368043
+    second: Djchip_skill2
+  - first:
+      213: -156335699125582307
+    second: Djchip_skill3
+  - first:
+      213: 3228224922589208034
+    second: E101_skill1
+  - first:
+      213: 1538078829598690692
+    second: E101_skill2
+  - first:
+      213: -2910481941167558890
+    second: E101_skill3
+  - first:
+      213: 1538097109049170956
+    second: East_skill1
+  - first:
+      213: -3744583366103356762
+    second: East_skill2
+  - first:
+      213: -8366703836416517061
+    second: East_skill3
+  - first:
+      213: 7339112720636872512
+    second: East_skill4
+  - first:
+      213: 2730905981320752118
+    second: Firesolider_skill1
+  - first:
+      213: 243570255917196918
+    second: Firesolider_skill2
+  - first:
+      213: -1102368481729109603
+    second: Franky_skill1
+  - first:
+      213: -5409645438922312277
+    second: Franky_skill2
+  - first:
+      213: 2771481834955664840
+    second: Funky_skill1
+  - first:
+      213: 82907809474732174
+    second: Funky_skill2
+  - first:
+      213: 7658488655750310359
+    second: Funky_skill3
+  - first:
+      213: -5566650243897162790
+    second: Gaga_skill1
+  - first:
+      213: 3981772190314559244
+    second: Gaga_skill2
+  - first:
+      213: -5212315113991334107
+    second: Gin_skill1
+  - first:
+      213: -7649950685280536301
+    second: Gin_skill2
+  - first:
+      213: -1677407487643016693
+    second: Gin_skill3
+  - first:
+      213: 5541747317100711764
+    second: Gin_skill4
+  - first:
+      213: 7129603577038479264
+    second: Giner_skill1
+  - first:
+      213: 3301517780679217676
+    second: Giner_skill2
+  - first:
+      213: 512565148521036946
+    second: Guz_skill1
+  - first:
+      213: -4734424105666681108
+    second: Guz_skill2
+  - first:
+      213: 3479596211565830758
+    second: Guz_skill3
+  - first:
+      213: 2942420770149721888
+    second: Husk_skill1
+  - first:
+      213: 7162056921547479438
+    second: Husk_skill2
+  - first:
+      213: 9045312674905793250
+    second: Jonh_skill1
+  - first:
+      213: -6653148362324596680
+    second: Jonh_skill2
+  - first:
+      213: 2100893617028854627
+    second: Jonh_skill3
+  - first:
+      213: -4578395986404719768
+    second: Lucky_skill1
+  - first:
+      213: -1548965694084600142
+    second: Lucky_skill2
+  - first:
+      213: -207831624214815201
+    second: Martin_skill1
+  - first:
+      213: -3539024553437242874
+    second: Martin_skill2
+  - first:
+      213: -4470906894520894861
+    second: Mary_skill1
+  - first:
+      213: -7894412201551032738
+    second: Mary_skill2
+  - first:
+      213: 956985298914588222
+    second: Mel_skill1
+  - first:
+      213: -3707550863980035502
+    second: Mel_skill2
+  - first:
+      213: -6120960147729566765
+    second: Mel_skill3
+  - first:
+      213: -5028712910526399003
+    second: Mel_skill4
+  - first:
+      213: -4358084719503065184
+    second: Mixi_skill1
+  - first:
+      213: -2476474682178842970
+    second: Mixi_skill2
+  - first:
+      213: -3885692691724684930
+    second: Mixi_skill3
+  - first:
+      213: -7595793285749053493
+    second: Natsu_skill1
+  - first:
+      213: -1280201420939453174
+    second: Natsu_skill2
+  - first:
+      213: 6192616244991987085
+    second: Natsu_skill3
+  - first:
+      213: -1175768254030437002
+    second: Nhims_skill1
+  - first:
+      213: 287140522295191965
+    second: Nhims_skill2
+  - first:
+      213: 8621999042433336698
+    second: Nhims_skill3
+  - first:
+      213: 5110592828555850719
+    second: Pewpew_skill1
+  - first:
+      213: 1795447363705877356
+    second: Pewpew_skill2
+  - first:
+      213: 8166713485972915186
+    second: Pewpew_skill3
+  - first:
+      213: -874260851210965932
+    second: Pino_skill1
+  - first:
+      213: -3922921453696930199
+    second: Pino_skill2
+  - first:
+      213: -4688545492776639327
+    second: Pino_skill3
+  - first:
+      213: -7428555444897534879
+    second: Rambo_skill1
+  - first:
+      213: 6592118758093050136
+    second: Rambo_skill2
+  - first:
+      213: 2910442513459352367
+    second: Rambo_skill3
+  - first:
+      213: 1377267349681404041
+    second: Rus_skill1
+  - first:
+      213: -5583850456799891947
+    second: Rus_skill2
+  - first:
+      213: -9000940499799175992
+    second: Rus_skill3
+  - first:
+      213: 5316859264956638962
+    second: Rus_skill4
+  - first:
+      213: 2434775376674853260
+    second: Sam_skill1
+  - first:
+      213: 8325486473545965986
+    second: Sam_skill2
+  - first:
+      213: 7364288414393718793
+    second: Sam_skill3
+  - first:
+      213: -2873766886232780667
+    second: Sam_skill4
+  - first:
+      213: 2619316468010921596
+    second: Shift_skill1
+  - first:
+      213: 6001868638678812348
+    second: Shift_skill2
+  - first:
+      213: -5006917083392700593
+    second: Snake_skill1
+  - first:
+      213: -2855127170293424878
+    second: Snake_skill2
+  - first:
+      213: 8620156742176593705
+    second: Snake_skill3
+  - first:
+      213: -4956749093578692189
+    second: Surmy_skill1
+  - first:
+      213: 7765861767876279260
+    second: Surmy_skill2
+  - first:
+      213: -654329664880176840
+    second: Surmy_skill3
+  - first:
+      213: -5913040121055523947
+    second: Surmy_skill4
+  - first:
+      213: 8198489477036037921
+    second: Tany_skill1
+  - first:
+      213: -2881166561292347015
+    second: Tany_skill2
+  - first:
+      213: 4236628566587683451
+    second: Tany_skill3
+  - first:
+      213: -2095072849350800489
+    second: Tany_skill4
+  - first:
+      213: -2707576733396202434
+    second: Tom_skill1
+  - first:
+      213: -3423270690921123034
+    second: Tom_skill2
+  - first:
+      213: -2126926869892090981
+    second: Varuss_skill1
+  - first:
+      213: 6642237947028768787
+    second: Varuss_skill2
+  - first:
+      213: 6837258086067921041
+    second: Varuss_skill3
+  - first:
+      213: 8895134401159992686
+    second: Victor_skill1
+  - first:
+      213: -4837728428710251428
+    second: Victor_skill2
+  - first:
+      213: 8211772668437090602
+    second: Xemexis_skill1
+  - first:
+      213: 2265346778941672715
+    second: Xemexis_skill2
+  - first:
+      213: -6192762898010019255
+    second: Xemexis_skill3
+  - first:
+      213: 3119161199566380261
+    second: Yashu_skill1
+  - first:
+      213: 2229534609042375647
+    second: Yashu_skill2
+  - first:
+      213: 7822520088235241016
+    second: Zhao_skill1
+  - first:
+      213: 8305071408998051202
+    second: Zhao_skill2
+  - first:
+      213: 6969367754891706228
+    second: Zhao_skill3
+  - first:
+      213: 9094207311085463209
+    second: Ziao_skill1
+  - first:
+      213: -1873558605687855083
+    second: Ziao_skill2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bin_skill1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1851
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbccdf39bd7ec220800000000000000
+      internalID: 2508080277085801435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bin_skill2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 288
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee0023d97ac284b0800000000000000
+      internalID: -5439562775328190739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bongminz_skill1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 864
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78baa0431c7488a50800000000000000
+      internalID: 6523542955373538183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bongminz_skill2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 288
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980f5078c63092f00800000000000000
+      internalID: 1092408149270720649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bongminz_skill3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 94
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743a49161a4cfaa30800000000000000
+      internalID: 4228814772530094919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheft_skill1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1653
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd5bb8567309c880800000000000000
+      internalID: -8590331007402811972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheft_skill2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 288
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eb8a230e1219500800000000000000
+      internalID: 401139088618995263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_skill1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 668
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f8592367dc25f90800000000000000
+      internalID: -6966279766050238669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_skill2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 472
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabc3421e63cad0b0800000000000000
+      internalID: -5703031100591060049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f560b1ff15e97c090800000000000000
+      internalID: -8014262936873007521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daisy_skill4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 276
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6a0d4f84b0689b0800000000000000
+      internalID: -5078359121840789828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dane_skill1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1455
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c793d67bdddd2380800000000000000
+      internalID: -8994288946127857728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dane_skill2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 288
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa2e74f639a1ccd0800000000000000
+      internalID: -2539562661365011721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Djchip_skill1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7097d2910685ff0800000000000000
+      internalID: -47182134834034709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Djchip_skill2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1071
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68bdd88ca9cddc40800000000000000
+      internalID: 5538804859603368043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Djchip_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1648eb828594ddf0800000000000000
+      internalID: -156335699125582307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E101_skill1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 864
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed1ef59675fccc20800000000000000
+      internalID: 3228224922589208034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E101_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d47c2eb8a585510800000000000000
+      internalID: 1538078829598690692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E101_skill3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1071
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fa48b4814eb97d0800000000000000
+      internalID: -2910481941167558890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: East_skill1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1061
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c5ee6eb2b685510800000000000000
+      internalID: 1538097109049170956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: East_skill2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 94
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaa297a441980cc0800000000000000
+      internalID: -3744583366103356762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: East_skill3
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cde71803f73eb80800000000000000
+      internalID: -8366703836416517061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: East_skill4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1661
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0478c189224c9d560800000000000000
+      internalID: 7339112720636872512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firesolider_skill1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1257
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbec93658026e520800000000000000
+      internalID: 2730905981320752118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firesolider_skill2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 288
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676abc57bd5516300800000000000000
+      internalID: 243570255917196918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Franky_skill1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1853
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9123fad4b993b0f0800000000000000
+      internalID: -1102368481729109603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Franky_skill2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5393482241de4b0800000000000000
+      internalID: -5409645438922312277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky_skill1
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1273
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdeaf18b08467620800000000000000
+      internalID: 2771481834955664840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 681
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e8d4a63c862100800000000000000
+      internalID: 82907809474732174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Funky_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 487
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d92b522bda684a60800000000000000
+      internalID: 7658488655750310359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaga_skill1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1657
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30ba7b8194fb2b0800000000000000
+      internalID: -5566650243897162790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaga_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c077a34f5b8124730800000000000000
+      internalID: 3981772190314559244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gin_skill1
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 293
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527952515032aa7b0800000000000000
+      internalID: -5212315113991334107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gin_skill2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 288
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319f896026ae5d590800000000000000
+      internalID: -7649950685280536301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gin_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 99
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02257bf6c6a8b8e0800000000000000
+      internalID: -1677407487643016693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gin_skill4
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f03cec2dd38ec40800000000000000
+      internalID: 5541747317100711764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giner_skill1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1461
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af9bb6dda071f260800000000000000
+      internalID: 7129603577038479264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giner_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c025509ede851dd20800000000000000
+      internalID: 3301517780679217676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guz_skill1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1265
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c77d1794ffc1700800000000000000
+      internalID: 512565148521036946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guz_skill2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 668
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6e0b52c52fb4eb0800000000000000
+      internalID: -4734424105666681108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guz_skill3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 94
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6622d2891520a4030800000000000000
+      internalID: 3479596211565830758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk_skill1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 472
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0276180d91495d820800000000000000
+      internalID: 2942420770149721888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8917fde2dcb46360800000000000000
+      internalID: 7162056921547479438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonh_skill1
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2291624f7678d70800000000000000
+      internalID: 9045312674905793250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonh_skill2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1071
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838aba970d44ba3a0800000000000000
+      internalID: -6653148362324596680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jonh_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363f3e91d9fd72d10800000000000000
+      internalID: 2100893617028854627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucky_skill1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 276
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863c5459b154670c0800000000000000
+      internalID: -4578395986404719768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lucky_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be22d278e7f08ae0800000000000000
+      internalID: -1548965694084600142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martin_skill1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 80
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e55992d32ad1df0800000000000000
+      internalID: -207831624214815201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martin_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60adcf05bebd2eec0800000000000000
+      internalID: -3539024553437242874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mary_skill1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 865
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37abc380ed524f1c0800000000000000
+      internalID: -4470906894520894861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mary_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e8a08dde9617290800000000000000
+      internalID: -7894412201551032738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mel_skill1
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36331d1f05e74d00800000000000000
+      internalID: 956985298914588222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mel_skill2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1071
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25207c5f1222c8cc0800000000000000
+      internalID: -3707550863980035502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mel_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3b1460d2bfd0ba0800000000000000
+      internalID: -6120960147729566765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mel_skill4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 482
+        width: 194
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed37aa404c663ab0800000000000000
+      internalID: -5028712910526399003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mixi_skill1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1069
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af36f8a909f483c0800000000000000
+      internalID: -4358084719503065184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mixi_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae4b71c56bc1add0800000000000000
+      internalID: -2476474682178842970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mixi_skill3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e713b6b851f331ac0800000000000000
+      internalID: -3885692691724684930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu_skill1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1853
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc761a73042569690800000000000000
+      internalID: -7595793285749053493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu_skill2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1657
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d14f7279fcb3ee0800000000000000
+      internalID: -1280201420939453174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu_skill3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1060
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d8f093aa790f550800000000000000
+      internalID: 6192616244991987085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhims_skill1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1461
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675a550a005deafe0800000000000000
+      internalID: -1175768254030437002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhims_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d996600a8c02cf300800000000000000
+      internalID: 287140522295191965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nhims_skill3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a754ff1a27e77a770800000000000000
+      internalID: 8621999042433336698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pewpew_skill1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1265
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3fab9b9197ce640800000000000000
+      internalID: 5110592828555850719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pewpew_skill2
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b9965dd5bae810800000000000000
+      internalID: 1795447363705877356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pewpew_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3cec975aef55170800000000000000
+      internalID: 8166713485972915186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pino_skill1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 669
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c2a8a43600ed3f0800000000000000
+      internalID: -874260851210965932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pino_skill2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 473
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ea2aee8bbfe89c0800000000000000
+      internalID: -3922921453696930199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pino_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a42acd17b0feeeb0800000000000000
+      internalID: -4688545492776639327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_skill1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 277
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ca6985e2878e890800000000000000
+      internalID: -7428555444897534879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_skill2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1071
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811535d7519eb7b50800000000000000
+      internalID: 6592118758093050136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rambo_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2390f9bb08f36820800000000000000
+      internalID: 2910442513459352367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rus_skill1
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988f0828b590d1310800000000000000
+      internalID: 1377267349681404041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rus_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 487
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e2a83189d2282b0800000000000000
+      internalID: -5583850456799891947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rus_skill3
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1661
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc0b01fd4c361380800000000000000
+      internalID: -9000940499799175992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rus_skill4
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1661
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f62c70e45749c940800000000000000
+      internalID: 5316859264956638962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_skill1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 81
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81929a1e4f0ac120800000000000000
+      internalID: 2434775376674853260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1e60e56d11a8370800000000000000
+      internalID: 8325486473545965986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_skill3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1855
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90856739b45333660800000000000000
+      internalID: 7364288414393718793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_skill4
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1661
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58090da2e345e18d0800000000000000
+      internalID: -2873766886232780667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shift_skill1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 873
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e2f1e237ea95420800000000000000
+      internalID: 2619316468010921596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shift_skill2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb602054abbea4350800000000000000
+      internalID: 6001868638678812348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_skill1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1069
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f0b80c07bd38ab0800000000000000
+      internalID: -5006917083392700593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 99
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d181a37fc8068d0800000000000000
+      internalID: -2855127170293424878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snake_skill3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 94
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927df9da2e2f0a770800000000000000
+      internalID: 8620156742176593705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surmy_skill1
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1661
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9a08c16f6163bb0800000000000000
+      internalID: -4956749093578692189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surmy_skill2
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1661
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7d01f122e5cb60800000000000000
+      internalID: 7765861767876279260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surmy_skill3
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83111d6f2aa5be6f0800000000000000
+      internalID: -654329664880176840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surmy_skill4
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b4ad9a659a0fda0800000000000000
+      internalID: -5913040121055523947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tany_skill1
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127d28dedb2e6c170800000000000000
+      internalID: 8198489477036037921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tany_skill2
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9799f6f074a0408d0800000000000000
+      internalID: -2881166561292347015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tany_skill3
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b723bb41c378bca30800000000000000
+      internalID: 4236628566587683451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tany_skill4
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1273
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b41ebf75ecce2e0800000000000000
+      internalID: -2095072849350800489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_skill1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1853
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c8ecb6e41cc6ad0800000000000000
+      internalID: -2707576733396202434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tom_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f3a1a1791e70d0800000000000000
+      internalID: -3423270690921123034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Varuss_skill1
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1273
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9339d0e743ab72e0800000000000000
+      internalID: -2126926869892090981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Varuss_skill2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1657
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31805428838fd2c50800000000000000
+      internalID: 6642237947028768787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Varuss_skill3
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190eeb10102d2ee50800000000000000
+      internalID: 6837258086067921041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victor_skill1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1657
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e659f720c9dd17b70800000000000000
+      internalID: 8895134401159992686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victor_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54baee10afecdcb0800000000000000
+      internalID: -4837728428710251428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xemexis_skill1
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1273
+        width: 193
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21547eebb316f170800000000000000
+      internalID: 8211772668437090602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xemexis_skill2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1071
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc4e3a4e0207f10800000000000000
+      internalID: 2265346778941672715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xemexis_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ae4e574f2ee0aa0800000000000000
+      internalID: -6192762898010019255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yashu_skill1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1461
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecd551c59c794b20800000000000000
+      internalID: 3119161199566380261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yashu_skill2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1467
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd309621ae5e0fe10800000000000000
+      internalID: 2229534609042375647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zhao_skill1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1265
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6e93239c2f8c60800000000000000
+      internalID: 7822520088235241016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zhao_skill2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1071
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28de49fb17a814370800000000000000
+      internalID: 8305071408998051202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zhao_skill3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fb16b3c0b28b060800000000000000
+      internalID: 6969367754891706228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ziao_skill1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 677
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a66203cd5d153e70800000000000000
+      internalID: 9094207311085463209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ziao_skill2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 875
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518691aef58cff5e0800000000000000
+      internalID: -1873558605687855083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bin_skill1: 2508080277085801435
+      Bin_skill2: -5439562775328190739
+      Bongminz_skill1: 6523542955373538183
+      Bongminz_skill2: 1092408149270720649
+      Bongminz_skill3: 4228814772530094919
+      Cheft_skill1: -8590331007402811972
+      Cheft_skill2: 401139088618995263
+      Daisy_skill1: -6966279766050238669
+      Daisy_skill2: -5703031100591060049
+      Daisy_skill3: -8014262936873007521
+      Daisy_skill4: -5078359121840789828
+      Dane_skill1: -8994288946127857728
+      Dane_skill2: -2539562661365011721
+      Djchip_skill1: -47182134834034709
+      Djchip_skill2: 5538804859603368043
+      Djchip_skill3: -156335699125582307
+      E101_skill1: 3228224922589208034
+      E101_skill2: 1538078829598690692
+      E101_skill3: -2910481941167558890
+      East_skill1: 1538097109049170956
+      East_skill2: -3744583366103356762
+      East_skill3: -8366703836416517061
+      East_skill4: 7339112720636872512
+      Firesolider_skill1: 2730905981320752118
+      Firesolider_skill2: 243570255917196918
+      Franky_skill1: -1102368481729109603
+      Franky_skill2: -5409645438922312277
+      Funky_skill1: 2771481834955664840
+      Funky_skill2: 82907809474732174
+      Funky_skill3: 7658488655750310359
+      Gaga_skill1: -5566650243897162790
+      Gaga_skill2: 3981772190314559244
+      Gin_skill1: -5212315113991334107
+      Gin_skill2: -7649950685280536301
+      Gin_skill3: -1677407487643016693
+      Gin_skill4: 5541747317100711764
+      Giner_skill1: 7129603577038479264
+      Giner_skill2: 3301517780679217676
+      Guz_skill1: 512565148521036946
+      Guz_skill2: -4734424105666681108
+      Guz_skill3: 3479596211565830758
+      Husk_skill1: 2942420770149721888
+      Husk_skill2: 7162056921547479438
+      Jonh_skill1: 9045312674905793250
+      Jonh_skill2: -6653148362324596680
+      Jonh_skill3: 2100893617028854627
+      Lucky_skill1: -4578395986404719768
+      Lucky_skill2: -1548965694084600142
+      Martin_skill1: -207831624214815201
+      Martin_skill2: -3539024553437242874
+      Mary_skill1: -4470906894520894861
+      Mary_skill2: -7894412201551032738
+      Mel_skill1: 956985298914588222
+      Mel_skill2: -3707550863980035502
+      Mel_skill3: -6120960147729566765
+      Mel_skill4: -5028712910526399003
+      Mixi_skill1: -4358084719503065184
+      Mixi_skill2: -2476474682178842970
+      Mixi_skill3: -3885692691724684930
+      Natsu_skill1: -7595793285749053493
+      Natsu_skill2: -1280201420939453174
+      Natsu_skill3: 6192616244991987085
+      Nhims_skill1: -1175768254030437002
+      Nhims_skill2: 287140522295191965
+      Nhims_skill3: 8621999042433336698
+      Pewpew_skill1: 5110592828555850719
+      Pewpew_skill2: 1795447363705877356
+      Pewpew_skill3: 8166713485972915186
+      Pino_skill1: -874260851210965932
+      Pino_skill2: -3922921453696930199
+      Pino_skill3: -4688545492776639327
+      Rambo_skill1: -7428555444897534879
+      Rambo_skill2: 6592118758093050136
+      Rambo_skill3: 2910442513459352367
+      Rus_skill1: 1377267349681404041
+      Rus_skill2: -5583850456799891947
+      Rus_skill3: -9000940499799175992
+      Rus_skill4: 5316859264956638962
+      Sam_skill1: 2434775376674853260
+      Sam_skill2: 8325486473545965986
+      Sam_skill3: 7364288414393718793
+      Sam_skill4: -2873766886232780667
+      Shift_skill1: 2619316468010921596
+      Shift_skill2: 6001868638678812348
+      Snake_skill1: -5006917083392700593
+      Snake_skill2: -2855127170293424878
+      Snake_skill3: 8620156742176593705
+      Surmy_skill1: -4956749093578692189
+      Surmy_skill2: 7765861767876279260
+      Surmy_skill3: -654329664880176840
+      Surmy_skill4: -5913040121055523947
+      Tany_skill1: 8198489477036037921
+      Tany_skill2: -2881166561292347015
+      Tany_skill3: 4236628566587683451
+      Tany_skill4: -2095072849350800489
+      Tom_skill1: -2707576733396202434
+      Tom_skill2: -3423270690921123034
+      Varuss_skill1: -2126926869892090981
+      Varuss_skill2: 6642237947028768787
+      Varuss_skill3: 6837258086067921041
+      Victor_skill1: 8895134401159992686
+      Victor_skill2: -4837728428710251428
+      Xemexis_skill1: 8211772668437090602
+      Xemexis_skill2: 2265346778941672715
+      Xemexis_skill3: -6192762898010019255
+      Yashu_skill1: 3119161199566380261
+      Yashu_skill2: 2229534609042375647
+      Zhao_skill1: 7822520088235241016
+      Zhao_skill2: 8305071408998051202
+      Zhao_skill3: 6969367754891706228
+      Ziao_skill1: 9094207311085463209
+      Ziao_skill2: -1873558605687855083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

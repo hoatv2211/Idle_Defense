@@ -1,0 +1,30 @@
+[
+	{
+		"element":1,
+		"electric":100,
+		"metalic":125,
+		"nitrogen":100,
+		"lava":75
+	},
+	{
+		"element":2,
+		"electric":75,
+		"metalic":100,
+		"nitrogen":125,
+		"lava":100
+	},
+	{
+		"element":3,
+		"electric":100,
+		"metalic":75,
+		"nitrogen":100,
+		"lava":125
+	},
+	{
+		"element":4,
+		"electric":125,
+		"metalic":100,
+		"nitrogen":75,
+		"lava":100
+	}
+]

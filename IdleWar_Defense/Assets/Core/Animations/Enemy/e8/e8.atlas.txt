@@ -1,0 +1,55 @@
+
+e8.png
+size: 384,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan1
+  rotate: true
+  xy: 335, 2
+  size: 46, 45
+  orig: 48, 47
+  offset: 1, 1
+  index: -1
+chan2
+  rotate: false
+  xy: 273, 2
+  size: 60, 46
+  orig: 62, 49
+  offset: 1, 2
+  index: -1
+chan3
+  rotate: false
+  xy: 360, 54
+  size: 16, 67
+  orig: 16, 67
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 5
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 273, 50
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 157, 2
+  size: 114, 119
+  orig: 114, 119
+  offset: 0, 0
+  index: -1

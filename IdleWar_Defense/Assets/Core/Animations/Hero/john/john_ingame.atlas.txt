@@ -1,0 +1,90 @@
+
+john_ingame.png
+size: 836,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/ao
+  rotate: false
+  xy: 2, 2
+  size: 141, 111
+  orig: 141, 111
+  offset: 0, 0
+  index: -1
+1/ao2
+  rotate: false
+  xy: 714, 70
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: false
+  xy: 288, 2
+  size: 126, 111
+  orig: 126, 111
+  offset: 0, 0
+  index: -1
+1/tay
+  rotate: false
+  xy: 588, 3
+  size: 42, 110
+  orig: 42, 110
+  offset: 0, 0
+  index: -1
+1/tay2
+  rotate: true
+  xy: 714, 24
+  size: 44, 58
+  orig: 46, 60
+  offset: 1, 1
+  index: -1
+1/toc
+  rotate: false
+  xy: 632, 66
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+2/ao
+  rotate: false
+  xy: 145, 2
+  size: 141, 111
+  orig: 141, 111
+  offset: 0, 0
+  index: -1
+2/ao2
+  rotate: false
+  xy: 775, 70
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: false
+  xy: 416, 2
+  size: 126, 111
+  orig: 126, 111
+  offset: 0, 0
+  index: -1
+2/tay
+  rotate: false
+  xy: 544, 2
+  size: 42, 111
+  orig: 44, 113
+  offset: 1, 1
+  index: -1
+2/tay2
+  rotate: true
+  xy: 774, 24
+  size: 44, 58
+  orig: 46, 60
+  offset: 1, 1
+  index: -1
+2/toc
+  rotate: false
+  xy: 632, 17
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1

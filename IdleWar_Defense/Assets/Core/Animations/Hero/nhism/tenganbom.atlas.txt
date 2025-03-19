@@ -1,0 +1,27 @@
+
+tenganbom.png
+size: 436,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigglow_red
+  rotate: false
+  xy: 394, 2
+  size: 38, 38
+  orig: 50, 50
+  offset: 6, 6
+  index: -1
+ten1
+  rotate: true
+  xy: 2, 5
+  size: 35, 194
+  orig: 35, 194
+  offset: 0, 0
+  index: -1
+ten2
+  rotate: true
+  xy: 198, 5
+  size: 35, 194
+  orig: 35, 194
+  offset: 0, 0
+  index: -1

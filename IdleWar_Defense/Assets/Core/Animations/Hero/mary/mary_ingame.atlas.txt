@@ -1,0 +1,69 @@
+
+mary_ingame.png
+size: 652,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanphai
+  rotate: false
+  xy: 594, 8
+  size: 51, 66
+  orig: 53, 68
+  offset: 1, 1
+  index: -1
+chantrai
+  rotate: false
+  xy: 538, 4
+  size: 54, 70
+  orig: 56, 72
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 2, 5
+  size: 120, 186
+  orig: 143, 186
+  offset: 1, 0
+  index: -1
+sung
+  rotate: true
+  xy: 538, 76
+  size: 49, 110
+  orig: 51, 112
+  offset: 1, 1
+  index: -1
+tayphai
+  rotate: false
+  xy: 339, 2
+  size: 61, 123
+  orig: 61, 123
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 402, 6
+  size: 58, 119
+  orig: 58, 119
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 462, 38
+  size: 87, 74
+  orig: 89, 76
+  offset: 1, 1
+  index: -1
+toc2
+  rotate: false
+  xy: 190, 2
+  size: 70, 123
+  orig: 70, 123
+  offset: 0, 0
+  index: -1
+vay
+  rotate: true
+  xy: 262, 15
+  size: 110, 75
+  orig: 112, 77
+  offset: 1, 1
+  index: -1

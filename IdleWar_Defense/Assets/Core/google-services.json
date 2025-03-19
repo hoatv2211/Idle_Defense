@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113126707459",
+    "project_id": "cyber-war-f11fa",
+    "storage_bucket": "cyber-war-f11fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113126707459:android:d1bcd8121260b0dd7f9936",
+        "android_client_info": {
+          "package_name": "com.beemob.mergedefend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113126707459-kcojop5v0prkdpvprgitkmbaekmpjtej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEQKD-YnuOFFJR8FEhYXD5_pF7eZpBzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113126707459-kcojop5v0prkdpvprgitkmbaekmpjtej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

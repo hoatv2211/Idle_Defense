@@ -1,0 +1,32 @@
+[
+	{
+		"id":1,
+		"type":4,
+		"sku":"mergedefend.premium.pack.1",
+		"name":"Weekly Subscription pack",
+		"logName":"weekly_premium_pack",
+		"rewardTypes":[1,8],
+		"rewardIds":[2,-1],
+		"rewardValues":[300,25],
+		"dailyRewardTypes":[1],
+		"dailyRewardIds":[2],
+		"dailyRewardValues":[100],
+		"usd":"0.99$",
+		"note":"Claim 300  gem ngay khi thanh toán. Nhận 100 gem mỗi ngày trong vòng 7 ngày ( nút giá tiền sẽ đổi thành nút claim sau khi thanh toán thành công )"
+	},
+	{
+		"id":2,
+		"type":4,
+		"sku":"mergedefend.premium.pack.2",
+		"name":"Monthly Subscription pack",
+		"logName":"monthly_premium_pack",
+		"rewardTypes":[1,8],
+		"rewardIds":[2,-1],
+		"rewardValues":[500,125],
+		"dailyRewardTypes":[1],
+		"dailyRewardIds":[2],
+		"dailyRewardValues":[200],
+		"usd":"4.99$",
+		"note":"Claim 500 ngay khi thanh toán. Nhận 200 gem mỗi ngày trong vòng 30 ngày ( nút giá tiền sẽ đổi thành nút claim sau khi thanh toán thành công )"
+	}
+]

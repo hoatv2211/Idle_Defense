@@ -1,0 +1,48 @@
+
+lucky_ingame.png
+size: 248,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: true
+  xy: 134, 185
+  size: 119, 89
+  orig: 121, 91
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 2, 2
+  size: 90, 100
+  orig: 92, 102
+  offset: 1, 1
+  index: -1
+khien
+  rotate: true
+  xy: 2, 169
+  size: 135, 130
+  orig: 137, 132
+  offset: 1, 1
+  index: -1
+tay
+  rotate: true
+  xy: 2, 104
+  size: 63, 210
+  orig: 63, 210
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 174, 5
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 94, 3
+  size: 99, 78
+  orig: 101, 80
+  offset: 1, 1
+  index: -1

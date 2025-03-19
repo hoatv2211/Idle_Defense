@@ -1,0 +1,62 @@
+
+e15.png
+size: 428,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 2, 89
+  size: 297, 296
+  orig: 324, 324
+  offset: 13, 14
+  index: -1
+shadow
+  rotate: true
+  xy: 301, 104
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 419, 256
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 301, 259
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+tua1
+  rotate: false
+  xy: 110, 5
+  size: 97, 82
+  orig: 98, 82
+  offset: 1, 0
+  index: -1
+tua2
+  rotate: false
+  xy: 2, 3
+  size: 106, 84
+  orig: 106, 85
+  offset: 0, 1
+  index: -1
+tua3
+  rotate: false
+  xy: 209, 2
+  size: 89, 85
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+tua4
+  rotate: false
+  xy: 301, 39
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1

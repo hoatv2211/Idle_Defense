@@ -1,0 +1,132 @@
+
+rambo_ingame.png
+size: 176,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bantayphai
+  rotate: false
+  xy: 2, 436
+  size: 86, 122
+  orig: 88, 124
+  offset: 1, 1
+  index: -1
+1/chanphai
+  rotate: true
+  xy: 90, 373
+  size: 81, 84
+  orig: 83, 86
+  offset: 1, 1
+  index: -1
+1/chantrai
+  rotate: true
+  xy: 2, 353
+  size: 81, 84
+  orig: 83, 86
+  offset: 1, 1
+  index: -1
+1/dai
+  rotate: false
+  xy: 114, 550
+  size: 58, 54
+  orig: 60, 56
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: false
+  xy: 76, 101
+  size: 97, 106
+  orig: 99, 109
+  offset: 1, 1
+  index: -1
+1/lung
+  rotate: true
+  xy: 126, 606
+  size: 165, 38
+  orig: 167, 40
+  offset: 1, 1
+  index: -1
+1/tayphai1
+  rotate: true
+  xy: 2, 205
+  size: 63, 72
+  orig: 65, 74
+  offset: 1, 1
+  index: -1
+1/tayphai2
+  rotate: true
+  xy: 2, 97
+  size: 50, 62
+  orig: 52, 64
+  offset: 1, 1
+  index: -1
+1/taytrai1
+  rotate: true
+  xy: 2, 41
+  size: 54, 55
+  orig: 56, 57
+  offset: 1, 1
+  index: -1
+1/taytrai2
+  rotate: false
+  xy: 90, 456
+  size: 74, 92
+  orig: 76, 94
+  offset: 1, 1
+  index: -1
+1/than
+  rotate: false
+  xy: 2, 560
+  size: 110, 96
+  orig: 112, 98
+  offset: 1, 1
+  index: -1
+2/bantayphai
+  rotate: true
+  xy: 2, 658
+  size: 113, 122
+  orig: 115, 124
+  offset: 1, 1
+  index: -1
+2/chanphai
+  rotate: true
+  xy: 88, 290
+  size: 81, 84
+  orig: 83, 86
+  offset: 1, 1
+  index: -1
+2/chantrai
+  rotate: true
+  xy: 2, 270
+  size: 81, 84
+  orig: 83, 86
+  offset: 1, 1
+  index: -1
+2/dau
+  rotate: true
+  xy: 66, 2
+  size: 97, 106
+  orig: 99, 109
+  offset: 1, 1
+  index: -1
+2/lung
+  rotate: false
+  xy: 2, 149
+  size: 58, 54
+  orig: 60, 56
+  offset: 1, 1
+  index: -1
+2/tayphai1
+  rotate: false
+  xy: 88, 209
+  size: 79, 79
+  orig: 81, 81
+  offset: 1, 1
+  index: -1
+2/than
+  rotate: false
+  xy: 2, 773
+  size: 134, 111
+  orig: 136, 113
+  offset: 1, 1
+  index: -1

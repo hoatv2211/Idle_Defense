@@ -1,0 +1,83 @@
+
+e11.png
+size: 552,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan1
+  rotate: true
+  xy: 472, 86
+  size: 88, 77
+  orig: 89, 77
+  offset: 1, 0
+  index: -1
+chan2
+  rotate: true
+  xy: 472, 5
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+chan3
+  rotate: true
+  xy: 472, 5
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 390, 73
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 390, 11
+  size: 76, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: false
+  xy: 272, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+mat2
+  rotate: false
+  xy: 292, 3
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 272, 21
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+t_shadow
+  rotate: false
+  xy: 2, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tenlua
+  rotate: false
+  xy: 154, 13
+  size: 116, 161
+  orig: 116, 161
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 15
+  size: 150, 159
+  orig: 150, 159
+  offset: 0, 0
+  index: -1

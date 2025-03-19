@@ -1,0 +1,69 @@
+
+tany_ingame.png
+size: 452,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/dau
+  rotate: true
+  xy: 143, 64
+  size: 113, 105
+  orig: 115, 107
+  offset: 1, 1
+  index: -1
+1/sung
+  rotate: true
+  xy: 143, 7
+  size: 55, 228
+  orig: 57, 230
+  offset: 1, 1
+  index: -1
+1/tay
+  rotate: true
+  xy: 250, 75
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+1/than
+  rotate: true
+  xy: 2, 2
+  size: 175, 139
+  orig: 175, 139
+  offset: 0, 0
+  index: -1
+1/vai
+  rotate: true
+  xy: 373, 19
+  size: 54, 47
+  orig: 56, 49
+  offset: 1, 1
+  index: -1
+2/vai
+  rotate: true
+  xy: 373, 19
+  size: 54, 47
+  orig: 56, 49
+  offset: 1, 1
+  index: -1
+2/sung
+  rotate: true
+  xy: 2, 179
+  size: 149, 287
+  orig: 151, 289
+  offset: 1, 1
+  index: -1
+2/tay
+  rotate: true
+  xy: 341, 75
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+2/than
+  rotate: true
+  xy: 291, 153
+  size: 175, 156
+  orig: 175, 156
+  offset: 0, 0
+  index: -1

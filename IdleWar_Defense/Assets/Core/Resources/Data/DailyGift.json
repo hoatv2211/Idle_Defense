@@ -1,0 +1,32 @@
+[
+	{
+		"id":1,
+		"rewardType":1,
+		"rewardId":10,
+		"rewardValue":5
+	},
+	{
+		"id":2,
+		"rewardType":6,
+		"rewardId":-1,
+		"rewardValue":10
+	},
+	{
+		"id":3,
+		"rewardType":1,
+		"rewardId":8,
+		"rewardValue":300
+	},
+	{
+		"id":4,
+		"rewardType":1,
+		"rewardId":9,
+		"rewardValue":1
+	},
+	{
+		"id":5,
+		"rewardType":1,
+		"rewardId":2,
+		"rewardValue":200
+	}
+]

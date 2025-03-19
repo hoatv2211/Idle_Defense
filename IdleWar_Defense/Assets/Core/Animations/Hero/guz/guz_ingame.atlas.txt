@@ -1,0 +1,83 @@
+
+guz_ingame.png
+size: 176,744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bantayphai
+  rotate: true
+  xy: 120, 275
+  size: 59, 54
+  orig: 61, 56
+  offset: 1, 1
+  index: -1
+bantaytrai
+  rotate: false
+  xy: 70, 2
+  size: 59, 55
+  orig: 61, 57
+  offset: 1, 1
+  index: -1
+chan
+  rotate: false
+  xy: 2, 151
+  size: 98, 93
+  orig: 100, 95
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 2, 541
+  size: 168, 201
+  orig: 168, 201
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 2, 246
+  size: 88, 116
+  orig: 88, 117
+  offset: 0, 0
+  index: -1
+khien
+  rotate: false
+  xy: 2, 336
+  size: 157, 203
+  orig: 159, 205
+  offset: 1, 1
+  index: -1
+tayphai1
+  rotate: false
+  xy: 102, 148
+  size: 68, 67
+  orig: 70, 69
+  offset: 1, 1
+  index: -1
+tayphai2
+  rotate: false
+  xy: 101, 59
+  size: 73, 87
+  orig: 75, 89
+  offset: 1, 1
+  index: -1
+taytrai1
+  rotate: false
+  xy: 120, 217
+  size: 49, 56
+  orig: 51, 58
+  offset: 1, 1
+  index: -1
+taytrai2
+  rotate: true
+  xy: 2, 75
+  size: 74, 97
+  orig: 76, 99
+  offset: 1, 1
+  index: -1
+vaitrai
+  rotate: true
+  xy: 2, 12
+  size: 61, 66
+  orig: 63, 68
+  offset: 1, 1
+  index: -1

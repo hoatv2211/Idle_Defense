@@ -1,0 +1,26 @@
+[
+	{
+		"id":1,
+		"fileName":"Main menu"
+	},
+	{
+		"id":2,
+		"fileName":"Boss Battle 1 Loop"
+	},
+	{
+		"id":3,
+		"fileName":"Boss Battle 2 Loop"
+	},
+	{
+		"id":4,
+		"fileName":"Boss Battle 3 Loop"
+	},
+	{
+		"id":5,
+		"fileName":"Boss Battle 4 Loop"
+	},
+	{
+		"id":6,
+		"fileName":"Boss Battle 5 Loop"
+	}
+]

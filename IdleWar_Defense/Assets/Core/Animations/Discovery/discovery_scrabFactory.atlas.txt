@@ -1,0 +1,104 @@
+
+discovery_scrabFactory.png
+size: 680,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban_tay
+  rotate: false
+  xy: 621, 967
+  size: 50, 43
+  orig: 52, 45
+  offset: 1, 1
+  index: -1
+blastblue
+  rotate: false
+  xy: 349, 91
+  size: 133, 131
+  orig: 150, 150
+  offset: 10, 6
+  index: -1
+cang_tay
+  rotate: true
+  xy: 349, 5
+  size: 84, 140
+  orig: 86, 142
+  offset: 1, 1
+  index: -1
+canh_tay
+  rotate: false
+  xy: 520, 795
+  size: 99, 215
+  orig: 101, 217
+  offset: 1, 1
+  index: -1
+ef1
+  rotate: true
+  xy: 2, 2
+  size: 552, 345
+  orig: 554, 358
+  offset: 1, 10
+  index: -1
+ef2
+  rotate: false
+  xy: 2, 556
+  size: 516, 454
+  orig: 519, 456
+  offset: 1, 1
+  index: -1
+khop_tron
+  rotate: false
+  xy: 605, 149
+  size: 69, 73
+  orig: 71, 75
+  offset: 1, 1
+  index: -1
+kim
+  rotate: false
+  xy: 520, 611
+  size: 56, 182
+  orig: 58, 185
+  offset: 1, 1
+  index: -1
+laserblue
+  rotate: false
+  xy: 520, 556
+  size: 42, 16
+  orig: 50, 50
+  offset: 4, 17
+  index: -1
+light_blue
+  rotate: true
+  xy: 349, 224
+  size: 330, 328
+  orig: 338, 338
+  offset: 4, 5
+  index: -1
+ngon_tay_1
+  rotate: true
+  xy: 578, 748
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+ngon_tay_2
+  rotate: false
+  xy: 605, 122
+  size: 38, 25
+  orig: 41, 27
+  offset: 2, 1
+  index: -1
+ngon_tay_3
+  rotate: false
+  xy: 520, 574
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+nitrogen
+  rotate: false
+  xy: 484, 108
+  size: 119, 114
+  orig: 119, 114
+  offset: 0, 0
+  index: -1

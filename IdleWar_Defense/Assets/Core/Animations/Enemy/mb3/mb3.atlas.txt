@@ -1,0 +1,104 @@
+
+mb3.png
+size: 364,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banh1
+  rotate: true
+  xy: 131, 241
+  size: 153, 73
+  orig: 155, 75
+  offset: 1, 1
+  index: -1
+banh2
+  rotate: true
+  xy: 2, 55
+  size: 153, 73
+  orig: 155, 75
+  offset: 1, 1
+  index: -1
+banh3
+  rotate: false
+  xy: 125, 2
+  size: 153, 71
+  orig: 155, 73
+  offset: 1, 1
+  index: -1
+chan
+  rotate: false
+  xy: 231, 377
+  size: 128, 370
+  orig: 130, 372
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 131, 75
+  size: 164, 167
+  orig: 166, 169
+  offset: 1, 1
+  index: -1
+lan
+  rotate: false
+  xy: 2, 210
+  size: 127, 321
+  orig: 129, 324
+  offset: 1, 1
+  index: -1
+led
+  rotate: false
+  xy: 77, 37
+  size: 46, 171
+  orig: 46, 171
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 300, 79
+  size: 44, 35
+  orig: 46, 37
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 206, 259
+  size: 153, 116
+  orig: 155, 118
+  offset: 1, 1
+  index: -1
+sung
+  rotate: false
+  xy: 131, 396
+  size: 94, 135
+  orig: 94, 135
+  offset: 0, 0
+  index: -1
+sung2
+  rotate: true
+  xy: 2, 533
+  size: 214, 227
+  orig: 214, 227
+  offset: 0, 0
+  index: -1
+t_shadow
+  rotate: false
+  xy: 330, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 749
+  size: 236, 326
+  orig: 238, 328
+  offset: 1, 1
+  index: -1
+than2
+  rotate: false
+  xy: 300, 116
+  size: 58, 141
+  orig: 60, 143
+  offset: 1, 1
+  index: -1

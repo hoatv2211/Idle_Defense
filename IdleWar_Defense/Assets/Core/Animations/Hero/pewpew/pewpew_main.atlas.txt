@@ -1,0 +1,244 @@
+
+pewpew_main.png
+size: 1864,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bantaytrai
+  rotate: true
+  xy: 1668, 77
+  size: 108, 82
+  orig: 108, 82
+  offset: 0, 0
+  index: -1
+1/chanphai1
+  rotate: true
+  xy: 1405, 36
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+1/chanphai2
+  rotate: false
+  xy: 570, 122
+  size: 126, 212
+  orig: 126, 212
+  offset: 0, 0
+  index: -1
+1/chantrai1
+  rotate: false
+  xy: 1562, 32
+  size: 104, 147
+  orig: 104, 147
+  offset: 0, 0
+  index: -1
+1/chantrai2
+  rotate: false
+  xy: 2, 65
+  size: 141, 269
+  orig: 141, 269
+  offset: 0, 0
+  index: -1
+1/dau
+  rotate: false
+  xy: 727, 7
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1
+1/giayphai
+  rotate: true
+  xy: 288, 93
+  size: 241, 133
+  orig: 241, 133
+  offset: 0, 0
+  index: -1
+1/giaytrai
+  rotate: false
+  xy: 963, 147
+  size: 148, 187
+  orig: 150, 189
+  offset: 1, 1
+  index: -1
+1/hong
+  rotate: false
+  xy: 1757, 252
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+1/mat
+  rotate: true
+  xy: 181, 14
+  size: 49, 19
+  orig: 61, 25
+  offset: 6, 3
+  index: -1
+1/mu
+  rotate: true
+  xy: 1079, 4
+  size: 141, 164
+  orig: 143, 166
+  offset: 1, 1
+  index: -1
+1/sung
+  rotate: false
+  xy: 1541, 181
+  size: 108, 153
+  orig: 108, 153
+  offset: 0, 0
+  index: -1
+1/tayphai
+  rotate: false
+  xy: 1757, 170
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+1/taytrai1
+  rotate: true
+  xy: 2, 4
+  size: 59, 75
+  orig: 61, 77
+  offset: 1, 1
+  index: -1
+1/taytrai2
+  rotate: false
+  xy: 288, 5
+  size: 116, 86
+  orig: 118, 88
+  offset: 1, 1
+  index: -1
+1/than
+  rotate: true
+  xy: 919, 7
+  size: 129, 158
+  orig: 129, 158
+  offset: 0, 0
+  index: -1
+1/vaitrai
+  rotate: true
+  xy: 524, 2
+  size: 91, 73
+  orig: 93, 75
+  offset: 1, 1
+  index: -1
+2/bantaytrai
+  rotate: false
+  xy: 1752, 86
+  size: 108, 82
+  orig: 108, 82
+  offset: 0, 0
+  index: -1
+2/chanphai1
+  rotate: false
+  xy: 1429, 179
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+2/chanphai2
+  rotate: false
+  xy: 698, 122
+  size: 126, 212
+  orig: 126, 212
+  offset: 0, 0
+  index: -1
+2/chantrai1
+  rotate: false
+  xy: 1651, 187
+  size: 104, 147
+  orig: 104, 147
+  offset: 0, 0
+  index: -1
+2/chantrai2
+  rotate: false
+  xy: 145, 65
+  size: 141, 269
+  orig: 141, 269
+  offset: 0, 0
+  index: -1
+2/dau
+  rotate: false
+  xy: 599, 7
+  size: 126, 113
+  orig: 126, 113
+  offset: 0, 0
+  index: -1
+2/giayphai
+  rotate: true
+  xy: 423, 95
+  size: 239, 145
+  orig: 241, 147
+  offset: 1, 1
+  index: -1
+2/giaytrai
+  rotate: false
+  xy: 1113, 147
+  size: 148, 187
+  orig: 150, 189
+  offset: 1, 1
+  index: -1
+2/hong
+  rotate: true
+  xy: 835, 2
+  size: 134, 82
+  orig: 134, 82
+  offset: 0, 0
+  index: -1
+2/mat
+  rotate: true
+  xy: 156, 4
+  size: 59, 23
+  orig: 61, 25
+  offset: 1, 1
+  index: -1
+2/mu
+  rotate: true
+  xy: 1263, 148
+  size: 186, 164
+  orig: 188, 166
+  offset: 1, 1
+  index: -1
+2/sung
+  rotate: false
+  xy: 826, 138
+  size: 135, 196
+  orig: 135, 196
+  offset: 0, 0
+  index: -1
+2/tayphai
+  rotate: false
+  xy: 1761, 4
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+2/taytrai1
+  rotate: true
+  xy: 79, 4
+  size: 59, 75
+  orig: 61, 77
+  offset: 1, 1
+  index: -1
+2/taytrai2
+  rotate: false
+  xy: 406, 5
+  size: 116, 86
+  orig: 118, 88
+  offset: 1, 1
+  index: -1
+2/than
+  rotate: true
+  xy: 1245, 16
+  size: 129, 158
+  orig: 129, 158
+  offset: 0, 0
+  index: -1
+2/vaitrai
+  rotate: false
+  xy: 1668, 2
+  size: 91, 73
+  orig: 93, 75
+  offset: 1, 1
+  index: -1

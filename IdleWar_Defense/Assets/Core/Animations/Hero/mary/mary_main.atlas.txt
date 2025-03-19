@@ -1,0 +1,188 @@
+
+mary_main.png
+size: 1472,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanphai
+  rotate: true
+  xy: 1005, 97
+  size: 124, 307
+  orig: 136, 341
+  offset: 12, 0
+  index: -1
+chantrai
+  rotate: true
+  xy: 974, 5
+  size: 69, 316
+  orig: 69, 340
+  offset: 0, 0
+  index: -1
+co
+  rotate: false
+  xy: 565, 3
+  size: 29, 32
+  orig: 31, 34
+  offset: 1, 1
+  index: -1
+dau
+  rotate: false
+  xy: 1314, 134
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+giayphai
+  rotate: true
+  xy: 671, 2
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+giaytrai
+  rotate: false
+  xy: 1398, 135
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+matden
+  rotate: false
+  xy: 1054, 79
+  size: 20, 16
+  orig: 22, 18
+  offset: 1, 1
+  index: -1
+matnham
+  rotate: false
+  xy: 1076, 81
+  size: 21, 14
+  orig: 23, 16
+  offset: 1, 1
+  index: -1
+matxanh
+  rotate: false
+  xy: 1014, 78
+  size: 14, 17
+  orig: 16, 19
+  offset: 1, 1
+  index: -1
+may
+  rotate: true
+  xy: 1005, 76
+  size: 19, 7
+  orig: 21, 9
+  offset: 1, 1
+  index: -1
+miduoi
+  rotate: false
+  xy: 1030, 79
+  size: 22, 16
+  orig: 24, 18
+  offset: 1, 1
+  index: -1
+miduoi2
+  rotate: true
+  xy: 596, 5
+  size: 30, 25
+  orig: 32, 27
+  offset: 1, 1
+  index: -1
+miduoi2 - Copy
+  rotate: true
+  xy: 644, 7
+  size: 28, 25
+  orig: 32, 27
+  offset: 3, 1
+  index: -1
+mitren
+  rotate: false
+  xy: 1099, 82
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+mitren2
+  rotate: true
+  xy: 623, 5
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+nguc
+  rotate: true
+  xy: 1292, 7
+  size: 88, 56
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+sung
+  rotate: true
+  xy: 839, 2
+  size: 72, 133
+  orig: 74, 135
+  offset: 1, 1
+  index: -1
+sung2
+  rotate: false
+  xy: 1434, 7
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+tayphai1
+  rotate: true
+  xy: 666, 69
+  size: 152, 111
+  orig: 152, 111
+  offset: 0, 0
+  index: -1
+tayphai2
+  rotate: true
+  xy: 759, 2
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 900, 76
+  size: 103, 145
+  orig: 103, 145
+  offset: 0, 0
+  index: -1
+taytrai2
+  rotate: false
+  xy: 1398, 93
+  size: 46, 40
+  orig: 48, 42
+  offset: 1, 1
+  index: -1
+than
+  rotate: false
+  xy: 779, 76
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+tocsau
+  rotate: true
+  xy: 2, 6
+  size: 215, 561
+  orig: 215, 561
+  offset: 0, 0
+  index: -1
+toctrc
+  rotate: true
+  xy: 1350, 4
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+vay
+  rotate: true
+  xy: 565, 37
+  size: 184, 99
+  orig: 184, 99
+  offset: 0, 0
+  index: -1

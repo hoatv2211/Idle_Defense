@@ -1,0 +1,293 @@
+
+gin_ingame.png
+size: 964,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/ao
+  rotate: true
+  xy: 247, 189
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+1/chanphai1
+  rotate: true
+  xy: 837, 101
+  size: 64, 55
+  orig: 66, 57
+  offset: 1, 1
+  index: -1
+1/chanphai2
+  rotate: true
+  xy: 771, 83
+  size: 71, 64
+  orig: 73, 66
+  offset: 1, 1
+  index: -1
+1/chantrai1
+  rotate: true
+  xy: 820, 235
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
+  index: -1
+1/chantrai2
+  rotate: false
+  xy: 475, 2
+  size: 74, 56
+  orig: 76, 58
+  offset: 1, 1
+  index: -1
+1/dau
+  rotate: false
+  xy: 269, 35
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+1/ef
+  rotate: true
+  xy: 462, 201
+  size: 97, 79
+  orig: 101, 83
+  offset: 2, 2
+  index: -1
+1/tayphai1
+  rotate: false
+  xy: 518, 150
+  size: 56, 49
+  orig: 58, 51
+  offset: 1, 1
+  index: -1
+1/tayphai2
+  rotate: false
+  xy: 621, 214
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+1/taytrai1
+  rotate: true
+  xy: 247, 145
+  size: 42, 56
+  orig: 44, 58
+  offset: 1, 1
+  index: -1
+1/taytrai2
+  rotate: false
+  xy: 475, 60
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+1/vaiphai
+  rotate: false
+  xy: 576, 151
+  size: 64, 59
+  orig: 66, 61
+  offset: 1, 1
+  index: -1
+1/vaitrai
+  rotate: false
+  xy: 675, 6
+  size: 65, 57
+  orig: 67, 59
+  offset: 1, 1
+  index: -1
+2/ao
+  rotate: false
+  xy: 117, 16
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1
+2/chanphai1
+  rotate: true
+  xy: 848, 169
+  size: 64, 55
+  orig: 66, 57
+  offset: 1, 1
+  index: -1
+2/chanphai2
+  rotate: false
+  xy: 883, 235
+  size: 71, 63
+  orig: 74, 65
+  offset: 2, 1
+  index: -1
+2/chantrai1
+  rotate: false
+  xy: 894, 61
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
+  index: -1
+2/chantrai2
+  rotate: false
+  xy: 551, 2
+  size: 74, 56
+  orig: 76, 58
+  offset: 1, 1
+  index: -1
+2/dau
+  rotate: true
+  xy: 137, 173
+  size: 125, 108
+  orig: 125, 108
+  offset: 0, 0
+  index: -1
+2/ef
+  rotate: true
+  xy: 377, 43
+  size: 102, 96
+  orig: 105, 101
+  offset: 1, 2
+  index: -1
+2/tayphai1
+  rotate: false
+  xy: 905, 184
+  size: 56, 49
+  orig: 58, 51
+  offset: 1, 1
+  index: -1
+2/tayphai2
+  rotate: false
+  xy: 631, 65
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+2/taytrai1
+  rotate: true
+  xy: 305, 145
+  size: 42, 56
+  orig: 44, 58
+  offset: 1, 1
+  index: -1
+2/taytrai2
+  rotate: false
+  xy: 553, 62
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+2/vaiphai
+  rotate: false
+  xy: 753, 235
+  size: 65, 63
+  orig: 67, 65
+  offset: 1, 1
+  index: -1
+2/vaitrai
+  rotate: false
+  xy: 782, 167
+  size: 64, 66
+  orig: 66, 68
+  offset: 1, 1
+  index: -1
+3/ao
+  rotate: true
+  xy: 2, 144
+  size: 154, 133
+  orig: 154, 133
+  offset: 0, 0
+  index: -1
+3/chanphai1
+  rotate: true
+  xy: 905, 118
+  size: 64, 55
+  orig: 66, 57
+  offset: 1, 1
+  index: -1
+3/chanphai2
+  rotate: true
+  xy: 817, 10
+  size: 71, 64
+  orig: 74, 66
+  offset: 2, 1
+  index: -1
+3/chantrai1
+  rotate: false
+  xy: 883, 4
+  size: 63, 55
+  orig: 65, 57
+  offset: 1, 1
+  index: -1
+3/chantrai2
+  rotate: false
+  xy: 642, 156
+  size: 74, 56
+  orig: 76, 58
+  offset: 1, 1
+  index: -1
+3/dau
+  rotate: true
+  xy: 354, 191
+  size: 107, 106
+  orig: 110, 106
+  offset: 3, 0
+  index: -1
+3/ef
+  rotate: true
+  xy: 2, 10
+  size: 132, 113
+  orig: 137, 119
+  offset: 2, 4
+  index: -1
+3/tayphai1
+  rotate: false
+  xy: 462, 148
+  size: 54, 51
+  orig: 57, 54
+  offset: 1, 1
+  index: -1
+3/tayphai2
+  rotate: false
+  xy: 687, 214
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+3/taytrai1
+  rotate: true
+  xy: 363, 147
+  size: 42, 56
+  orig: 44, 58
+  offset: 1, 1
+  index: -1
+3/taytrai2
+  rotate: false
+  xy: 543, 212
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+3/vaiphai
+  rotate: true
+  xy: 627, 2
+  size: 58, 46
+  orig: 60, 48
+  offset: 1, 1
+  index: -1
+3/vaiphai2
+  rotate: false
+  xy: 742, 3
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+3/vaitrai
+  rotate: false
+  xy: 718, 156
+  size: 62, 56
+  orig: 64, 58
+  offset: 1, 1
+  index: -1
+3/vaitrai2
+  rotate: false
+  xy: 697, 79
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
