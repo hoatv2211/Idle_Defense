@@ -257,16 +257,16 @@ PlayerSettings:
   useCustomMainManifest: 1
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 1
-  useCustomLauncherGradleManifest: 1
-  useCustomBaseGradleTemplate: 0
-  useCustomGradlePropertiesTemplate: 1
+  useCustomLauncherGradleManifest: 0
+  useCustomBaseGradleTemplate: 1
+  useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
-  useCustomProguardFile: 1
+  useCustomProguardFile: 0
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: Assets/beemob.keystore'
-  AndroidKeyaliasName: beemob
+  AndroidKeystoreName: '{inproject}: Assets/Services/user.keystore'
+  AndroidKeyaliasName: mad
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0
   AndroidBuildApkPerCpuArchitecture: 0
@@ -291,7 +291,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 537bd4f37162b284d840e64f9a48f498, type: 3}
+      m_Icon: {fileID: 2800000, guid: e9122f8af901ea247a728c45c7c8cba4, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -850,7 +850,7 @@ PlayerSettings:
   webWasm2023: 0
   scriptingDefineSymbols:
     Android: UNITY_IAP;USE_DOTWEEN;ACTIVE_FIREBASE;ACTIVE_FIREBASE_REMOTE;ACTIVE_FIREBASE_CRASHLYTICS;ACTIVE_FIREBASE_ANALYTICS;ODIN_INSPECTOR;TUTORIAL;SPINE_SKIP;ACTIVE_FACEBOOK;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1;ODIN_INSPECTOR_3_2;ODIN_INSPECTOR_3_3
-    Standalone: UNITY_IAP;USE_DOTWEEN;ACTIVE_FIREBASE;ACTIVE_FIREBASE_REMOTE;ACTIVE_FIREBASE_CRASHLYTICS;ACTIVE_FACEBOOK;ACTIVE_IRONSOURCE;ODIN_INSPECTOR;TUTORIAL
+    Standalone: UNITY_IAP;USE_DOTWEEN;ACTIVE_FIREBASE;ACTIVE_FIREBASE_REMOTE;ACTIVE_FIREBASE_CRASHLYTICS;ACTIVE_FACEBOOK;ACTIVE_IRONSOURCE;ODIN_INSPECTOR;TUTORIAL;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1;ODIN_INSPECTOR_3_2;ODIN_INSPECTOR_3_3
     iPhone: UNITY_IAP;USE_DOTWEEN;ACTIVE_FIREBASE;ACTIVE_FIREBASE_REMOTE;ACTIVE_FIREBASE_CRASHLYTICS;ACTIVE_FIREBASE_ANALYTICS;ACTIVE_FACEBOOK;ACTIVE_IRONSOURCE;ODIN_INSPECTOR;TUTORIAL;SPINE_SKIP
   additionalCompilerArguments: {}
   platformArchitecture: {}

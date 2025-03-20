@@ -21,8 +21,8 @@ SpriteAtlas:
       crunchedCompression: 0
       sRGB: 1
     platformSettings:
-    - serializedVersion: 3
-      m_BuildTarget: iPhone
+    - serializedVersion: 4
+      m_BuildTarget: iOS
       m_MaxTextureSize: 2048
       m_ResizeAlgorithm: 0
       m_TextureFormat: 47
@@ -31,9 +31,10 @@ SpriteAtlas:
       m_CrunchedCompression: 0
       m_AllowsAlphaSplitting: 0
       m_Overridden: 1
+      m_IgnorePlatformSupport: 0
       m_AndroidETC2FallbackOverride: 0
       m_ForceMaximumCompressionQuality_BC6H_BC7: 0
-    - serializedVersion: 3
+    - serializedVersion: 4
       m_BuildTarget: Android
       m_MaxTextureSize: 2048
       m_ResizeAlgorithm: 0
@@ -43,6 +44,7 @@ SpriteAtlas:
       m_CrunchedCompression: 0
       m_AllowsAlphaSplitting: 0
       m_Overridden: 1
+      m_IgnorePlatformSupport: 0
       m_AndroidETC2FallbackOverride: 0
       m_ForceMaximumCompressionQuality_BC6H_BC7: 0
     packingSettings:
@@ -52,6 +54,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
+      enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
@@ -114,10 +117,68 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 7614dd75fb3c86442bf99e79885b1dfd, type: 3}
     - {fileID: 2800000, guid: 48a5c57c3a2b43b46aa1f7b26d75c0aa, type: 3}
     - {fileID: 2800000, guid: b44befe84bacdb648a8383c97c099548, type: 3}
-    totalSpriteSurfaceArea: 725999
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 4be2e06089a79d249a4f020184966e26: 21300000
+    - 50a0b78036803e8418fd46ce7388dbc6: 21300000
+    - aa2021b0e639db64d8e360df321763cf: 21300000
+    - c3b1a9c02a7210b47b13b9be60adf43e: 21300000
+    - 5a24c8e028a3df94886bb35652c99737: 21300000
+    - f455d2d1134806d4d8f803cb84d34563: 21300000
+    - f13267f161d9f5f47a28692a3cf04ece: 21300000
+    - 676cc9425c75c3a49b93452301c32aec: 21300000
+    - 90961f8280959ee4fbbced3f3a0aefa5: 21300000
+    - ddea63a25499bbb449de890a3ddcfc09: 21300000
+    - 9a89ea334e1957b46b7c81a355e33931: 21300000
+    - 05dfe653932ff9c4385c93eb9fc908ab: 21300000
+    - 578017a390a92014789648c8a91a4a7a: 21300000
+    - 774d73c33a16eed4d956ea6096af2c26: 21300000
+    - 9a8b57c30df7c9840b609f3a3b473cbb: 21300000
+    - 5f847fc340da04544945c68d90da4ca5: 21300000
+    - d71052e30e0f23e4a9882d43f388a245: 21300000
+    - 68f6d4e3dd7bd72489737c375f6fd58a: 21300000
+    - 5b125b34ef40b2545ab03e6003b9e04b: 21300000
+    - 891be1646ca56684aa9f26262dfbf355: 21300000
+    - 09e3b874bdf8dfa4cbe45a45f4475aed: 21300000
+    - e8546cd4a846e5c4b9b247ead6bd6066: 21300000
+    - 059e6d45ecb2be740aae5d0553ee9e20: 21300000
+    - 47544665fc9404140914fe05c1ac29be: 21300000
+    - 7614dd75fb3c86442bf99e79885b1dfd: 21300000
+    - 758d86a58f4125a4d8302f7597f8f243: 21300000
+    - 36e9dca55c92640499a05c263bb26718: 21300000
+    - 981d85c5138967243958322bb5b2591c: 21300000
+    - 8625cb567a637264d92733b7ab0073bf: 21300000
+    - 87fdd5a780837114e8457bc8f6405a13: 21300000
+    - 52b935583af97c346b1e66480d413cdb: 21300000
+    - f542dc88e1ed90e46a1d700fddb2b74b: 21300000
+    - 6aac9cd8a1776564ab8287692f23495f: 21300000
+    - b44befe84bacdb648a8383c97c099548: 21300000
+    - 54f3dc39cf0509d47b4fbf8366e502a4: 21300000
+    - 9a013e59fef60484fa86766e2cdb9909: 21300000
+    - 86d1be79b5a20cd4f9a7afc2e620fbac: 21300000
+    - 73f9ac89aa95422428737eefe61fb556: 21300000
+    - 8edc7c99e113ddb41bf0187ff7aaef93: 21300000
+    - a93f144a084edab4cac5f5f61a63b481: 21300000
+    - f2e477da1a9a31c4aa5627cb1d665abc: 21300000
+    - 1d89980b5d3c26140b58fb1eb3a22a91: 21300000
+    - 412ae76b33383694a8529f0985d48aaa: 21300000
+    - ed73ce8bff7ead4428810fa7d4ac9e4e: 21300000
+    - 06d26cab03ec84349b396566550c59d3: 21300000
+    - 6ecab2cba8858a741980f472caf4e63f: 21300000
+    - 443f171cfa3fb7b4f83e622c61cb525e: 21300000
+    - b5fd9a5ce70b18749b65b51b749c8558: 21300000
+    - 48a5c57c3a2b43b46aa1f7b26d75c0aa: 21300000
+    - 8f3c5bac277b01f4aab487ac65aab692: 21300000
+    - 8fd47edcfbc133748b68f7128d1a43cc: 21300000
+    - 737ff24d4a85f8f48941c101118ea57e: 21300000
+    - 2b617b5d8d0219c40a6a3aa16eef7bf0: 21300000
+    - 943eb07df8c2c724d878191da7ac057a: 21300000
+    - 6136517d2cda6e04892e7f635ca4504c: 21300000
+    - ce0ddafdf443e954eb77e8fd5d44937d: 21300000
+    - 296b4e6e7c655074e92cd39006fc2a3f: 21300000
+    - cd387dbf02cb191438e42a55956e7d4d: 21300000
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 4be2e06089a79d249a4f020184966e26, type: 3}

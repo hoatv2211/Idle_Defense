@@ -21,8 +21,8 @@ SpriteAtlas:
       crunchedCompression: 0
       sRGB: 1
     platformSettings:
-    - serializedVersion: 3
-      m_BuildTarget: iPhone
+    - serializedVersion: 4
+      m_BuildTarget: iOS
       m_MaxTextureSize: 2048
       m_ResizeAlgorithm: 0
       m_TextureFormat: 47
@@ -31,9 +31,10 @@ SpriteAtlas:
       m_CrunchedCompression: 0
       m_AllowsAlphaSplitting: 0
       m_Overridden: 1
+      m_IgnorePlatformSupport: 0
       m_AndroidETC2FallbackOverride: 0
       m_ForceMaximumCompressionQuality_BC6H_BC7: 0
-    - serializedVersion: 3
+    - serializedVersion: 4
       m_BuildTarget: Android
       m_MaxTextureSize: 2048
       m_ResizeAlgorithm: 0
@@ -43,6 +44,7 @@ SpriteAtlas:
       m_CrunchedCompression: 0
       m_AllowsAlphaSplitting: 0
       m_Overridden: 1
+      m_IgnorePlatformSupport: 0
       m_AndroidETC2FallbackOverride: 0
       m_ForceMaximumCompressionQuality_BC6H_BC7: 0
     packingSettings:
@@ -52,6 +54,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
+      enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
@@ -65,10 +68,19 @@ SpriteAtlas:
     - {fileID: 2800000, guid: fbfcdb1e5712e274f8a6a0d15deb0cc4, type: 3}
     - {fileID: 2800000, guid: aa8f5923682944244a4eb402928cac59, type: 3}
     - {fileID: 2800000, guid: 4829abbbbc3808b4693209bd99c1f55b, type: 3}
-    totalSpriteSurfaceArea: 1165772
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 2d3dece110f67c64aa7fd5f1a980bbb1: 21300000
+    - eec64b120a4ef9441a71dcecb81e2ff2: 21300000
+    - dd5041a2824b65a44b810ef37596faad: 21300000
+    - aa8f5923682944244a4eb402928cac59: 21300000
+    - 9411ddd71d30b1b41af65473878b024b: 21300000
+    - 69a53bf96f1f12c4badb7f06c2ff6cc8: 21300000
+    - f9d0cbdd7553d97469a455a7311792e5: 21300000
+    - fbfcdb1e5712e274f8a6a0d15deb0cc4: 21300000
+    - 90d1b00f555eafe46bb86e1c48d15f87: 21300000
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 2d3dece110f67c64aa7fd5f1a980bbb1, type: 3}
