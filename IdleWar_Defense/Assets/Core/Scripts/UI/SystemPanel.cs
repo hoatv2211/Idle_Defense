@@ -1,5 +1,4 @@
 ﻿
-using Firebase.Crashlytics;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -107,8 +106,8 @@ namespace FoodZombie.UI
 			try
 			{
 				string crashReport = string.Format("LOG ENTRY: {0}\n{1}", condition, stackTrace);
-				Crashlytics.Log(crashReport);
-				Crashlytics.LogException(new Exception("OnLogMessageReceived:" + condition));
+				//Crashlytics.Log(crashReport);
+				//Crashlytics.LogException(new Exception("OnLogMessageReceived:" + condition));
 			}
 			catch (Exception ex)
 			{

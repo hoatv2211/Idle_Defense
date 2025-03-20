@@ -98,38 +98,40 @@ public class PvPSignup : MyGamesBasePanel
 
 	private void OnBtnFBLoginClick()
 	{
-		if (FBManager.Instance.IsLoggedIn && UserGroup.UserData != null)
-		{
-			GoNext();
-		}
-		else
-		{
-			if (!FBManager.Instance.IsLoggedIn)
-			{
-				FBManager.Instance.FBLogin((loged) =>
-				{
-					if (loged)
-					{
-						UserModel user = new UserModel() { IDFacebook = FBManager.Instance.FBID, UserName = FBManager.Instance.FBName };
-						MainPanel.instance.ShowWaitingPanel(true, "signup");
-						GameRESTController.Instance.APIUser_signup(user, OnSignupSuccess, OnSignupError);
-					}
-					else
-					{
-						MainPanel.instance.ShowWarningPopup(Localization.Get(Localization.ID.MESSAGE_31));
-						//MainPanel.instance.ShowWarningPopup("Can't login Facebook.Please try again");
-					}
-				});
-			}
-			else
-			{
-				//already login fb,let's go
-				UserModel user = new UserModel() { IDFacebook = FBManager.Instance.FBID, UserName = FBManager.Instance.FBName };
-				MainPanel.instance.ShowWaitingPanel(true, "signin");
-				GameRESTController.Instance.APIUser_signup(user, OnSignupSuccess, OnSignupError);
-			}
+        GoNext();
 
-		}
+  //      if (FBManager.Instance.IsLoggedIn && UserGroup.UserData != null)
+		//{
+		//	GoNext();
+		//}
+		//else
+		//{
+		//	if (!FBManager.Instance.IsLoggedIn)
+		//	{
+		//		FBManager.Instance.FBLogin((loged) =>
+		//		{
+		//			if (loged)
+		//			{
+		//				UserModel user = new UserModel() { IDFacebook = FBManager.Instance.FBID, UserName = FBManager.Instance.FBName };
+		//				MainPanel.instance.ShowWaitingPanel(true, "signup");
+		//				GameRESTController.Instance.APIUser_signup(user, OnSignupSuccess, OnSignupError);
+		//			}
+		//			else
+		//			{
+		//				MainPanel.instance.ShowWarningPopup(Localization.Get(Localization.ID.MESSAGE_31));
+		//				//MainPanel.instance.ShowWarningPopup("Can't login Facebook.Please try again");
+		//			}
+		//		});
+		//	}
+		//	else
+		//	{
+		//		//already login fb,let's go
+		//		UserModel user = new UserModel() { IDFacebook = FBManager.Instance.FBID, UserName = FBManager.Instance.FBName };
+		//		MainPanel.instance.ShowWaitingPanel(true, "signin");
+		//		GameRESTController.Instance.APIUser_signup(user, OnSignupSuccess, OnSignupError);
+		//	}
+
+		//}
 	}
 
 	private void OnSignupError(string obj)

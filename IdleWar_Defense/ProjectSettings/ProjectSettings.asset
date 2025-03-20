@@ -254,11 +254,11 @@ PlayerSettings:
   clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
   templatePackageId: com.unity.template.3d@4.2.8
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 1
+  useCustomMainManifest: 0
   useCustomLauncherManifest: 0
-  useCustomMainGradleTemplate: 1
+  useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0
-  useCustomBaseGradleTemplate: 1
+  useCustomBaseGradleTemplate: 0
   useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
@@ -275,7 +275,7 @@ PlayerSettings:
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
-  androidUseCustomKeystore: 1
+  androidUseCustomKeystore: 0
   m_AndroidBanners:
   - width: 320
     height: 180
@@ -849,7 +849,7 @@ PlayerSettings:
   webGLCloseOnQuit: 0
   webWasm2023: 0
   scriptingDefineSymbols:
-    Android: UNITY_IAP;USE_DOTWEEN;ACTIVE_FIREBASE;ACTIVE_FIREBASE_REMOTE;ACTIVE_FIREBASE_CRASHLYTICS;ACTIVE_FIREBASE_ANALYTICS;ODIN_INSPECTOR;TUTORIAL;SPINE_SKIP;ACTIVE_FACEBOOK;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1;ODIN_INSPECTOR_3_2;ODIN_INSPECTOR_3_3
+    Android: UNITY_IAP;USE_DOTWEEN;ODIN_INSPECTOR;TUTORIAL;SPINE_SKIP;ODIN_INSPECTOR_3_1;ODIN_INSPECTOR_3_3;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_2
     Standalone: UNITY_IAP;USE_DOTWEEN;ACTIVE_FIREBASE;ACTIVE_FIREBASE_REMOTE;ACTIVE_FIREBASE_CRASHLYTICS;ACTIVE_FACEBOOK;ACTIVE_IRONSOURCE;ODIN_INSPECTOR;TUTORIAL;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1;ODIN_INSPECTOR_3_2;ODIN_INSPECTOR_3_3
     iPhone: UNITY_IAP;USE_DOTWEEN;ACTIVE_FIREBASE;ACTIVE_FIREBASE_REMOTE;ACTIVE_FIREBASE_CRASHLYTICS;ACTIVE_FIREBASE_ANALYTICS;ACTIVE_FACEBOOK;ACTIVE_IRONSOURCE;ODIN_INSPECTOR;TUTORIAL;SPINE_SKIP
   additionalCompilerArguments: {}

@@ -4,7 +4,6 @@ using System.Collections;
 using UnityEngine;
 using Utilities.Common;
 using Utilities.Components;
-using Firebase;
 using System.Collections.Generic;
 
 #if UNITY_IOS
@@ -86,14 +85,14 @@ namespace FoodZombie.UI
             }
             else
             {
-                var task = FirebaseApp.CheckAndFixDependenciesAsync();
-                WaitUtil.WaitTask(task, () =>
-                {
-                    if (task.Result == DependencyStatus.Available)
-                    {
-                        //  Config.LogEvent(TrackingConstants.MISSION_PLAY_COUNT, TrackingConstants.PARAM_MISSION, TrackingConstants.VALUE_INTRO_MISSION);
-                    }
-                });
+                //var task = FirebaseApp.CheckAndFixDependenciesAsync();
+                //WaitUtil.WaitTask(task, () =>
+                //{
+                //    if (task.Result == DependencyStatus.Available)
+                //    {
+                //        //  Config.LogEvent(TrackingConstants.MISSION_PLAY_COUNT, TrackingConstants.PARAM_MISSION, TrackingConstants.VALUE_INTRO_MISSION);
+                //    }
+                //});
 
                 //Unlock John and add to Formations:
                 var heroesGroup = GameData.Instance.HeroesGroup;

@@ -2,10 +2,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
-using DG.Tweening;
-using Facebook.Unity;
-using FoodZombie;
-using FoodZombie.UI;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;

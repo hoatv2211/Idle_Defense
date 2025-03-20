@@ -172,10 +172,10 @@ namespace FoodZombie.UI
 		//}
 		private void OnBtnFacebook_Pressed()
 		{
-			if (!FBManager.Instance.IsLoggedIn)
-				FBManager.Instance.FBLogin(OnFacebookLoginDone);
-			else
-				FBManager.Instance.ShareWithFriends();
+			//if (!FBManager.Instance.IsLoggedIn)
+			//	FBManager.Instance.FBLogin(OnFacebookLoginDone);
+			//else
+			//	FBManager.Instance.ShareWithFriends();
 		}
 		void OnFacebookLoginDone(bool isDone)
 		{
@@ -183,14 +183,14 @@ namespace FoodZombie.UI
 		}
 		void CheckFBButton()
 		{
-			if (FBManager.Instance.IsLoggedIn)
-			{
-				this.mBtnTextFB.text = "FACEBOOK SHARE";
-			}
-			else
-			{
-				this.mBtnTextFB.text = "FACEBOOK LOGIN";
-			}
+			//if (FBManager.Instance.IsLoggedIn)
+			//{
+			//	this.mBtnTextFB.text = "FACEBOOK SHARE";
+			//}
+			//else
+			//{
+			//	this.mBtnTextFB.text = "FACEBOOK LOGIN";
+			//}
 		}
 		private void OnTogNotification_Changed(bool pIsOn)
 		{

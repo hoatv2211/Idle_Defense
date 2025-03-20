@@ -13,10 +13,10 @@ public class UserModel
 	{
 		get
 		{
-			if (FBManager.Instance.IsLoggedIn)
-			{
-				return FBManager.Instance.FBName;
-			}
+			//if (FBManager.Instance.IsLoggedIn)
+			//{
+			//	return FBManager.Instance.FBName;
+			//}
 			return UserName;
 		}
 	}
@@ -24,15 +24,17 @@ public class UserModel
 	{
 		get
 		{
-			if (IDFacebook != null && IDFacebook.Trim().Length > 0)
-			{
-				return FBManager.Instance.FBName;
-			}
-			else
-			{
-				return UserName;
-			}
-		}
+			//if (IDFacebook != null && IDFacebook.Trim().Length > 0)
+			//{
+			//	return FBManager.Instance.FBName;
+			//}
+			//else
+			//{
+			//	return UserName;
+			//}
+
+            return UserName;
+        }
 	}
 	//private void OnGetFBAvatarDone(Sprite obj)
 	//{
@@ -89,20 +91,22 @@ public class UserModel
 	{
 		if (isMy)
 		{
-			if (FBManager.Instance.IsLoggedIn)
-				return FBManager.Instance.FBAvatar;
+			//if (FBManager.Instance.IsLoggedIn)
+			//	return FBManager.Instance.FBAvatar;
 			return AssetsCollection.instance.heroIcon.GetAsset(IDAvatar);
 		}
 		else
 		{
-			if (IDFacebook != null && IDFacebook.Trim().Length > 0)
-			{
-				return FBManager.Instance.GetOtherPlayerAvatar(IDFacebook, OnGetDone);
+			//if (IDFacebook != null && IDFacebook.Trim().Length > 0)
+			//{
+			//	return FBManager.Instance.GetOtherPlayerAvatar(IDFacebook, OnGetDone);
 
-			}
-			else
-				return AssetsCollection.instance.heroIcon.GetAsset(IDAvatar);
-		}
+			//}
+			//else
+			//	return AssetsCollection.instance.heroIcon.GetAsset(IDAvatar);
+
+            return AssetsCollection.instance.heroIcon.GetAsset(IDAvatar);
+        }
 	}
 	public UserModel Clone()
 	{

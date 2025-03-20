@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using Utilities.Common;
 using System.Threading.Tasks;
-using Firebase.Analytics;
 using FoodZombie;
 using Utilities.Service.RFirebase.Analytics;
 using Utilities.Service.RFirebase.Storage;
@@ -13,6 +12,7 @@ using Utilities.Service.RFirebase.Auth;
 using Utilities.Service.RFirebase.Crashlytics;
 using Debug = UnityEngine.Debug;
 #if ACTIVE_FIREBASE
+using Firebase.Analytics;
 using Firebase;
 #endif
 

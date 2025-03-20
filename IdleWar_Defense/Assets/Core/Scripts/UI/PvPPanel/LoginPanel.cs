@@ -35,7 +35,7 @@ namespace FoodZombie.UI
 
         private void Action_BtnFBLogin()
         {
-            FBManager.Instance.FBLogin();
+            //FBManager.Instance.FBLogin();
         }
 
         private void Action_BtnGGLogin()

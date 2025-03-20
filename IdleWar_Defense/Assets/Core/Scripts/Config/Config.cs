@@ -2,7 +2,6 @@
 using Utilities.Service.RFirebase;
 using Utilities.Services;
 using System;
-using Firebase.Analytics;
 using FoodZombie;
 using Utilities.Common;
 using System.Collections.Generic;
@@ -96,91 +95,91 @@ public class Config
 	public static void LogScene(string SceneName)
 	{
 
-#if DEVELOPMENT
-		Debug.LogError("<color=green>SCENE: </color>" + SceneName);
-#else
-if (RFirebaseManager.initialized)
-			FirebaseAnalytics.LogEvent(FirebaseAnalytics.EventScreenView,
-			new Firebase.Analytics.Parameter(FirebaseAnalytics.ParameterScreenName, SceneName));
-#endif
+//#if DEVELOPMENT
+//		Debug.LogError("<color=green>SCENE: </color>" + SceneName);
+//#else
+//if (RFirebaseManager.initialized)
+//			FirebaseAnalytics.LogEvent(FirebaseAnalytics.EventScreenView,
+//			new Firebase.Analytics.Parameter(FirebaseAnalytics.ParameterScreenName, SceneName));
+//#endif
 
 	}
 	public static void LogPurchaseEvent(float logPurchase, string currency)
 	{
-#if !DEVELOPMENT
-        // FirebaseAnalytics.LogEvent(eventName);
-        if (RFirebaseManager.initialized) FBServices.LogPurchase(logPurchase, currency);
+//#if !DEVELOPMENT
+//        // FirebaseAnalytics.LogEvent(eventName);
+//        if (RFirebaseManager.initialized) FBServices.LogPurchase(logPurchase, currency);
 
-        //AppsFlyer.trackRichEvent(pEventName, null);
-#endif
+//        //AppsFlyer.trackRichEvent(pEventName, null);
+//#endif
 
 		UnityEngine.Debug.Log("LogPurchaseEvent: " + logPurchase + " " + currency);
 	}
 
 	public static void LogEvent(string eventName)
 	{
-#if !DEVELOPMENT
-        if (RFirebaseManager.initialized) FirebaseAnalytics.LogEvent(eventName);
-        if (eventName.Contains("click_"))
-        {
-            if (RFirebaseManager.initialized) FirebaseAnalytics.SetUserProperty(TrackingConstants.USER_PROPERTY_LAST_FEATURE, eventName);
-        }
-        //FBServices.LogEvent(pEventName);
+//#if !DEVELOPMENT
+//        if (RFirebaseManager.initialized) FirebaseAnalytics.LogEvent(eventName);
+//        if (eventName.Contains("click_"))
+//        {
+//            if (RFirebaseManager.initialized) FirebaseAnalytics.SetUserProperty(TrackingConstants.USER_PROPERTY_LAST_FEATURE, eventName);
+//        }
+//        //FBServices.LogEvent(pEventName);
 
-        //AppsFlyer.trackRichEvent(pEventName, null);
-#endif
+//        //AppsFlyer.trackRichEvent(pEventName, null);
+//#endif
 
-		UnityEngine.Debug.Log("LogEvent: " + eventName);
+//		UnityEngine.Debug.Log("LogEvent: " + eventName);
 	}
 
 	public static void LogEvent(string eventName, string paramName, string paramValue)
 	{
-#if !DEVELOPMENT
-        if (RFirebaseManager.initialized) FirebaseAnalytics.LogEvent(eventName, paramName, paramValue);
-        //FBServices.LogEvent(pEventName, pParamName, pParamValue);
+//#if !DEVELOPMENT
+//        if (RFirebaseManager.initialized) FirebaseAnalytics.LogEvent(eventName, paramName, paramValue);
+//        //FBServices.LogEvent(pEventName, pParamName, pParamValue);
 
-        //Dictionary<string, string> paramEvent = new Dictionary<string, string>();
-        //paramEvent.Add(pParamName, pParamValue);
-        //AppsFlyer.trackRichEvent(pEventName, paramEvent);
-#endif
+//        //Dictionary<string, string> paramEvent = new Dictionary<string, string>();
+//        //paramEvent.Add(pParamName, pParamValue);
+//        //AppsFlyer.trackRichEvent(pEventName, paramEvent);
+//#endif
 
-		UnityEngine.Debug.Log("LogEvent: " + eventName + "\nParam: " + paramName + " | " + paramValue);
+//		UnityEngine.Debug.Log("LogEvent: " + eventName + "\nParam: " + paramName + " | " + paramValue);
 	}
 
 	public static void LogEvent(string eventName, string paramName, int paramValue)
 	{
-		FirebaseAnalytics.LogEvent(eventName, paramName, paramValue);
-#if !DEVELOPMENT
-        if (RFirebaseManager.initialized) FirebaseAnalytics.LogEvent(eventName, paramName, paramValue);
-        //FBServices.LogEvent(pEventName, pParamName, pParamValue);
+//		FirebaseAnalytics.LogEvent(eventName, paramName, paramValue);
+//#if !DEVELOPMENT
+//        if (RFirebaseManager.initialized) FirebaseAnalytics.LogEvent(eventName, paramName, paramValue);
+//        //FBServices.LogEvent(pEventName, pParamName, pParamValue);
 
-        //Dictionary<string, string> paramEvent = new Dictionary<string, string>();
-        //paramEvent.Add(pParamName, pParamValue);
-        //AppsFlyer.trackRichEvent(pEventName, paramEvent);
-#endif
+//        //Dictionary<string, string> paramEvent = new Dictionary<string, string>();
+//        //paramEvent.Add(pParamName, pParamValue);
+//        //AppsFlyer.trackRichEvent(pEventName, paramEvent);
+//#endif
 
-		UnityEngine.Debug.Log("LogEvent: " + eventName + "\nParam: " + paramName + " | " + paramValue);
+//		UnityEngine.Debug.Log("LogEvent: " + eventName + "\nParam: " + paramName + " | " + paramValue);
 	}
 
 	public static void LogEvent(string eventName, string paramName1, string paramValue1, string paramName2, int paramValue2)
 	{
-#if !DEVELOPMENT
-        Parameter[] param =
-        {
-            new Parameter(paramName1, paramValue1),
-            new Parameter(paramName2, paramValue2)
-        };
-        if (RFirebaseManager.initialized) FirebaseAnalytics.LogEvent(eventName, param);
-        //FBServices.LogEvent(pEventName, pParamName, pParamValue);
+//#if !DEVELOPMENT
+//        Parameter[] param =
+//        {
+//            new Parameter(paramName1, paramValue1),
+//            new Parameter(paramName2, paramValue2)
+//        };
+//        if (RFirebaseManager.initialized) FirebaseAnalytics.LogEvent(eventName, param);
+//        //FBServices.LogEvent(pEventName, pParamName, pParamValue);
 
-        //Dictionary<string, string> paramEvent = new Dictionary<string, string>();
-        //paramEvent.Add(pParamName, pParamValue);
-        //AppsFlyer.trackRichEvent(pEventName, paramEvent);
-#endif
+//        //Dictionary<string, string> paramEvent = new Dictionary<string, string>();
+//        //paramEvent.Add(pParamName, pParamValue);
+//        //AppsFlyer.trackRichEvent(pEventName, paramEvent);
+//#endif
 
-		UnityEngine.Debug.Log("LogEvent: " + eventName
-							  + "\nParam: " + paramName1 + " | " + paramValue1
-							  + "\nParam: " + paramName2 + " | " + paramValue2);
+//		UnityEngine.Debug.Log("LogEvent: " + eventName
+//							  + "\nParam: " + paramName1 + " | " + paramValue1
+//							  + "\nParam: " + paramName2 + " | " + paramValue2);
 	}
 
 	//-------------------

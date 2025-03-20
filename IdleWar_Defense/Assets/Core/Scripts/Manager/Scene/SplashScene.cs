@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 using FoodZombie.UI;
 using System.Collections;
-using Firebase;
 using Utilities.Service.RFirebase;
 
 namespace FoodZombie

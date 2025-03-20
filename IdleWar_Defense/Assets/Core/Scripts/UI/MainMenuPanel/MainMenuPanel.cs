@@ -548,40 +548,40 @@ namespace FoodZombie.UI
             }
             else
             {
-                if (FBManager.Instance.IsLoggedIn)
-                {
-                    UserModel user = new UserModel() { IDFacebook = FBManager.Instance.FBID, UserName = FBManager.Instance.FBName };
-                    MainPanel.instance.ShowWaitingPanel(true, "signin");
-                    GameRESTController.Instance.APIUser_signup(user, (o) =>
-                    {
-                        MainPanel.instance.ShowWaitingPanel(false, "signup");
-                        HttpResultData result = o.Data[0];
-                        UserModel userNew = new UserModel();
-                        userNew.ID = result._id;
-                        userNew.UserName = result.UserName;
-                        userNew.IDFacebook = result.IDFacebook;
-                        userNew.IDApple = result.IDApple;
-                        userNew.ScorePvPRank = result.ScorePvPRank;
-                        userNew.IDAvatar = result.IDAvatar;
-                        GameRESTController.Instance.TOKEN = result.Token;
-                        GameRESTController.Instance.REFESH_TOKEN = result.refreshToken;
-                        UserGroup.UserData = user;
-                        UserGroup.UserData.SaveToGameSave();
-                        MainPanel.instance.ShowPvPMainPanel();
-                    }, (err) =>
-                    {
-                        MainPanel.instance.ShowWaitingPanel(false, "signup");
-                        MainPanel.instance.ShowWarningPopup(err.ToString());
-                    });
-                }
-                else
-                {
-                    MainPanel.instance.ShowPvPSignup(() =>
-                    {
-                        MainPanel.instance.ShowPvPMainPanel();
-                        //MainPanel.instance.StartGamePvP(); 
-                    });
-                }
+                //if (FBManager.Instance.IsLoggedIn)
+                //{
+                //    UserModel user = new UserModel() { IDFacebook = FBManager.Instance.FBID, UserName = FBManager.Instance.FBName };
+                //    MainPanel.instance.ShowWaitingPanel(true, "signin");
+                //    GameRESTController.Instance.APIUser_signup(user, (o) =>
+                //    {
+                //        MainPanel.instance.ShowWaitingPanel(false, "signup");
+                //        HttpResultData result = o.Data[0];
+                //        UserModel userNew = new UserModel();
+                //        userNew.ID = result._id;
+                //        userNew.UserName = result.UserName;
+                //        userNew.IDFacebook = result.IDFacebook;
+                //        userNew.IDApple = result.IDApple;
+                //        userNew.ScorePvPRank = result.ScorePvPRank;
+                //        userNew.IDAvatar = result.IDAvatar;
+                //        GameRESTController.Instance.TOKEN = result.Token;
+                //        GameRESTController.Instance.REFESH_TOKEN = result.refreshToken;
+                //        UserGroup.UserData = user;
+                //        UserGroup.UserData.SaveToGameSave();
+                //        MainPanel.instance.ShowPvPMainPanel();
+                //    }, (err) =>
+                //    {
+                //        MainPanel.instance.ShowWaitingPanel(false, "signup");
+                //        MainPanel.instance.ShowWarningPopup(err.ToString());
+                //    });
+                //}
+                //else
+                //{
+                //    MainPanel.instance.ShowPvPSignup(() =>
+                //    {
+                //        MainPanel.instance.ShowPvPMainPanel();
+                //        //MainPanel.instance.StartGamePvP(); 
+                //    });
+                //}
             }
         }
         private void BtnHero_Pressed()
@@ -801,9 +801,9 @@ namespace FoodZombie.UI
             {
                 imgAvatar.sprite = user.GetAvatar();
             }
-            else
-            if (FBManager.Instance.FBAvatar != null)
-                imgAvatar.sprite = FBManager.Instance.FBAvatar;
+            //else
+            //if (FBManager.Instance.FBAvatar != null)
+            //    imgAvatar.sprite = FBManager.Instance.FBAvatar;
         }
 
         private void ShowLevel()

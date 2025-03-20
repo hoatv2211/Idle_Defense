@@ -27,7 +27,7 @@ namespace FoodZombie.UI
 		{
 
 			btnFBLogin.SetUpEvent(OnBtnFBLoginClick);
-			btnFBLogout.SetUpEvent(FBManager.Instance.FBLogout);
+			//btnFBLogout.SetUpEvent(FBManager.Instance.FBLogout);
 
 			mTogMusic.onValueChanged.AddListener(OnTogMusic_Changed);
 			mTogSFX.onValueChanged.AddListener(OnTogSFX_Changed);
@@ -47,7 +47,7 @@ namespace FoodZombie.UI
 		private void Refresh()
 		{
 			UserModel user = UserGroup.UserData;
-			btnFBLogin.SetEnable(!FBManager.Instance.IsLoggedIn);
+			//btnFBLogin.SetEnable(!FBManager.Instance.IsLoggedIn);
 			//   btnFBLogin.interactable=(!FBManager.Instance.IsLoggedIn);
 			// btnFBLogout.SetActive(FBManager.Instance.IsLoggedIn);
 			mTogMusic.isOn = GameData.GameConfigGroup.EnableMusic;
@@ -75,35 +75,35 @@ namespace FoodZombie.UI
 		#region Private
 		private void OnBtnFBLoginClick()
 		{
-			if (!FBManager.Instance.IsLoggedIn)
-			{
-				FBManager.Instance.FBLogin((loged) =>
-				{
-					if (loged)
-					{
-						UserModel user = new UserModel() { IDFacebook = FBManager.Instance.FBID, UserName = FBManager.Instance.FBName };
+            //if (!FBManager.Instance.IsLoggedIn)
+            //{
+            //	FBManager.Instance.FBLogin((loged) =>
+            //	{
+            //		if (loged)
+            //		{
+            //			UserModel user = new UserModel() { IDFacebook = FBManager.Instance.FBID, UserName = FBManager.Instance.FBName };
 
-						UserModel userDataLocal = UserGroup.UserData;
-						if (userDataLocal != null)
-						{
-							//already have UserData for PvP
-							user.ScorePvPRank = userDataLocal.ScorePvPRank;
-						}
+            //			UserModel userDataLocal = UserGroup.UserData;
+            //			if (userDataLocal != null)
+            //			{
+            //				//already have UserData for PvP
+            //				user.ScorePvPRank = userDataLocal.ScorePvPRank;
+            //			}
 
 
-						MainPanel.instance.ShowWaitingPanel(true, "signup");
-						GameRESTController.Instance.APIUser_signup(user, OnSignupSuccess, OnSignupError);
-						Refresh();
-					}
-					else
-					{
-						MainPanel.instance.ShowWarningPopup(Localization.Get(Localization.ID.MESSAGE_27));
-						//MainPanel.instance.ShowWarningPopup("Can't login Facebook");
-					}
-				});
-			}
-
-		}
+            //			MainPanel.instance.ShowWaitingPanel(true, "signup");
+            //			GameRESTController.Instance.APIUser_signup(user, OnSignupSuccess, OnSignupError);
+            //			Refresh();
+            //		}
+            //		else
+            //		{
+            //			MainPanel.instance.ShowWarningPopup(Localization.Get(Localization.ID.MESSAGE_27));
+            //			//MainPanel.instance.ShowWarningPopup("Can't login Facebook");
+            //		}
+            //	});
+            //}
+            MainPanel.instance.ShowWarningPopup(Localization.Get(Localization.ID.MESSAGE_27));
+        }
 		private void OnSignupError(string obj)
 		{
 			MainPanel.instance.ShowWaitingPanel(false, "signup");
