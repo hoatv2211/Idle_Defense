@@ -31,16 +31,6 @@ namespace Utilities.Service
             }
         }
 
-        [MenuItem("DevTools/Services/Add Ads Manager")]
-        private static void AddAdsManager()
-        {
-            var manager = FindObjectOfType<Ads.AdsManager>();
-            if (manager == null)
-            {
-                var obj = new GameObject("AdsManager");
-                obj.AddComponent<Ads.AdsManager>();
-            }
-        }
 
         [MenuItem("DevTools/Services/Add IAP Helper")]
         private static void AddIAPHelper()

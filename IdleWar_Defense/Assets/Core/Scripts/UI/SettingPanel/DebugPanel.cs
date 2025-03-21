@@ -9,7 +9,6 @@ using UnityEngine.UI;
 using Utilities.Common;
 using Utilities.Components;
 using Utilities.Pattern.UI;
-using Utilities.Service.Ads;
 using Utilities.Service.GPGS;
 using Utilities.Service.RFirebase;
 

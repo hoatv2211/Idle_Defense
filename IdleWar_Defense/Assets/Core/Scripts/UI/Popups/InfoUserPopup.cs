@@ -26,7 +26,7 @@ namespace FoodZombie.UI
 		private void Start()
 		{
 
-			btnFBLogin.SetUpEvent(OnBtnFBLoginClick);
+			//btnFBLogin.SetUpEvent(OnBtnFBLoginClick);
 			//btnFBLogout.SetUpEvent(FBManager.Instance.FBLogout);
 
 			mTogMusic.onValueChanged.AddListener(OnTogMusic_Changed);
@@ -37,12 +37,12 @@ namespace FoodZombie.UI
 		private void OnEnable()
 		{
 			Refresh();
-			EventDispatcher.AddListener<FBChangeEvent>(OnFBChange);
+			//EventDispatcher.AddListener<FBChangeEvent>(OnFBChange);
 		}
 		protected override void OnDisable()
 		{
 			base.OnDisable();
-			EventDispatcher.RemoveListener<FBChangeEvent>(OnFBChange);
+			//EventDispatcher.RemoveListener<FBChangeEvent>(OnFBChange);
 		}
 		private void Refresh()
 		{
@@ -145,7 +145,7 @@ namespace FoodZombie.UI
 
 		private void OnBtnPolicy_Pressed()
 		{
-			Application.OpenURL("https://www.beemob.vn/terms-of-use/");
+			Application.OpenURL("");
 		}
 
 		#endregion

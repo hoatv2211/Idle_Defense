@@ -1,20 +1,35 @@
-namespace Beemob.Utilities
-{
-    public class Singleton<T> where T:new()
-    
-    {
-        private static T _instance;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-        public static T Instance
+public class Singleton<T> : MonoBehaviour where T : Singleton<T>
+{
+    public static T Instance;
+
+    protected virtual void Awake()
+    {
+        if (Instance == null)
         {
-            get
-            {
-                if (_instance == null)
-                {
-                    _instance = new T();
-                }
-                return _instance;
-            }
+            Instance = this as T;
+            InitAwake();
+        }
+        else if (Instance != this)
+        {
+            Destroy(this.gameObject);
+        }
+    }
+
+    public virtual void InitAwake()
+    {
+        if (Input.multiTouchEnabled) Input.multiTouchEnabled = false;
+        Application.targetFrameRate = 0;
+    }
+
+    private void OnDestroy()
+    {
+        if (Instance == this)
+        {
+            Instance = null;
         }
     }
 }

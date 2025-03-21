@@ -17,7 +17,7 @@ public class Localization
 	};
 	public static readonly Dictionary<string, string> languageDict = new Dictionary<string, string>()
     {
-        { "english", "Localization_english" }, { "vietnamease", "Localization_vietnamease" }, { "korean", "Localization_korean" }, 
+        { "english", "Localization_english" }
     };
     public static readonly string defaultLanguage = "english";
     
@@ -46,7 +46,7 @@ public class Localization
     {
         if (mLanguageTemp != currentLanguage)
         {
-            string file = languageDict[currentLanguage];
+            string file = languageDict[defaultLanguage];
             string json = Resources.Load<TextAsset>(mFolder + "/" + file).text;
             mTexts = GetJsonList(json);
             mLanguageTemp = currentLanguage;

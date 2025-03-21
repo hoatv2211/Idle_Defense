@@ -151,19 +151,8 @@ namespace FoodZombie.UI
             }
 
             Debug.LogError(Application.systemLanguage);
-            if (Application.systemLanguage == SystemLanguage.Vietnamese)
-            {
-                Localization.currentLanguage = "vietnamease";
-                //Outputs into console that the system is French
-                //   Debug.Log("This system is in French. ");
-            }
-            else
-            {
-                Localization.currentLanguage = "english";
-            }
-#if UNITY_EDITOR
-            Localization.currentLanguage = "vietnamease";
-#endif
+            Localization.currentLanguage = "english";
+
             //AdjustManager.LogOpenApp();
             GameData.Instance.UserGroup.OpenGameBefore = true;
         }

@@ -571,24 +571,6 @@ MonoBehaviour:
   btnBack: {fileID: 0}
   playSound: 1
   loadingPanel: {fileID: 841199428}
---- !u!1 &1334284078 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7050753420784763090, guid: ca5de2c17dbf5464ca41c71305bd9514,
-    type: 3}
-  m_PrefabInstance: {fileID: 7050753420268126978}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1334284079
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1334284078}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 60fa13fc4adccec4581940e378138b10, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1512415972
 GameObject:
   m_ObjectHideFlags: 0
@@ -668,6 +650,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &1512415976
 Canvas:
   m_ObjectHideFlags: 0
@@ -819,35 +802,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5902653825562900123, guid: ca5de2c17dbf5464ca41c71305bd9514,
-        type: 3}
-      propertyPath: mode
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6742211725899940341, guid: ca5de2c17dbf5464ca41c71305bd9514,
-        type: 3}
-      propertyPath: m_AndroidDefaultBannerAdNetwork
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6742211725899940341, guid: ca5de2c17dbf5464ca41c71305bd9514,
-        type: 3}
-      propertyPath: m_AndroidDefaultRewardedAdNetwork
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6742211725899940341, guid: ca5de2c17dbf5464ca41c71305bd9514,
-        type: 3}
-      propertyPath: m_AndroidDefaultInterstitialAdNetwork
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7050753420784763090, guid: ca5de2c17dbf5464ca41c71305bd9514,
         type: 3}
       propertyPath: m_Name
       value: NeverDestroyedGameObjects
-      objectReference: {fileID: 0}
-    - target: {fileID: 7050753420784763091, guid: ca5de2c17dbf5464ca41c71305bd9514,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7050753420784763091, guid: ca5de2c17dbf5464ca41c71305bd9514,
         type: 3}
@@ -908,11 +866,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 7050753420784763090, guid: ca5de2c17dbf5464ca41c71305bd9514,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1334284079}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca5de2c17dbf5464ca41c71305bd9514, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
