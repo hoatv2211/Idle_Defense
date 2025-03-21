@@ -69,11 +69,11 @@ namespace Spine.Unity {
 		public event UpdateBonesDelegate UpdateComplete { add { _UpdateComplete += value; } remove { _UpdateComplete -= value; } }
 		#endregion
 
-		public override void Initialize (bool overwrite) {
+		public override void Initialize (bool overwrite, bool quiet = false) {
 			if (valid && !overwrite)
 				return;
 
-			base.Initialize(overwrite);
+			base.Initialize(overwrite, quiet);
 
 			if (!valid)
 				return;
@@ -142,6 +142,9 @@ namespace Spine.Unity {
 
 		[System.Serializable]
 		public class MecanimTranslator {
+
+			const float WeightEpsilon = 0.0001f;
+
 			#region Inspector
 			public bool autoReset = true;
 			public bool useCustomMixMode = true;
@@ -220,7 +223,7 @@ namespace Spine.Unity {
 			private bool ApplyAnimation (Skeleton skeleton, AnimatorClipInfo info, AnimatorStateInfo stateInfo,
 										int layerIndex, float layerWeight, MixBlend layerBlendMode, bool useClipWeight1 = false) {
 				float weight = info.weight * layerWeight;
-				if (weight == 0)
+				if (weight < WeightEpsilon)
 					return false;
 
 				var clip = GetAnimation(info.clip);
@@ -228,7 +231,7 @@ namespace Spine.Unity {
 					return false;
 
 				var time = AnimationTime(stateInfo.normalizedTime, info.clip.length,
-										info.clip.isLooping);
+										info.clip.isLooping, stateInfo.speed < 0);
 				weight = useClipWeight1 ? layerWeight : weight;
 				clip.Apply(skeleton, 0, time, info.clip.isLooping, null,
 						weight, layerBlendMode, MixDirection.In);
@@ -244,7 +247,7 @@ namespace Spine.Unity {
 
 				float clipWeight = interpolateWeightTo1 ? (info.weight + 1.0f) * 0.5f : info.weight;
 				float weight = clipWeight * layerWeight;
-				if (weight == 0)
+				if (weight < WeightEpsilon)
 					return false;
 
 				var clip = GetAnimation(info.clip);
@@ -252,7 +255,7 @@ namespace Spine.Unity {
 					return false;
 
 				var time = AnimationTime(stateInfo.normalizedTime + interruptingClipTimeAddition,
-										info.clip.length);
+										info.clip.length, stateInfo.speed < 0);
 				weight = useClipWeight1 ? layerWeight : weight;
 				clip.Apply(skeleton, 0, time, info.clip.isLooping, null,
 							weight, layerBlendMode, MixDirection.In);
@@ -320,7 +323,7 @@ namespace Spine.Unity {
 
 						for (int c = 0; c < clipInfoCount; c++) {
 							var info = clipInfo[c];
-							float weight = info.weight * layerWeight; if (weight == 0) continue;
+							float weight = info.weight * layerWeight; if (weight < WeightEpsilon) continue;
 							var clip = GetAnimation(info.clip);
 							if (clip != null)
 								previousAnimations.Add(clip);
@@ -329,7 +332,7 @@ namespace Spine.Unity {
 						if (hasNext) {
 							for (int c = 0; c < nextClipInfoCount; c++) {
 								var info = nextClipInfo[c];
-								float weight = info.weight * layerWeight; if (weight == 0) continue;
+								float weight = info.weight * layerWeight; if (weight < WeightEpsilon) continue;
 								var clip = GetAnimation(info.clip);
 								if (clip != null)
 									previousAnimations.Add(clip);
@@ -341,7 +344,7 @@ namespace Spine.Unity {
 							{
 								var info = interruptingClipInfo[c];
 								float clipWeight = shallInterpolateWeightTo1 ? (info.weight + 1.0f) * 0.5f : info.weight;
-								float weight = clipWeight * layerWeight; if (weight == 0) continue;
+								float weight = clipWeight * layerWeight; if (weight < WeightEpsilon) continue;
 								var clip = GetAnimation(info.clip);
 								if (clip != null)
 									previousAnimations.Add(clip);
@@ -462,18 +465,20 @@ namespace Spine.Unity {
 				}
 				animation = GetAnimation(clip);
 				float time = AnimationTime(stateInfo.normalizedTime, clip.length,
-										clip.isLooping);
+										clip.isLooping, stateInfo.speed < 0);
 				return new KeyValuePair<Animation, float>(animation, time);
 			}
 
-			static float AnimationTime (float normalizedTime, float clipLength, bool loop) {
-				float time = AnimationTime(normalizedTime, clipLength);
+			static float AnimationTime (float normalizedTime, float clipLength, bool loop, bool reversed) {
+				float time = AnimationTime(normalizedTime, clipLength, reversed);
 				if (loop) return time;
 				const float EndSnapEpsilon = 1f / 30f; // Workaround for end-duration keys not being applied.
 				return (clipLength - time < EndSnapEpsilon) ? clipLength : time; // return a time snapped to clipLength;
 			}
 
-			static float AnimationTime (float normalizedTime, float clipLength) {
+			static float AnimationTime (float normalizedTime, float clipLength, bool reversed) {
+				if (reversed)
+					normalizedTime = (1 - normalizedTime);
 				if (normalizedTime < 0.0f)
 					normalizedTime = (normalizedTime % 1.0f) + 1.0f;
 				return normalizedTime * clipLength;

@@ -69,10 +69,10 @@ namespace FoodZombie.UI
             mBtnDebugPanel.SetActive(false);
 #endif
 
-			//mInFiDisplayName.onValueChanged.AddListener(OnDisplayName_Changed);
-			//mInFiDisplayName.characterLimit = 20;
+            //mInFiDisplayName.onValueChanged.AddListener(OnDisplayName_Changed);
+            //mInFiDisplayName.characterLimit = 20;
 
-			mTogMusic.onValueChanged.AddListener(OnTogMusic_Changed);
+            mTogMusic.onValueChanged.AddListener(OnTogMusic_Changed);
 			mTogSFX.onValueChanged.AddListener(OnTogSFX_Changed);
 			mTogVibration.onValueChanged.AddListener(OnTogVibration_Changed);
 			//mTogHints.onValueChanged.AddListener(OnTogHints_Changed);

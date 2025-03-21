@@ -27,6 +27,10 @@
  * THE SPINE RUNTIMES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *****************************************************************************/
 
+#if UNITY_2019_3_OR_NEWER
+#define MESH_SET_TRIANGLES_PROVIDES_LENGTH_PARAM
+#endif
+
 // Not for optimization. Do not disable.
 #define SPINE_TRIANGLECHECK // Avoid calling SetTriangles at the cost of checking for mesh differences (vertex counts, memberwise attachment list compare) every frame.
 //#define SPINE_DEBUG
@@ -176,7 +180,10 @@ namespace Spine.Unity {
 			var drawOrderItems = drawOrder.Items;
 			for (int i = 0; i < drawOrderCount; i++) {
 				Slot slot = drawOrderItems[i];
-				if (!slot.bone.active) continue;
+				if (!slot.bone.active) {
+					workingAttachmentsItems[i] = null;
+					continue;
+				}
 				Attachment attachment = slot.attachment;
 
 				workingAttachmentsItems[i] = attachment;
@@ -295,7 +302,10 @@ namespace Spine.Unity {
 			var drawOrderItems = drawOrder.Items;
 			for (int i = 0; i < drawOrderCount; i++) {
 				Slot slot = drawOrderItems[i];
-				if (!slot.bone.active) continue;
+				if (!slot.bone.active) {
+					workingAttachmentsItems[i] = null;
+					continue;
+				}
 				Attachment attachment = slot.attachment;
 				#if SPINE_TRIANGLECHECK
 				workingAttachmentsItems[i] = attachment;
@@ -1117,7 +1127,11 @@ namespace Spine.Unity {
 			mesh.subMeshCount = submeshCount;
 
 			for (int i = 0; i < submeshCount; i++)
+#if MESH_SET_TRIANGLES_PROVIDES_LENGTH_PARAM
+				mesh.SetTriangles(submeshesItems[i].Items, 0, submeshesItems[i].Count, i, false);
+#else
 				mesh.SetTriangles(submeshesItems[i].Items, i, false);
+#endif
 		}
 		#endregion
 

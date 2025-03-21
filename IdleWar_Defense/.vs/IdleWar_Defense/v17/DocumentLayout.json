@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\thirdparty\\corebase\\utilities\\services\\advertising\\networkclients\\admobclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdparty\\corebase\\utilities\\services\\advertising\\networkclients\\admobclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\idle_defense\\idlewar_defense\\assets\\thirdparty\\corebase\\utilities\\services\\paymenthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdparty\\corebase\\utilities\\services\\paymenthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\idle_defense\\idlewar_defense\\assets\\thirdparty\\corebase\\utilities\\services\\advertising\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdparty\\corebase\\utilities\\services\\advertising\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\thirdparty\\corebase\\utilities\\services\\gamepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdparty\\corebase\\utilities\\services\\gamepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|c:\\users\\admin\\desktop\\idle_defense\\idlewar_defense\\assets\\core\\scripts\\ui\\storepanel\\premiumpackageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\core\\scripts\\ui\\storepanel\\premiumpackageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F247DE0-353D-9046-1F9A-CA706A66480E}|spine-unity.csproj|c:\\users\\admin\\desktop\\idle_defense\\idlewar_defense\\assets\\thirdparty\\spine\\runtime\\spine-unity\\asset types\\spineatlasasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F247DE0-353D-9046-1F9A-CA706A66480E}|spine-unity.csproj|solutionrelative:assets\\thirdparty\\spine\\runtime\\spine-unity\\asset types\\spineatlasasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\core\\scripts\\ui\\settingpanel\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\core\\scripts\\ui\\settingpanel\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\AdMobClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\AdMobClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\core\\scripts\\manager\\adshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\core\\scripts\\ui\\pvppanel\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\core\\scripts\\ui\\settingpanel\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\core\\scripts\\ui\\settingpanel\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\core\\scripts\\ui\\systempanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\core\\scripts\\ui\\systempanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\core\\scripts\\manager\\scene\\splashscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\thirdparty\\corebase\\utilities\\services\\advertising\\networkclients\\ironsourceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdparty\\corebase\\utilities\\services\\advertising\\networkclients\\ironsourceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\core\\scripts\\manager\\pvp\\pvpservertestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\core\\scripts\\manager\\pvp\\pvpservertestmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -117,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\thirdparty\\corebase\\utilities\\services\\firebase\\rfirebaseanalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdparty\\corebase\\utilities\\services\\firebase\\rfirebaseanalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\thirdparty\\corebase\\utilities\\services\\gamepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\thirdparty\\corebase\\utilities\\services\\gamepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\core\\scripts\\manager\\data\\mission\\missionsgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,8 +186,16 @@
       "RelativeMoniker": "D:0:0:{4CEDF410-3454-0B7D-7D77-D4A4FDC75E39}|UnityEngine.UI.csproj|solutionrelative:Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\admin\\desktop\\idle_defense\\idlewar_defense\\assets\\services\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\services\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\AdsManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\AdsManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\assets\\services\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3321858C-3A94-C5B3-ADE6-267AF3F61A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\services\\adsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\IronSourceClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\IronSourceClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -193,7 +205,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -209,7 +221,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "PaymentHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\PaymentHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\PaymentHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\PaymentHelper.cs",
+              "RelativeToolTip": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\PaymentHelper.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAgwHUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:00:57.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PremiumPackageView.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\StorePanel\\PremiumPackageView.cs",
+              "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\StorePanel\\PremiumPackageView.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\StorePanel\\PremiumPackageView.cs",
+              "RelativeToolTip": "Assets\\Core\\Scripts\\UI\\StorePanel\\PremiumPackageView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T06:54:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AssetsCollection.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\ScriptableObject\\AssetsCollection.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\ScriptableObject\\AssetsCollection.cs",
@@ -221,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ViewSwitcher.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Library\\PackageCache\\com.unity.collab-proxy\\Editor\\ViewSwitcher.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy\\Editor\\ViewSwitcher.cs",
@@ -233,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "InfoUserPopup.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\Popups\\InfoUserPopup.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\Popups\\InfoUserPopup.cs",
@@ -245,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "PvPSignup.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\PvPPanel\\Home\\PvPSignup.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\PvPPanel\\Home\\PvPSignup.cs",
@@ -257,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\Data\\Model\\UserModel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\Data\\Model\\UserModel.cs",
@@ -269,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "RFirebaseManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Firebase\\RFirebaseManager.cs",
               "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Firebase\\RFirebaseManager.cs",
@@ -281,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "SplashScene.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\Scene\\SplashScene.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\Scene\\SplashScene.cs",
@@ -293,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "GameRESTController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Ulti\\HttpScripts\\GameRESTController.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Ulti\\HttpScripts\\GameRESTController.cs",
@@ -305,19 +343,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "SettingPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\SettingPanel\\SettingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\SettingPanel\\SettingPanel.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\SettingPanel\\SettingPanel.cs",
               "RelativeToolTip": "Assets\\Core\\Scripts\\UI\\SettingPanel\\SettingPanel.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAADgv8AAAAAGAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwD0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T14:43:08.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "LoginPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\PvPPanel\\LoginPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\PvPPanel\\LoginPanel.cs",
@@ -329,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AdsHelper.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\AdsHelper.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\AdsHelper.cs",
@@ -342,6 +380,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GamePayment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GamePayment.cs",
+              "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GamePayment.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GamePayment.cs",
+              "RelativeToolTip": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GamePayment.cs",
+              "ViewState": "AQIAADYDAAAAAAAAAAAEwEcDAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:23:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpineAtlasAsset.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\Spine\\Runtime\\spine-unity\\Asset Types\\SpineAtlasAsset.cs",
+              "RelativeDocumentMoniker": "Assets\\ThirdParty\\Spine\\Runtime\\spine-unity\\Asset Types\\SpineAtlasAsset.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\Spine\\Runtime\\spine-unity\\Asset Types\\SpineAtlasAsset.cs",
+              "RelativeToolTip": "Assets\\ThirdParty\\Spine\\Runtime\\spine-unity\\Asset Types\\SpineAtlasAsset.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAABRwN0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:44:56.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "AdsManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\AdsManager.cs",
               "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\AdsManager.cs",
@@ -349,12 +413,11 @@
               "RelativeToolTip": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\AdsManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:37:24.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T08:37:24.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "AdsManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Services\\AdsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Services\\AdsManager.cs",
@@ -366,20 +429,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AdMobClient.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\AdMobClient.cs",
               "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\AdMobClient.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\AdMobClient.cs",
               "RelativeToolTip": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\AdMobClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQBAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T08:45:18.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T08:45:18.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "JsonHelper.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Common\\Extensions And Helper\\JsonHelper.cs",
               "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Common\\Extensions And Helper\\JsonHelper.cs",
@@ -391,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DailyGiftPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\DailyQuestPanel\\DailyGiftPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\DailyQuestPanel\\DailyGiftPanel.cs",
@@ -403,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Config\\Config.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Config\\Config.cs",
@@ -415,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "GraphicRaycaster.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\GraphicRaycaster.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\GraphicRaycaster.cs",
@@ -427,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "MainMenuPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\MainMenuPanel\\MainMenuPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\MainMenuPanel\\MainMenuPanel.cs",
@@ -439,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "FBManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\FBManager.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\FBManager.cs",
@@ -451,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "IntroPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\IntroPanel\\IntroPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\IntroPanel\\IntroPanel.cs",
@@ -463,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "SystemPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\SystemPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\SystemPanel.cs",
@@ -475,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "UserGroup.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\Data\\User\\UserGroup.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\Data\\User\\UserGroup.cs",
@@ -487,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\GameData.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\GameData.cs",
@@ -499,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "MissionButton.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\MapPanel\\MissionButton.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\MapPanel\\MissionButton.cs",
@@ -511,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "AndroidManifest.xml",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Plugins\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Android\\AndroidManifest.xml",
@@ -523,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "RFirebaseAnalytics.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Firebase\\RFirebaseAnalytics.cs",
               "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Firebase\\RFirebaseAnalytics.cs",
@@ -535,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 48,
               "Title": "IronSourceClient.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\IronSourceClient.cs",
               "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\Advertising\\NetworkClients\\IronSourceClient.cs",
@@ -547,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "StorePanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\StorePanel\\StorePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\StorePanel\\StorePanel.cs",
@@ -559,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "PvPServerTestManager.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\PvP\\PvPServerTestManager.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\PvP\\PvPServerTestManager.cs",
@@ -571,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "MainPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\MainPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\MainPanel.cs",
@@ -583,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "WinPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\GamePanel\\WinPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\GamePanel\\WinPanel.cs",
@@ -595,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "MissionDetailPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\MissionDetailPanel\\MissionDetailPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\MissionDetailPanel\\MissionDetailPanel.cs",
@@ -607,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "GameUnityData.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\ScriptableObject\\GameUnityData.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\ScriptableObject\\GameUnityData.cs",
@@ -619,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "LoadingPanel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\UI\\Utitlites\\LoadingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\UI\\Utitlites\\LoadingPanel.cs",
@@ -631,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Constants.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Config\\Constants.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Config\\Constants.cs",
@@ -643,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "MissionsGroup.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Manager\\Data\\Mission\\MissionsGroup.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Manager\\Data\\Mission\\MissionsGroup.cs",
@@ -655,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "BRT_UnityBuildSettingsUtility.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\BuildReport\\Scripts\\Editor\\ReportGeneration\\BRT_UnityBuildSettingsUtility.cs",
               "RelativeDocumentMoniker": "Assets\\BuildReport\\Scripts\\Editor\\ReportGeneration\\BRT_UnityBuildSettingsUtility.cs",
@@ -667,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "FBWindowsGraphAPIManager.cs",
               "DocumentMoniker": "D:\\_OS\\Idle_Defense\\IdleWar_Defense\\Assets\\FacebookSDK\\Examples\\Windows\\FBWindowsGraphAPIManager.cs",
               "ToolTip": "D:\\_OS\\Idle_Defense\\IdleWar_Defense\\Assets\\FacebookSDK\\Examples\\Windows\\FBWindowsGraphAPIManager.cs",
@@ -677,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "LevelDesignToolNew.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Tool\\LevelDesign\\LevelDesignToolNew.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Tool\\LevelDesign\\LevelDesignToolNew.cs",
@@ -689,19 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "GamePayment.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GamePayment.cs",
-              "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GamePayment.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GamePayment.cs",
-              "RelativeToolTip": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GamePayment.cs",
-              "ViewState": "AQIAAAoBAAAAAAAAAAAlwCABAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T03:23:55.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "GameServices.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GameServices\\GameServices.cs",
               "RelativeDocumentMoniker": "Assets\\ThirdParty\\CoreBase\\Utilities\\Services\\GameServices\\GameServices.cs",
@@ -713,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "IntroDesignTool.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Tool\\LevelDesign\\IntroDesignTool.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Tool\\LevelDesign\\IntroDesignTool.cs",
@@ -725,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "DiscoveryDesignTool.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Tool\\LevelDesign\\DiscoveryDesignTool.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Tool\\LevelDesign\\DiscoveryDesignTool.cs",
@@ -737,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "LevelDesignTool.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Assets\\Core\\Scripts\\Tool\\LevelDesign\\LevelDesignTool.cs",
               "RelativeDocumentMoniker": "Assets\\Core\\Scripts\\Tool\\LevelDesign\\LevelDesignTool.cs",
@@ -749,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Dropdown.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Idle_Defense\\IdleWar_Defense\\Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Dropdown.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Runtime\\UGUI\\UI\\Core\\Dropdown.cs",

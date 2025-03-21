@@ -62,7 +62,7 @@ namespace Spine.Unity {
 
 		/// <summary>Update mode to optionally limit updates to e.g. only apply animations but not update the mesh.</summary>
 		public UpdateMode UpdateMode { get { return updateMode; } set { updateMode = value; } }
-		[SerializeField] protected UpdateMode updateMode = UpdateMode.FullUpdate;
+		protected UpdateMode updateMode = UpdateMode.FullUpdate;
 
 		/// <summary>Update mode used when the MeshRenderer becomes invisible
 		/// (when <c>OnBecameInvisible()</c> is called). Update mode is automatically
@@ -72,6 +72,8 @@ namespace Spine.Unity {
 		public bool unscaledTime;
 		public bool allowMultipleCanvasRenderers = false;
 		public List<CanvasRenderer> canvasRenderers = new List<CanvasRenderer>();
+		protected List<RawImage> rawImages = new List<RawImage>();
+		protected int usedRenderersCount = 0;
 
 		// Submesh Separation
 		public const string SeparatorPartGameObjectName = "Part";
@@ -200,6 +202,9 @@ namespace Spine.Unity {
 		protected override void Awake () {
 
 			base.Awake ();
+			this.onCullStateChanged.AddListener(OnCullStateChanged);
+
+			SyncRawImagesWithCanvasRenderers();
 			if (!this.IsValid) {
 #if UNITY_EDITOR
 				// workaround for special import case of open scene where OnValidate and Awake are
@@ -214,10 +219,15 @@ namespace Spine.Unity {
 			}
 		}
 
+		protected override void OnDestroy () {
+			Clear();
+			base.OnDestroy();
+		}
+
 		public override void Rebuild (CanvasUpdate update) {
 			base.Rebuild(update);
 			if (canvasRenderer.cull) return;
-			if (update == CanvasUpdate.PreRender) UpdateMesh();
+			if (update == CanvasUpdate.PreRender) UpdateMesh(keepRendererCount : true);
 			if (allowMultipleCanvasRenderers) canvasRenderer.Clear();
 		}
 
@@ -253,6 +263,19 @@ namespace Spine.Unity {
 			ApplyAnimation();
 		}
 
+		protected void SyncRawImagesWithCanvasRenderers () {
+			rawImages.Clear();
+			foreach (var canvasRenderer in canvasRenderers) {
+				var rawImage = canvasRenderer.GetComponent<RawImage>();
+				if (rawImage == null) {
+					rawImage = canvasRenderer.gameObject.AddComponent<RawImage>();
+					rawImage.maskable = this.maskable;
+					rawImage.raycastTarget = false;
+				}
+				rawImages.Add(rawImage);
+			}
+		}
+
 		protected void UpdateAnimationStatus (float deltaTime) {
 			deltaTime *= timeScale;
 			skeleton.Update(deltaTime);
@@ -263,7 +286,10 @@ namespace Spine.Unity {
 			if (BeforeApply != null)
 				BeforeApply(this);
 
+			if (updateMode != UpdateMode.OnlyEventTimelines)
 			state.Apply(skeleton);
+			else
+				state.ApplyEventTimelinesOnly(skeleton);
 
 			if (UpdateLocal != null)
 				UpdateLocal(this);
@@ -283,9 +309,16 @@ namespace Spine.Unity {
 			// instantiation can happen from Update() after this component, leading to a missing Update() call.
 			if (!wasUpdatedAfterInit) Update(0);
 			if (freeze) return;
-			if (updateMode <= UpdateMode.EverythingExceptMesh) return;
+			if (updateMode != UpdateMode.FullUpdate) return;
 
 			UpdateMesh();
+		}
+
+		protected void OnCullStateChanged (bool culled) {
+			if (culled)
+				OnBecameInvisible();
+			else
+				OnBecameVisible();
 		}
 
 		public void OnBecameVisible () {
@@ -322,7 +355,15 @@ namespace Spine.Unity {
 
 		#region API
 		protected Skeleton skeleton;
-		public Skeleton Skeleton { get { return skeleton; } set { skeleton = value; } }
+		public Skeleton Skeleton {
+			get {
+				Initialize(false);
+				return skeleton;
+			}
+			set {
+				skeleton = value;
+			}
+		}
 		public SkeletonData SkeletonData { get { return skeleton == null ? null : skeleton.data; } }
 		public bool IsValid { get { return skeleton != null; } }
 
@@ -336,7 +377,12 @@ namespace Spine.Unity {
 		public event SkeletonRendererDelegate OnMeshAndMaterialsUpdated;
 
 		protected Spine.AnimationState state;
-		public Spine.AnimationState AnimationState { get { return state; } }
+		public Spine.AnimationState AnimationState {
+			get {
+				Initialize(false);
+				return state;
+			}
+		}
 
 		[SerializeField] protected Spine.Unity.MeshGenerator meshGenerator = new MeshGenerator();
 		public Spine.Unity.MeshGenerator MeshGenerator { get { return this.meshGenerator; } }
@@ -430,9 +476,8 @@ namespace Spine.Unity {
 
 			for (int i = 0; i < canvasRenderers.Count; ++i)
 				canvasRenderers[i].Clear();
-			foreach (var mesh in meshes)
-				Destroy(mesh);
-			meshes.Clear();
+			DestroyMeshes();
+			DisposeMeshBuffers();
 		}
 
 		public void TrimRenderers () {
@@ -449,12 +494,12 @@ namespace Spine.Unity {
 				}
 			}
 			canvasRenderers = newList;
+			SyncRawImagesWithCanvasRenderers();
 		}
 
 		public void Initialize (bool overwrite) {
 			if (this.IsValid && !overwrite) return;
 
-			// Make sure none of the stuff is null
 			if (this.skeletonDataAsset == null) return;
 			var skeletonData = this.skeletonDataAsset.GetSkeletonData(false);
 			if (skeletonData == null) return;
@@ -500,7 +545,7 @@ namespace Spine.Unity {
 				OnRebuild(this);
 		}
 
-		public void UpdateMesh () {
+		public void UpdateMesh (bool keepRendererCount = false) {
 			if (!this.IsValid) return;
 
 			skeleton.SetColor(this.color);
@@ -510,7 +555,7 @@ namespace Spine.Unity {
 				UpdateMeshSingleCanvasRenderer();
 			}
 			else {
-				UpdateMeshMultipleCanvasRenderers(currentInstructions);
+				UpdateMeshMultipleCanvasRenderers(currentInstructions, keepRendererCount);
 			}
 
 			if (OnMeshAndMaterialsUpdated != null)
@@ -531,6 +576,14 @@ namespace Spine.Unity {
 			}
 			else {
 				meshBuffers = new DoubleBuffered<MeshRendererBuffers.SmartMesh>();
+			}
+		}
+
+		protected void DisposeMeshBuffers () {
+			if (meshBuffers != null) {
+				meshBuffers.GetNext().Dispose();
+				meshBuffers.GetNext().Dispose();
+				meshBuffers = null;
 			}
 		}
 
@@ -571,15 +624,18 @@ namespace Spine.Unity {
 			}
 
 			//this.UpdateMaterial(); // note: This would allocate memory.
+			usedRenderersCount = 0;
 		}
 
-		protected void UpdateMeshMultipleCanvasRenderers (SkeletonRendererInstruction currentInstructions) {
+		protected void UpdateMeshMultipleCanvasRenderers (SkeletonRendererInstruction currentInstructions, bool keepRendererCount) {
 			MeshGenerator.GenerateSkeletonRendererInstruction(currentInstructions, skeleton, null,
 				enableSeparatorSlots ? separatorSlots : null,
 				enableSeparatorSlots ? separatorSlots.Count > 0 : false,
 				false);
 
 			int submeshCount = currentInstructions.submeshInstructions.Count;
+			if (keepRendererCount && submeshCount != usedRenderersCount)
+				return;
 			EnsureCanvasRendererCount(submeshCount);
 			EnsureMeshesCount(submeshCount);
 			EnsureSeparatorPartCount();
@@ -615,7 +671,9 @@ namespace Spine.Unity {
 
 				var submeshMaterial = submeshInstructionItem.material;
 				var canvasRenderer = canvasRenderers[i];
-				canvasRenderer.gameObject.SetActive(true);
+				if (i >= usedRenderersCount)
+					canvasRenderer.gameObject.SetActive(true);
+
 				canvasRenderer.SetMesh(targetMesh);
 				canvasRenderer.materialCount = 1;
 
@@ -644,6 +702,7 @@ namespace Spine.Unity {
 			}
 
 			DisableUnusedCanvasRenderers(usedCount : submeshCount);
+			usedRenderersCount = submeshCount;
 		}
 
 		protected void EnsureCanvasRendererCount (int targetCount) {
@@ -657,6 +716,10 @@ namespace Spine.Unity {
 				go.transform.localPosition = Vector3.zero;
 				var canvasRenderer = go.AddComponent<CanvasRenderer>();
 				canvasRenderers.Add(canvasRenderer);
+				var rawImage = go.AddComponent<RawImage>();
+				rawImage.maskable = this.maskable;
+				rawImage.raycastTarget = false;
+				rawImages.Add(rawImage);
 			}
 		}
 
@@ -685,9 +748,22 @@ namespace Spine.Unity {
 		protected void EnsureMeshesCount (int targetCount) {
 			int oldCount = meshes.Count;
 			meshes.EnsureCapacity(targetCount);
-			var meshesItems = meshes.Items;
 			for (int i = oldCount; i < targetCount; i++)
-				if (meshesItems[i] == null) meshesItems[i] = new Mesh();
+				meshes.Add(SpineMesh.NewSkeletonMesh());
+		}
+
+		protected void DestroyMeshes () {
+			foreach (var mesh in meshes) {
+#if UNITY_EDITOR
+				if (Application.isEditor && !Application.isPlaying)
+					UnityEngine.Object.DestroyImmediate(mesh);
+				else
+					UnityEngine.Object.Destroy(mesh);
+#else
+					UnityEngine.Object.Destroy(mesh);
+#endif
+			}
+			meshes.Clear();
 		}
 
 		protected void EnsureSeparatorPartCount () {

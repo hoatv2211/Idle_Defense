@@ -57,3 +57,5 @@ Thumbs.db
 **/.vsidx
 *.csproj
 *.vsidx
+/BuildAPK
+/IdleWar_Defense/Recordings
